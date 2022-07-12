@@ -13,7 +13,7 @@ runs:
         fi
       shell: bash
     - name: 'Release: Push release to repository'
-      run: git push --follow-tags origin master
+      run: git push --follow-tags origin main
       shell: bash
     - name: 'Release: Determine npm tag'
       id: npm_tag
