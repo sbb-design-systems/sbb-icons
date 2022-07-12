@@ -1,0 +1,40 @@
+name: Release
+
+on:
+  repository_dispatch:
+    types: [LIBRARY_PUBLISH]
+
+jobs:
+  release:  
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          registry-url: 'https://registry.npmjs.org'
+          scope: sbb-esta
+      - name: Yarn Install
+        uses: ./.github/actions/yarn-install
+
+      - name: 'Release: Set git user'
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+
+      - name: Extract icons
+        run: yarn extract
+        env:
+          FIGMA_FILE_ID: ${{ secrets.FIGMA_FILE_ID }}
+          FIGMA_TOKEN: ${{ secrets.FIGMA_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git add --all
+          git commit -m "$MESSAGE"
+        env:
+          MESSAGE: ${{ github.event.client_payload.description }}
+
+      - name: Release
+        uses: ./.github/actions/release

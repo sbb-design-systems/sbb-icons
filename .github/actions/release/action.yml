@@ -1,0 +1,48 @@
+name: 'Create release'
+description: 'Creates a release, publishes the package and pushes icons to S3'
+
+runs:
+  using: 'composite'
+  steps:
+    - name: 'Release: Create release with standard-version'
+      run: |
+        if [ -f CHANGELOG.md ]; then
+          yarn standard-version
+        else
+          yarn standard-version --first-release
+        fi
+      shell: bash
+    - name: 'Release: Push release to repository'
+      run: git push --follow-tags origin master
+      shell: bash
+    - name: 'Release: Determine npm tag'
+      id: npm_tag
+      run: |
+        if [[ "$REF" == *"-"* ]]
+        then
+            echo "::set-output name=npm_tag::next"
+        else
+            echo "::set-output name=npm_tag::latest"
+        fi
+      env:
+        REF: ${{ github.ref }}
+      shell: bash
+    - name: 'Release: Publish @sbb-esta/icons'
+      run: yarn publish --tag ${{ steps.npm_tag.outputs.npm_tag }}
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      shell: bash
+      
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.ICON_CDN_AWS_ACCESS_ID }}
+        aws-secret-access-key: ${{ secrets.ICON_CDN_AWS_ACCESS_KEY }}
+        aws-region: ${{ env.AWS_REGION }}
+      env:
+        AWS_REGION: eu-central-1
+    - name: Upload icons and indexes to s3
+      run: aws s3 cp . s3://${{ env.S3BUCKET }} --recursive --exclude "node_modules/*" --include "*.svg" --include index.json
+      env:
+        S3BUCKET: cloudfront-icon-cdn-backend-esta-web-prod
+      shell: bash

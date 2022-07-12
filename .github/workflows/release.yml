@@ -1,0 +1,31 @@
+name: Release
+on:
+  push:
+    branches: [master]
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    if: >
+      github.event.workflow_run.event == 'push' &&
+      github.event.workflow_run.conclusion == 'success' &&
+      (
+        startsWith(github.event.workflow_run.head_commit.message, 'feat') ||
+        startsWith(github.event.workflow_run.head_commit.message, 'fix') ||
+        startsWith(github.event.workflow_run.head_commit.message, 'refactor')
+      )
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          registry-url: 'https://registry.npmjs.org'
+          scope: sbb-esta
+      - name: Yarn Install
+        uses: ./.github/actions/yarn-install
+      - name: 'Release: Set git user'
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+      - name: Release
+        uses: ./.github/actions/release
