@@ -19,8 +19,6 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          registry-url: 'https://registry.npmjs.org'
-          scope: sbb-esta
       - name: Yarn Install
         uses: ./.github/actions/yarn-install
       - name: 'Release: Set git user'
