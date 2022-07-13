@@ -11,7 +11,8 @@ jobs:
       (
         startsWith(github.event.head_commit.message, 'feat') ||
         startsWith(github.event.head_commit.message, 'fix') ||
-        startsWith(github.event.head_commit.message, 'refactor')
+        startsWith(github.event.head_commit.message, 'refactor') ||
+        contains(github.event.head_commit.message, '!release')
       )
     steps:
       - uses: actions/checkout@v3
@@ -28,3 +29,7 @@ jobs:
           git config --global user.email 'github-actions@github.com'
       - name: Release
         uses: ./.github/actions/release
+        with:
+          npm-token: ${{ secrets.NPM_TOKEN }}
+          aws-access-key-id: ${{ secrets.ICON_CDN_AWS_ACCESS_ID }}
+          aws-secret-access-key: ${{ secrets.ICON_CDN_AWS_ACCESS_KEY }}

@@ -1,5 +1,15 @@
 name: 'Create release'
 description: 'Creates a release, publishes the package and pushes icons to S3'
+inputs:
+  npm-token:
+    description: 'Npm token to publish package'
+    required: true
+  aws-access-key-id:
+    description: 'AWS access key id'
+    required: true
+  aws-secret-access-key:
+    description: 'AWS access key secret'
+    required: true
 
 runs:
   using: 'composite'
@@ -30,17 +40,15 @@ runs:
     - name: 'Release: Publish @sbb-esta/icons'
       run: yarn publish --tag ${{ steps.npm_tag.outputs.npm_tag }}
       env:
-        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        NODE_AUTH_TOKEN: ${{ inputs.key }}
       shell: bash
       
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
-        aws-access-key-id: ${{ secrets.ICON_CDN_AWS_ACCESS_ID }}
-        aws-secret-access-key: ${{ secrets.ICON_CDN_AWS_ACCESS_KEY }}
-        aws-region: ${{ env.AWS_REGION }}
-      env:
-        AWS_REGION: eu-central-1
+        aws-access-key-id: ${{ inputs.aws-access-key-id }}
+        aws-secret-access-key: ${{ inputs.aws-secret-access-key }}
+        aws-region: eu-central-1
     - name: Upload icons and indexes to s3
       run: aws s3 cp . s3://${{ env.S3BUCKET }} --recursive --exclude "node_modules/*" --include "*.svg" --include index.json
       env:

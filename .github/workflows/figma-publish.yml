@@ -1,8 +1,7 @@
-name: Release
-
+name: Figma Publish
 on:
   repository_dispatch:
-    types: [LIBRARY_PUBLISH]
+    types: [library_publish]
 
 jobs:
   release:  
@@ -38,3 +37,7 @@ jobs:
 
       - name: Release
         uses: ./.github/actions/release
+        with:
+          npm-token: ${{ secrets.NPM_TOKEN }}
+          aws-access-key-id: ${{ secrets.ICON_CDN_AWS_ACCESS_ID }}
+          aws-secret-access-key: ${{ secrets.ICON_CDN_AWS_ACCESS_KEY }}
