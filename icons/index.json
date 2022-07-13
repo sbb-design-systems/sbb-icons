@@ -1,0 +1,9253 @@
+{
+  "version": "0.1.3",
+  "icons": [
+    {
+      "name": "aerosol-can-small",
+      "tags": [
+        "aerosol-can",
+        "graffiti"
+      ]
+    },
+    {
+      "name": "aerosol-can-medium",
+      "tags": [
+        "aerosol-can",
+        "graffiti"
+      ]
+    },
+    {
+      "name": "alarm-clock-small",
+      "tags": [
+        "alarm",
+        "clock"
+      ]
+    },
+    {
+      "name": "alarm-clock-medium",
+      "tags": [
+        "alarm",
+        "clock"
+      ]
+    },
+    {
+      "name": "app-icon-small",
+      "tags": [
+        "sbb",
+        "app"
+      ]
+    },
+    {
+      "name": "app-icon-medium",
+      "tags": [
+        "sbb",
+        "app"
+      ]
+    },
+    {
+      "name": "app-icon-large",
+      "tags": [
+        "sbb",
+        "app"
+      ]
+    },
+    {
+      "name": "apple-bag-small",
+      "tags": [
+        "apple",
+        "bag",
+        "food"
+      ]
+    },
+    {
+      "name": "apple-bag-medium",
+      "tags": [
+        "apple",
+        "bag",
+        "food"
+      ]
+    },
+    {
+      "name": "armchair-small",
+      "tags": [
+        "armchair",
+        "comfort"
+      ]
+    },
+    {
+      "name": "armchair-medium",
+      "tags": [
+        "armchair",
+        "comfort"
+      ]
+    },
+    {
+      "name": "armchair-large",
+      "tags": [
+        "armchair",
+        "comfort"
+      ]
+    },
+    {
+      "name": "armchair-profile-user-small",
+      "tags": [
+        "sofa",
+        "couch",
+        "confort"
+      ]
+    },
+    {
+      "name": "armchair-profile-user-medium",
+      "tags": [
+        "sofa",
+        "couch",
+        "confort"
+      ]
+    },
+    {
+      "name": "armchair-profile-user-large",
+      "tags": [
+        "sofa",
+        "couch",
+        "confort"
+      ]
+    },
+    {
+      "name": "backpack-small",
+      "tags": [
+        "backpack"
+      ]
+    },
+    {
+      "name": "backpack-medium",
+      "tags": [
+        "backpack"
+      ]
+    },
+    {
+      "name": "backpack-large",
+      "tags": [
+        "backpack"
+      ]
+    },
+    {
+      "name": "banknotes-dollar-small",
+      "tags": [
+        "banknotes",
+        "dollar"
+      ]
+    },
+    {
+      "name": "banknotes-dollar-medium",
+      "tags": [
+        "banknotes",
+        "dollar"
+      ]
+    },
+    {
+      "name": "battery-level-empty-small",
+      "tags": [
+        "battery",
+        "empty",
+        "level"
+      ]
+    },
+    {
+      "name": "battery-level-empty-medium",
+      "tags": [
+        "battery",
+        "empty",
+        "level"
+      ]
+    },
+    {
+      "name": "battery-level-high-small",
+      "tags": [
+        "battery",
+        "nearly",
+        "full",
+        "level"
+      ]
+    },
+    {
+      "name": "battery-level-high-medium",
+      "tags": [
+        "battery",
+        "nearly",
+        "full",
+        "level"
+      ]
+    },
+    {
+      "name": "battery-level-low-small",
+      "tags": [
+        "battery",
+        "low",
+        "empty",
+        "level"
+      ]
+    },
+    {
+      "name": "battery-level-low-medium",
+      "tags": [
+        "battery",
+        "low",
+        "empty",
+        "level"
+      ]
+    },
+    {
+      "name": "battery-level-medium-small",
+      "tags": [
+        "battery",
+        "medium",
+        "level"
+      ]
+    },
+    {
+      "name": "battery-level-medium-medium",
+      "tags": [
+        "battery",
+        "medium",
+        "level"
+      ]
+    },
+    {
+      "name": "bell-small",
+      "tags": [
+        "notification"
+      ]
+    },
+    {
+      "name": "bell-medium",
+      "tags": [
+        "notification"
+      ]
+    },
+    {
+      "name": "bell-disabled-small",
+      "tags": [
+        "notification",
+        "disabled"
+      ]
+    },
+    {
+      "name": "bell-disabled-medium",
+      "tags": [
+        "notification",
+        "disabled"
+      ]
+    },
+    {
+      "name": "binoculars-small",
+      "tags": [
+        "glasses",
+        "binoculars"
+      ]
+    },
+    {
+      "name": "binoculars-medium",
+      "tags": [
+        "glasses",
+        "binoculars"
+      ]
+    },
+    {
+      "name": "binoculars-large",
+      "tags": [
+        "glasses",
+        "binoculars"
+      ]
+    },
+    {
+      "name": "bluetooth-small",
+      "tags": [
+        "bluetooth"
+      ]
+    },
+    {
+      "name": "bluetooth-medium",
+      "tags": [
+        "bluetooth"
+      ]
+    },
+    {
+      "name": "bluetooth-large",
+      "tags": [
+        "bluetooth"
+      ]
+    },
+    {
+      "name": "bluetooth-disabled-small",
+      "tags": [
+        "bluetooth",
+        "disabled"
+      ]
+    },
+    {
+      "name": "bluetooth-disabled-medium",
+      "tags": [
+        "bluetooth",
+        "disabled"
+      ]
+    },
+    {
+      "name": "bluetooth-disabled-large",
+      "tags": [
+        "bluetooth",
+        "disabled"
+      ]
+    },
+    {
+      "name": "browser-small",
+      "tags": [
+        "browser"
+      ]
+    },
+    {
+      "name": "browser-medium",
+      "tags": [
+        "browser"
+      ]
+    },
+    {
+      "name": "bucket-foam-broom-small",
+      "tags": [
+        "broom",
+        "clean"
+      ]
+    },
+    {
+      "name": "bucket-foam-broom-medium",
+      "tags": [
+        "broom",
+        "clean"
+      ]
+    },
+    {
+      "name": "calendar-small",
+      "tags": [
+        "calendar",
+        "sale",
+        "date"
+      ]
+    },
+    {
+      "name": "calendar-medium",
+      "tags": [
+        "calendar",
+        "sale",
+        "date"
+      ]
+    },
+    {
+      "name": "calendar-large",
+      "tags": [
+        "calendar",
+        "sale",
+        "date"
+      ]
+    },
+    {
+      "name": "calendar-one-day-small",
+      "tags": [
+        "calendar",
+        "date"
+      ]
+    },
+    {
+      "name": "calendar-one-day-medium",
+      "tags": [
+        "calendar",
+        "date"
+      ]
+    },
+    {
+      "name": "calendar-one-day-large",
+      "tags": [
+        "calendar",
+        "date"
+      ]
+    },
+    {
+      "name": "camera-small",
+      "tags": [
+        "camera"
+      ]
+    },
+    {
+      "name": "camera-medium",
+      "tags": [
+        "camera"
+      ]
+    },
+    {
+      "name": "certificate-ribbon-small",
+      "tags": [
+        "guarantee",
+        "match"
+      ]
+    },
+    {
+      "name": "certificate-ribbon-medium",
+      "tags": [
+        "guarantee",
+        "match"
+      ]
+    },
+    {
+      "name": "certificate-ribbon-large",
+      "tags": [
+        "guarantee",
+        "match"
+      ]
+    },
+    {
+      "name": "chart-column-small",
+      "tags": [
+        "chart",
+        "column"
+      ]
+    },
+    {
+      "name": "chart-column-medium",
+      "tags": [
+        "chart",
+        "column"
+      ]
+    },
+    {
+      "name": "chart-column-large",
+      "tags": [
+        "chart",
+        "column"
+      ]
+    },
+    {
+      "name": "chart-column-trend-small",
+      "tags": [
+        "chart",
+        "column",
+        "trend"
+      ]
+    },
+    {
+      "name": "chart-column-trend-medium",
+      "tags": [
+        "chart",
+        "column",
+        "trend"
+      ]
+    },
+    {
+      "name": "chart-column-trend-large",
+      "tags": [
+        "chart",
+        "column",
+        "trend"
+      ]
+    },
+    {
+      "name": "chart-line-small",
+      "tags": [
+        "statistics"
+      ]
+    },
+    {
+      "name": "chart-line-medium",
+      "tags": [
+        "statistics"
+      ]
+    },
+    {
+      "name": "chart-pie-small",
+      "tags": [
+        "market",
+        "share"
+      ]
+    },
+    {
+      "name": "chart-pie-medium",
+      "tags": [
+        "market",
+        "share"
+      ]
+    },
+    {
+      "name": "cigarette-small",
+      "tags": [
+        "cigarette",
+        "smoke",
+        "smoking"
+      ]
+    },
+    {
+      "name": "cigarette-medium",
+      "tags": [
+        "cigarette",
+        "smoke",
+        "smoking"
+      ]
+    },
+    {
+      "name": "cigarette-large",
+      "tags": [
+        "cigarette",
+        "smoke",
+        "smoking"
+      ]
+    },
+    {
+      "name": "cigarette-disabled-small",
+      "tags": [
+        "cigarette",
+        "smoke",
+        "smoking",
+        "disabled",
+        "forbidden"
+      ]
+    },
+    {
+      "name": "cigarette-disabled-medium",
+      "tags": [
+        "cigarette",
+        "smoke",
+        "smoking",
+        "disabled",
+        "forbidden"
+      ]
+    },
+    {
+      "name": "cigarette-disabled-large",
+      "tags": [
+        "cigarette",
+        "smoke",
+        "smoking",
+        "disabled",
+        "forbidden"
+      ]
+    },
+    {
+      "name": "circle-information-small",
+      "tags": [
+        "information"
+      ]
+    },
+    {
+      "name": "circle-information-medium",
+      "tags": [
+        "information"
+      ]
+    },
+    {
+      "name": "circle-information-large",
+      "tags": [
+        "information"
+      ]
+    },
+    {
+      "name": "circle-information-small-small",
+      "tags": [
+        "information",
+        "small"
+      ]
+    },
+    {
+      "name": "circle-information-small-medium",
+      "tags": [
+        "information",
+        "small"
+      ]
+    },
+    {
+      "name": "circle-play-small",
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "name": "circle-play-medium",
+      "tags": [
+        "video"
+      ]
+    },
+    {
+      "name": "circle-question-mark-small",
+      "tags": [
+        "question",
+        "mark",
+        "help"
+      ]
+    },
+    {
+      "name": "circle-question-mark-medium",
+      "tags": [
+        "question",
+        "mark",
+        "help"
+      ]
+    },
+    {
+      "name": "circle-question-mark-large",
+      "tags": [
+        "question",
+        "mark",
+        "help"
+      ]
+    },
+    {
+      "name": "coin-dollar-small",
+      "tags": [
+        "coin",
+        "dollar"
+      ]
+    },
+    {
+      "name": "coin-dollar-medium",
+      "tags": [
+        "coin",
+        "dollar"
+      ]
+    },
+    {
+      "name": "coins-small",
+      "tags": [
+        "money",
+        "price"
+      ]
+    },
+    {
+      "name": "coins-medium",
+      "tags": [
+        "money",
+        "price"
+      ]
+    },
+    {
+      "name": "coins-large",
+      "tags": [
+        "money",
+        "price"
+      ]
+    },
+    {
+      "name": "colour-palette-brush-small",
+      "tags": [
+        "theme"
+      ]
+    },
+    {
+      "name": "colour-palette-brush-medium",
+      "tags": [
+        "theme"
+      ]
+    },
+    {
+      "name": "contact-small",
+      "tags": [
+        "contact"
+      ]
+    },
+    {
+      "name": "contact-medium",
+      "tags": [
+        "contact"
+      ]
+    },
+    {
+      "name": "controls-small",
+      "tags": [
+        "filter",
+        "regulator"
+      ]
+    },
+    {
+      "name": "controls-medium",
+      "tags": [
+        "filter",
+        "regulator"
+      ]
+    },
+    {
+      "name": "croissant-small",
+      "tags": [
+        "food",
+        "croissant",
+        "france"
+      ]
+    },
+    {
+      "name": "croissant-medium",
+      "tags": [
+        "food",
+        "croissant",
+        "france"
+      ]
+    },
+    {
+      "name": "croissant-large",
+      "tags": [
+        "food",
+        "croissant",
+        "france"
+      ]
+    },
+    {
+      "name": "cup-hot-small",
+      "tags": [
+        "cup",
+        "hot",
+        "coffee"
+      ]
+    },
+    {
+      "name": "cup-hot-medium",
+      "tags": [
+        "cup",
+        "hot",
+        "coffee"
+      ]
+    },
+    {
+      "name": "cutlery-small",
+      "tags": [
+        "restaurant"
+      ]
+    },
+    {
+      "name": "cutlery-medium",
+      "tags": [
+        "restaurant"
+      ]
+    },
+    {
+      "name": "cutlery-large",
+      "tags": [
+        "restaurant"
+      ]
+    },
+    {
+      "name": "database-small",
+      "tags": [
+        "database"
+      ]
+    },
+    {
+      "name": "database-medium",
+      "tags": [
+        "database"
+      ]
+    },
+    {
+      "name": "diamond-small",
+      "tags": [
+        "highlight"
+      ]
+    },
+    {
+      "name": "diamond-medium",
+      "tags": [
+        "highlight"
+      ]
+    },
+    {
+      "name": "diamond-large",
+      "tags": [
+        "highlight"
+      ]
+    },
+    {
+      "name": "dog-small",
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "name": "dog-medium",
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "name": "dog-large",
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "name": "download-small",
+      "tags": [
+        "download"
+      ]
+    },
+    {
+      "name": "download-medium",
+      "tags": [
+        "download"
+      ]
+    },
+    {
+      "name": "download-large",
+      "tags": [
+        "download"
+      ]
+    },
+    {
+      "name": "download-small-data-small",
+      "tags": [
+        "download",
+        "small",
+        "data"
+      ]
+    },
+    {
+      "name": "download-small-data-medium",
+      "tags": [
+        "download",
+        "small",
+        "data"
+      ]
+    },
+    {
+      "name": "download-large-data-small",
+      "tags": [
+        "download",
+        "large",
+        "data"
+      ]
+    },
+    {
+      "name": "download-large-data-medium",
+      "tags": [
+        "download",
+        "large",
+        "data"
+      ]
+    },
+    {
+      "name": "entrance-small",
+      "tags": [
+        "entrance"
+      ]
+    },
+    {
+      "name": "entrance-medium",
+      "tags": [
+        "entrance"
+      ]
+    },
+    {
+      "name": "envelope-small",
+      "tags": [
+        "e-mail",
+        "mail",
+        "contact"
+      ]
+    },
+    {
+      "name": "envelope-medium",
+      "tags": [
+        "e-mail",
+        "mail",
+        "contact"
+      ]
+    },
+    {
+      "name": "envelope-large",
+      "tags": [
+        "e-mail",
+        "mail",
+        "contact"
+      ]
+    },
+    {
+      "name": "envelope-open-small",
+      "tags": [
+        "email",
+        "open"
+      ]
+    },
+    {
+      "name": "envelope-open-medium",
+      "tags": [
+        "email",
+        "open"
+      ]
+    },
+    {
+      "name": "envelope-open-large",
+      "tags": [
+        "email",
+        "open"
+      ]
+    },
+    {
+      "name": "europe-flag-small",
+      "tags": [
+        "europe"
+      ]
+    },
+    {
+      "name": "europe-flag-medium",
+      "tags": [
+        "europe"
+      ]
+    },
+    {
+      "name": "europe-flag-large",
+      "tags": [
+        "europe"
+      ]
+    },
+    {
+      "name": "exit-small",
+      "tags": [
+        "exit"
+      ]
+    },
+    {
+      "name": "exit-medium",
+      "tags": [
+        "exit"
+      ]
+    },
+    {
+      "name": "face-king-small",
+      "tags": [
+        "customer",
+        "satisfaction"
+      ]
+    },
+    {
+      "name": "face-king-medium",
+      "tags": [
+        "customer",
+        "satisfaction"
+      ]
+    },
+    {
+      "name": "face-king-large",
+      "tags": [
+        "customer",
+        "satisfaction"
+      ]
+    },
+    {
+      "name": "face-worker-small",
+      "tags": [
+        "personal",
+        "satisfaction"
+      ]
+    },
+    {
+      "name": "face-worker-medium",
+      "tags": [
+        "personal",
+        "satisfaction"
+      ]
+    },
+    {
+      "name": "factory-small",
+      "tags": [
+        "factory",
+        "manufacturer"
+      ]
+    },
+    {
+      "name": "factory-medium",
+      "tags": [
+        "factory",
+        "manufacturer"
+      ]
+    },
+    {
+      "name": "factory-large",
+      "tags": [
+        "factory",
+        "manufacturer"
+      ]
+    },
+    {
+      "name": "filter-small",
+      "tags": [
+        "filter"
+      ]
+    },
+    {
+      "name": "filter-medium",
+      "tags": [
+        "filter"
+      ]
+    },
+    {
+      "name": "filter-x-small",
+      "tags": [
+        "clear",
+        "filters"
+      ]
+    },
+    {
+      "name": "filter-x-medium",
+      "tags": [
+        "clear",
+        "filters"
+      ]
+    },
+    {
+      "name": "fingerprint-small",
+      "tags": [
+        "finger",
+        "touch",
+        "id",
+        "identity"
+      ]
+    },
+    {
+      "name": "fingerprint-medium",
+      "tags": [
+        "finger",
+        "touch",
+        "id",
+        "identity"
+      ]
+    },
+    {
+      "name": "flashlight-off-small",
+      "tags": [
+        "flashlight",
+        "off"
+      ]
+    },
+    {
+      "name": "flashlight-off-medium",
+      "tags": [
+        "flashlight",
+        "off"
+      ]
+    },
+    {
+      "name": "flashlight-on-small",
+      "tags": [
+        "flashlight",
+        "on"
+      ]
+    },
+    {
+      "name": "flashlight-on-medium",
+      "tags": [
+        "flashlight",
+        "on"
+      ]
+    },
+    {
+      "name": "form-small",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "name": "form-medium",
+      "tags": [
+        "form"
+      ]
+    },
+    {
+      "name": "fullscreen-small",
+      "tags": [
+        "full",
+        "screen"
+      ]
+    },
+    {
+      "name": "fullscreen-medium",
+      "tags": [
+        "full",
+        "screen"
+      ]
+    },
+    {
+      "name": "gears-small",
+      "tags": [
+        "settings",
+        "gears"
+      ]
+    },
+    {
+      "name": "gears-medium",
+      "tags": [
+        "settings",
+        "gears"
+      ]
+    },
+    {
+      "name": "gift-small",
+      "tags": [
+        "gift"
+      ]
+    },
+    {
+      "name": "gift-medium",
+      "tags": [
+        "gift"
+      ]
+    },
+    {
+      "name": "gift-large",
+      "tags": [
+        "gift"
+      ]
+    },
+    {
+      "name": "glass-cocktail-small",
+      "tags": [
+        "gift"
+      ]
+    },
+    {
+      "name": "glass-cocktail-medium",
+      "tags": [
+        "gift"
+      ]
+    },
+    {
+      "name": "globe-small",
+      "tags": [
+        "website",
+        "international",
+        "traffic"
+      ]
+    },
+    {
+      "name": "globe-medium",
+      "tags": [
+        "website",
+        "international",
+        "traffic"
+      ]
+    },
+    {
+      "name": "globe-locomotive-small",
+      "tags": [
+        "travel",
+        "tourism"
+      ]
+    },
+    {
+      "name": "globe-locomotive-medium",
+      "tags": [
+        "travel",
+        "tourism"
+      ]
+    },
+    {
+      "name": "globe-locomotive-large",
+      "tags": [
+        "travel",
+        "tourism"
+      ]
+    },
+    {
+      "name": "gun-small",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "name": "gun-medium",
+      "tags": [
+        "weapon"
+      ]
+    },
+    {
+      "name": "hand-fingers-snap-small",
+      "tags": [
+        "snap",
+        "fingers",
+        "easy",
+        "simplicity"
+      ]
+    },
+    {
+      "name": "hand-fingers-snap-medium",
+      "tags": [
+        "snap",
+        "fingers",
+        "easy",
+        "simplicity"
+      ]
+    },
+    {
+      "name": "hand-fingers-snap-large",
+      "tags": [
+        "snap",
+        "fingers",
+        "easy",
+        "simplicity"
+      ]
+    },
+    {
+      "name": "hand-heart-small",
+      "tags": [
+        "carefree"
+      ]
+    },
+    {
+      "name": "hand-heart-medium",
+      "tags": [
+        "carefree"
+      ]
+    },
+    {
+      "name": "hand-heart-large",
+      "tags": [
+        "carefree"
+      ]
+    },
+    {
+      "name": "hand-with-service-bell-small",
+      "tags": [
+        "catering"
+      ]
+    },
+    {
+      "name": "hand-with-service-bell-medium",
+      "tags": [
+        "catering"
+      ]
+    },
+    {
+      "name": "heart-small",
+      "tags": [
+        "heart",
+        "like",
+        "wonderful"
+      ]
+    },
+    {
+      "name": "heart-medium",
+      "tags": [
+        "heart",
+        "like",
+        "wonderful"
+      ]
+    },
+    {
+      "name": "hierarchy-small",
+      "tags": [
+        "navigation"
+      ]
+    },
+    {
+      "name": "hierarchy-medium",
+      "tags": [
+        "navigation"
+      ]
+    },
+    {
+      "name": "lighthouse-small",
+      "tags": [
+        "lighthouse"
+      ]
+    },
+    {
+      "name": "lighthouse-medium",
+      "tags": [
+        "lighthouse"
+      ]
+    },
+    {
+      "name": "lips-hand-small",
+      "tags": [
+        "lips",
+        "hand",
+        "silent"
+      ]
+    },
+    {
+      "name": "lips-hand-medium",
+      "tags": [
+        "lips",
+        "hand",
+        "silent"
+      ]
+    },
+    {
+      "name": "lips-hand-large",
+      "tags": [
+        "lips",
+        "hand",
+        "silent"
+      ]
+    },
+    {
+      "name": "link-small",
+      "tags": [
+        "link"
+      ]
+    },
+    {
+      "name": "link-medium",
+      "tags": [
+        "link"
+      ]
+    },
+    {
+      "name": "link-external-small",
+      "tags": [
+        "external",
+        "link"
+      ]
+    },
+    {
+      "name": "link-external-medium",
+      "tags": [
+        "external",
+        "link"
+      ]
+    },
+    {
+      "name": "list-small",
+      "tags": [
+        "list"
+      ]
+    },
+    {
+      "name": "list-medium",
+      "tags": [
+        "list"
+      ]
+    },
+    {
+      "name": "low-vision-small",
+      "tags": [
+        "list"
+      ]
+    },
+    {
+      "name": "low-vision-medium",
+      "tags": [
+        "list"
+      ]
+    },
+    {
+      "name": "magnifying-glass-small",
+      "tags": [
+        "search",
+        "magnifying",
+        "glass"
+      ]
+    },
+    {
+      "name": "magnifying-glass-medium",
+      "tags": [
+        "search",
+        "magnifying",
+        "glass"
+      ]
+    },
+    {
+      "name": "magnifying-glass-large",
+      "tags": [
+        "search",
+        "magnifying",
+        "glass"
+      ]
+    },
+    {
+      "name": "magnifying-glass-minus-small",
+      "tags": [
+        "zoom",
+        "out"
+      ]
+    },
+    {
+      "name": "magnifying-glass-minus-medium",
+      "tags": [
+        "zoom",
+        "out"
+      ]
+    },
+    {
+      "name": "magnifying-glass-minus-large",
+      "tags": [
+        "zoom",
+        "out"
+      ]
+    },
+    {
+      "name": "magnifying-glass-plus-small",
+      "tags": [
+        "zoom",
+        "back"
+      ]
+    },
+    {
+      "name": "magnifying-glass-plus-medium",
+      "tags": [
+        "zoom",
+        "back"
+      ]
+    },
+    {
+      "name": "magnifying-glass-plus-large",
+      "tags": [
+        "zoom",
+        "back"
+      ]
+    },
+    {
+      "name": "milk-brick-disabled-small",
+      "tags": [
+        "dairy",
+        "free"
+      ]
+    },
+    {
+      "name": "milk-brick-disabled-medium",
+      "tags": [
+        "dairy",
+        "free"
+      ]
+    },
+    {
+      "name": "mug-hot-small",
+      "tags": [
+        "hot",
+        "cup",
+        "mug",
+        "coffee"
+      ]
+    },
+    {
+      "name": "mug-hot-medium",
+      "tags": [
+        "hot",
+        "cup",
+        "mug",
+        "coffee"
+      ]
+    },
+    {
+      "name": "narcotic-small",
+      "tags": [
+        "narcotic"
+      ]
+    },
+    {
+      "name": "narcotic-medium",
+      "tags": [
+        "narcotic"
+      ]
+    },
+    {
+      "name": "newspaper-small",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "name": "newspaper-medium",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "name": "newspaper-large",
+      "tags": [
+        "news"
+      ]
+    },
+    {
+      "name": "paper-aeroplane-small",
+      "tags": [
+        "send"
+      ]
+    },
+    {
+      "name": "paper-aeroplane-medium",
+      "tags": [
+        "send"
+      ]
+    },
+    {
+      "name": "paper-aeroplane-large",
+      "tags": [
+        "send"
+      ]
+    },
+    {
+      "name": "paper-clip-small",
+      "tags": [
+        "paperclip",
+        "paper",
+        "clip"
+      ]
+    },
+    {
+      "name": "paper-clip-medium",
+      "tags": [
+        "paperclip",
+        "paper",
+        "clip"
+      ]
+    },
+    {
+      "name": "paper-clip-large",
+      "tags": [
+        "paperclip",
+        "paper",
+        "clip"
+      ]
+    },
+    {
+      "name": "pen-small",
+      "tags": [
+        "edit",
+        "pen"
+      ]
+    },
+    {
+      "name": "pen-medium",
+      "tags": [
+        "edit",
+        "pen"
+      ]
+    },
+    {
+      "name": "picture-small",
+      "tags": [
+        "image",
+        "picture"
+      ]
+    },
+    {
+      "name": "picture-medium",
+      "tags": [
+        "image",
+        "picture"
+      ]
+    },
+    {
+      "name": "picture-large",
+      "tags": [
+        "image",
+        "picture"
+      ]
+    },
+    {
+      "name": "piggy-bank-small",
+      "tags": [
+        "save",
+        "piggy",
+        "bank"
+      ]
+    },
+    {
+      "name": "piggy-bank-medium",
+      "tags": [
+        "save",
+        "piggy",
+        "bank"
+      ]
+    },
+    {
+      "name": "piggy-bank-large",
+      "tags": [
+        "save",
+        "piggy",
+        "bank"
+      ]
+    },
+    {
+      "name": "pin-small",
+      "tags": [
+        "pin",
+        "code"
+      ]
+    },
+    {
+      "name": "pin-medium",
+      "tags": [
+        "pin",
+        "code"
+      ]
+    },
+    {
+      "name": "pizza-slice-small",
+      "tags": [
+        "food",
+        "pizza",
+        "italy"
+      ]
+    },
+    {
+      "name": "pizza-slice-medium",
+      "tags": [
+        "food",
+        "pizza",
+        "italy"
+      ]
+    },
+    {
+      "name": "pizza-slice-large",
+      "tags": [
+        "food",
+        "pizza",
+        "italy"
+      ]
+    },
+    {
+      "name": "pretzel-small",
+      "tags": [
+        "pretzel",
+        "food",
+        "germany"
+      ]
+    },
+    {
+      "name": "pretzel-medium",
+      "tags": [
+        "pretzel",
+        "food",
+        "germany"
+      ]
+    },
+    {
+      "name": "pretzel-large",
+      "tags": [
+        "pretzel",
+        "food",
+        "germany"
+      ]
+    },
+    {
+      "name": "rocket-large",
+      "tags": [
+        "begin"
+      ]
+    },
+    {
+      "name": "rss-small",
+      "tags": [
+        "rss"
+      ]
+    },
+    {
+      "name": "rss-medium",
+      "tags": [
+        "rss"
+      ]
+    },
+    {
+      "name": "service-bell-small",
+      "tags": [
+        "notification",
+        "service",
+        "bell"
+      ]
+    },
+    {
+      "name": "service-bell-medium",
+      "tags": [
+        "notification",
+        "service",
+        "bell"
+      ]
+    },
+    {
+      "name": "shopping-cart-small",
+      "tags": [
+        "shopping",
+        "cart"
+      ]
+    },
+    {
+      "name": "shopping-cart-medium",
+      "tags": [
+        "shopping",
+        "cart"
+      ]
+    },
+    {
+      "name": "shopping-cart-large",
+      "tags": [
+        "shopping",
+        "cart"
+      ]
+    },
+    {
+      "name": "sign-exclamation-point-small",
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger"
+      ]
+    },
+    {
+      "name": "sign-exclamation-point-medium",
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger"
+      ]
+    },
+    {
+      "name": "sign-x-small",
+      "tags": [
+        "error"
+      ]
+    },
+    {
+      "name": "sign-x-medium",
+      "tags": [
+        "error"
+      ]
+    },
+    {
+      "name": "smartphone-shaking-small",
+      "tags": [
+        "smartphone",
+        "shaking",
+        "shake"
+      ]
+    },
+    {
+      "name": "smartphone-shaking-medium",
+      "tags": [
+        "smartphone",
+        "shaking",
+        "shake"
+      ]
+    },
+    {
+      "name": "spanner-small",
+      "tags": [
+        "wrench",
+        "spanner"
+      ]
+    },
+    {
+      "name": "spanner-medium",
+      "tags": [
+        "wrench",
+        "spanner"
+      ]
+    },
+    {
+      "name": "spanner-large",
+      "tags": [
+        "wrench",
+        "spanner"
+      ]
+    },
+    {
+      "name": "star-small",
+      "tags": [
+        "favourite",
+        "star"
+      ]
+    },
+    {
+      "name": "star-medium",
+      "tags": [
+        "favourite",
+        "star"
+      ]
+    },
+    {
+      "name": "switzerland-small",
+      "tags": [
+        "switzerland",
+        "national",
+        "transport"
+      ]
+    },
+    {
+      "name": "switzerland-medium",
+      "tags": [
+        "switzerland",
+        "national",
+        "transport"
+      ]
+    },
+    {
+      "name": "switzerland-large",
+      "tags": [
+        "switzerland",
+        "national",
+        "transport"
+      ]
+    },
+    {
+      "name": "tag-small",
+      "tags": [
+        "category",
+        "specification",
+        "tag"
+      ]
+    },
+    {
+      "name": "tag-medium",
+      "tags": [
+        "category",
+        "specification",
+        "tag"
+      ]
+    },
+    {
+      "name": "target-small",
+      "tags": [
+        "aim",
+        "target"
+      ]
+    },
+    {
+      "name": "target-medium",
+      "tags": [
+        "aim",
+        "target"
+      ]
+    },
+    {
+      "name": "target-large",
+      "tags": [
+        "aim",
+        "target"
+      ]
+    },
+    {
+      "name": "torch-small",
+      "tags": [
+        "torch"
+      ]
+    },
+    {
+      "name": "torch-medium",
+      "tags": [
+        "torch"
+      ]
+    },
+    {
+      "name": "trash-small",
+      "tags": [
+        "waste",
+        "paper",
+        "bin"
+      ]
+    },
+    {
+      "name": "trash-medium",
+      "tags": [
+        "waste",
+        "paper",
+        "bin"
+      ]
+    },
+    {
+      "name": "tree-small",
+      "tags": [
+        "tree"
+      ]
+    },
+    {
+      "name": "tree-medium",
+      "tags": [
+        "tree"
+      ]
+    },
+    {
+      "name": "tree-large",
+      "tags": [
+        "tree"
+      ]
+    },
+    {
+      "name": "upload-small",
+      "tags": [
+        "upload"
+      ]
+    },
+    {
+      "name": "upload-medium",
+      "tags": [
+        "upload"
+      ]
+    },
+    {
+      "name": "vegan-small",
+      "tags": [
+        "vegan"
+      ]
+    },
+    {
+      "name": "vegan-medium",
+      "tags": [
+        "vegan"
+      ]
+    },
+    {
+      "name": "vegetarian-small",
+      "tags": [
+        "vegetarian",
+        "veggie"
+      ]
+    },
+    {
+      "name": "vegetarian-medium",
+      "tags": [
+        "vegetarian",
+        "veggie"
+      ]
+    },
+    {
+      "name": "wallet-small",
+      "tags": [
+        "wallet"
+      ]
+    },
+    {
+      "name": "wallet-medium",
+      "tags": [
+        "wallet"
+      ]
+    },
+    {
+      "name": "warning-light-small",
+      "tags": [
+        "blue",
+        "light",
+        "lamp",
+        "alarm"
+      ]
+    },
+    {
+      "name": "warning-light-medium",
+      "tags": [
+        "blue",
+        "light",
+        "lamp",
+        "alarm"
+      ]
+    },
+    {
+      "name": "warning-light-large",
+      "tags": [
+        "blue",
+        "light",
+        "lamp",
+        "alarm"
+      ]
+    },
+    {
+      "name": "wifi-small",
+      "tags": [
+        "wifi"
+      ]
+    },
+    {
+      "name": "wifi-medium",
+      "tags": [
+        "wifi"
+      ]
+    },
+    {
+      "name": "wifi-large",
+      "tags": [
+        "wifi"
+      ]
+    },
+    {
+      "name": "wifi-disabled-small",
+      "tags": [
+        "offline",
+        "wifi",
+        "disabled"
+      ]
+    },
+    {
+      "name": "wifi-disabled-medium",
+      "tags": [
+        "offline",
+        "wifi",
+        "disabled"
+      ]
+    },
+    {
+      "name": "wifi-disabled-large",
+      "tags": [
+        "offline",
+        "wifi",
+        "disabled"
+      ]
+    },
+    {
+      "name": "unicorn-small",
+      "tags": [
+        "unicorn",
+        "magic"
+      ]
+    },
+    {
+      "name": "unicorn-medium",
+      "tags": [
+        "unicorn",
+        "magic"
+      ]
+    },
+    {
+      "name": "checkpoints-small",
+      "tags": [
+        "flow",
+        "approval",
+        "step",
+        "steps"
+      ]
+    },
+    {
+      "name": "checkpoints-medium",
+      "tags": [
+        "flow",
+        "approval",
+        "step",
+        "steps"
+      ]
+    },
+    {
+      "name": "checkpoints-large",
+      "tags": [
+        "flow",
+        "approval",
+        "step",
+        "steps"
+      ]
+    },
+    {
+      "name": "robot-small",
+      "tags": [
+        "robot"
+      ]
+    },
+    {
+      "name": "robot-medium",
+      "tags": [
+        "robot"
+      ]
+    },
+    {
+      "name": "arrow-circle-small",
+      "tags": [
+        "load"
+      ]
+    },
+    {
+      "name": "arrow-circle-medium",
+      "tags": [
+        "load"
+      ]
+    },
+    {
+      "name": "arrow-down-small",
+      "tags": [
+        "down"
+      ]
+    },
+    {
+      "name": "arrow-down-medium",
+      "tags": [
+        "down"
+      ]
+    },
+    {
+      "name": "arrow-long-left-small",
+      "tags": [
+        "left"
+      ]
+    },
+    {
+      "name": "arrow-long-left-medium",
+      "tags": [
+        "left"
+      ]
+    },
+    {
+      "name": "arrow-long-right-small",
+      "tags": [
+        "right"
+      ]
+    },
+    {
+      "name": "arrow-long-right-medium",
+      "tags": [
+        "right"
+      ]
+    },
+    {
+      "name": "arrow-right-small",
+      "tags": [
+        "right"
+      ]
+    },
+    {
+      "name": "arrow-right-medium",
+      "tags": [
+        "right"
+      ]
+    },
+    {
+      "name": "arrows-circle-small",
+      "tags": [
+        "update"
+      ]
+    },
+    {
+      "name": "arrows-circle-medium",
+      "tags": [
+        "update"
+      ]
+    },
+    {
+      "name": "arrows-left-right-small",
+      "tags": [
+        "left",
+        "right",
+        "round",
+        "trip"
+      ]
+    },
+    {
+      "name": "arrows-left-right-medium",
+      "tags": [
+        "left",
+        "right",
+        "round",
+        "trip"
+      ]
+    },
+    {
+      "name": "arrows-left-right-down-up-small",
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "name": "arrows-left-right-down-up-medium",
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "name": "arrows-right-left-small",
+      "tags": [
+        "left",
+        "right"
+      ]
+    },
+    {
+      "name": "arrows-right-left-medium",
+      "tags": [
+        "left",
+        "right"
+      ]
+    },
+    {
+      "name": "arrows-up-down-small",
+      "tags": [
+        "another",
+        "sequence",
+        "order"
+      ]
+    },
+    {
+      "name": "arrows-up-down-medium",
+      "tags": [
+        "another",
+        "sequence",
+        "order"
+      ]
+    },
+    {
+      "name": "chevron-down-small",
+      "tags": [
+        "chevron",
+        "down"
+      ]
+    },
+    {
+      "name": "chevron-down-medium",
+      "tags": [
+        "chevron",
+        "down"
+      ]
+    },
+    {
+      "name": "chevron-left-small",
+      "tags": [
+        "left",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-left-medium",
+      "tags": [
+        "left",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-right-small",
+      "tags": [
+        "right",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-right-medium",
+      "tags": [
+        "right",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-down-small",
+      "tags": [
+        "down",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-down-medium",
+      "tags": [
+        "down",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-down-circle-small",
+      "tags": [
+        "down",
+        "circle",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-down-circle-medium",
+      "tags": [
+        "down",
+        "circle",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-left-small",
+      "tags": [
+        "left",
+        "arrow",
+        "move"
+      ]
+    },
+    {
+      "name": "chevron-small-left-medium",
+      "tags": [
+        "left",
+        "arrow",
+        "move"
+      ]
+    },
+    {
+      "name": "chevron-small-left-circle-small",
+      "tags": [
+        "left",
+        "circle",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-left-circle-medium",
+      "tags": [
+        "left",
+        "circle",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-right-small",
+      "tags": [
+        "right",
+        "arrow",
+        "move"
+      ]
+    },
+    {
+      "name": "chevron-small-right-medium",
+      "tags": [
+        "right",
+        "arrow",
+        "move"
+      ]
+    },
+    {
+      "name": "chevron-small-right-circle-small",
+      "tags": [
+        "right",
+        "circle",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-right-circle-medium",
+      "tags": [
+        "right",
+        "circle",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-up-circle-small",
+      "tags": [
+        "chevron",
+        "up",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-up-circle-medium",
+      "tags": [
+        "chevron",
+        "up",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-up-small",
+      "tags": [
+        "chevron",
+        "up",
+        "circle",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-small-up-medium",
+      "tags": [
+        "chevron",
+        "up",
+        "circle",
+        "arrow"
+      ]
+    },
+    {
+      "name": "chevron-up-small",
+      "tags": [
+        "chevron",
+        "up"
+      ]
+    },
+    {
+      "name": "chevron-up-medium",
+      "tags": [
+        "chevron",
+        "up"
+      ]
+    },
+    {
+      "name": "double-chevron-small-left-small",
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "name": "double-chevron-small-left-medium",
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "name": "double-chevron-small-right-small",
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "name": "double-chevron-small-right-medium",
+      "tags": [
+        "move"
+      ]
+    },
+    {
+      "name": "increase-size-small",
+      "tags": [
+        "enlarge",
+        "increase",
+        "size"
+      ]
+    },
+    {
+      "name": "increase-size-medium",
+      "tags": [
+        "enlarge",
+        "increase",
+        "size"
+      ]
+    },
+    {
+      "name": "reduce-size-small",
+      "tags": [
+        "decrease",
+        "reduce",
+        "size"
+      ]
+    },
+    {
+      "name": "reduce-size-medium",
+      "tags": [
+        "decrease",
+        "reduce",
+        "size"
+      ]
+    },
+    {
+      "name": "button-power-small",
+      "tags": [
+        "turn",
+        "on",
+        "button",
+        "power"
+      ]
+    },
+    {
+      "name": "button-power-medium",
+      "tags": [
+        "turn",
+        "on",
+        "button",
+        "power"
+      ]
+    },
+    {
+      "name": "circle-cross-small",
+      "tags": [
+        "deselect"
+      ]
+    },
+    {
+      "name": "circle-cross-medium",
+      "tags": [
+        "deselect"
+      ]
+    },
+    {
+      "name": "circle-cross-large",
+      "tags": [
+        "deselect"
+      ]
+    },
+    {
+      "name": "circle-tick-small",
+      "tags": [
+        "tick",
+        "select",
+        "all"
+      ]
+    },
+    {
+      "name": "circle-tick-medium",
+      "tags": [
+        "tick",
+        "select",
+        "all"
+      ]
+    },
+    {
+      "name": "clipboard-cross-small",
+      "tags": [
+        "control",
+        "check",
+        "failed"
+      ]
+    },
+    {
+      "name": "clipboard-cross-medium",
+      "tags": [
+        "control",
+        "check",
+        "failed"
+      ]
+    },
+    {
+      "name": "clipboard-question-mark-small",
+      "tags": [
+        "control",
+        "unknown"
+      ]
+    },
+    {
+      "name": "clipboard-question-mark-medium",
+      "tags": [
+        "control",
+        "unknown"
+      ]
+    },
+    {
+      "name": "clipboard-tick-small",
+      "tags": [
+        "pruefung",
+        "control",
+        "successfully"
+      ]
+    },
+    {
+      "name": "clipboard-tick-medium",
+      "tags": [
+        "pruefung",
+        "control",
+        "successfully"
+      ]
+    },
+    {
+      "name": "exclamation-point-small",
+      "tags": [
+        "exclamation",
+        "mark",
+        "point"
+      ]
+    },
+    {
+      "name": "exclamation-point-medium",
+      "tags": [
+        "exclamation",
+        "mark",
+        "point"
+      ]
+    },
+    {
+      "name": "eye-small",
+      "tags": [
+        "visible",
+        "noticeable"
+      ]
+    },
+    {
+      "name": "eye-medium",
+      "tags": [
+        "visible",
+        "noticeable"
+      ]
+    },
+    {
+      "name": "eye-large",
+      "tags": [
+        "visible",
+        "noticeable"
+      ]
+    },
+    {
+      "name": "eye-disabled-small",
+      "tags": [
+        "invisible"
+      ]
+    },
+    {
+      "name": "eye-disabled-medium",
+      "tags": [
+        "invisible"
+      ]
+    },
+    {
+      "name": "eye-disabled-large",
+      "tags": [
+        "invisible"
+      ]
+    },
+    {
+      "name": "lock-closed-small",
+      "tags": [
+        "blocked"
+      ]
+    },
+    {
+      "name": "lock-closed-medium",
+      "tags": [
+        "blocked"
+      ]
+    },
+    {
+      "name": "lock-closed-large",
+      "tags": [
+        "blocked"
+      ]
+    },
+    {
+      "name": "lock-open-small",
+      "tags": [
+        "unlocked"
+      ]
+    },
+    {
+      "name": "lock-open-medium",
+      "tags": [
+        "unlocked"
+      ]
+    },
+    {
+      "name": "lock-open-large",
+      "tags": [
+        "unlocked"
+      ]
+    },
+    {
+      "name": "question-mark-small",
+      "tags": [
+        "question",
+        "mark"
+      ]
+    },
+    {
+      "name": "question-mark-medium",
+      "tags": [
+        "question",
+        "mark"
+      ]
+    },
+    {
+      "name": "tick-small",
+      "tags": [
+        "ok"
+      ]
+    },
+    {
+      "name": "tick-medium",
+      "tags": [
+        "ok"
+      ]
+    },
+    {
+      "name": "circle-minus-small",
+      "tags": [
+        "minus"
+      ]
+    },
+    {
+      "name": "circle-minus-medium",
+      "tags": [
+        "minus"
+      ]
+    },
+    {
+      "name": "circle-plus-small",
+      "tags": [
+        "plus"
+      ]
+    },
+    {
+      "name": "circle-plus-medium",
+      "tags": [
+        "plus"
+      ]
+    },
+    {
+      "name": "context-menu-small",
+      "tags": [
+        "context",
+        "menu"
+      ]
+    },
+    {
+      "name": "context-menu-medium",
+      "tags": [
+        "context",
+        "menu"
+      ]
+    },
+    {
+      "name": "cross-small",
+      "tags": [
+        "cross"
+      ]
+    },
+    {
+      "name": "cross-medium",
+      "tags": [
+        "cross"
+      ]
+    },
+    {
+      "name": "drag-small",
+      "tags": [
+        "drag"
+      ]
+    },
+    {
+      "name": "drag-medium",
+      "tags": [
+        "drag"
+      ]
+    },
+    {
+      "name": "hamburger-menu-small",
+      "tags": [
+        "hamburger",
+        "menu"
+      ]
+    },
+    {
+      "name": "hamburger-menu-medium",
+      "tags": [
+        "hamburger",
+        "menu"
+      ]
+    },
+    {
+      "name": "house-small",
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "name": "house-medium",
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "name": "layers-small",
+      "tags": [
+        "layers"
+      ]
+    },
+    {
+      "name": "layers-medium",
+      "tags": [
+        "layers"
+      ]
+    },
+    {
+      "name": "minus-small",
+      "tags": [
+        "minus"
+      ]
+    },
+    {
+      "name": "minus-medium",
+      "tags": [
+        "minus"
+      ]
+    },
+    {
+      "name": "nine-squares-small",
+      "tags": [
+        "app",
+        "chooser"
+      ]
+    },
+    {
+      "name": "nine-squares-medium",
+      "tags": [
+        "app",
+        "chooser"
+      ]
+    },
+    {
+      "name": "plus-small",
+      "tags": [
+        "plus"
+      ]
+    },
+    {
+      "name": "plus-medium",
+      "tags": [
+        "plus"
+      ]
+    },
+    {
+      "name": "two-finger-tap-small",
+      "tags": [
+        "two",
+        "finger",
+        "tap"
+      ]
+    },
+    {
+      "name": "two-finger-tap-medium",
+      "tags": [
+        "two",
+        "finger",
+        "tap"
+      ]
+    },
+    {
+      "name": "two-finger-tap-large",
+      "tags": [
+        "two",
+        "finger",
+        "tap"
+      ]
+    },
+    {
+      "name": "bulb-off-small",
+      "tags": [
+        "bulb",
+        "off"
+      ]
+    },
+    {
+      "name": "bulb-off-medium",
+      "tags": [
+        "bulb",
+        "off"
+      ]
+    },
+    {
+      "name": "bulb-off-large",
+      "tags": [
+        "bulb",
+        "off"
+      ]
+    },
+    {
+      "name": "bulb-on-small",
+      "tags": [
+        "bulb",
+        "on",
+        "inspired"
+      ]
+    },
+    {
+      "name": "bulb-on-medium",
+      "tags": [
+        "bulb",
+        "on",
+        "inspired"
+      ]
+    },
+    {
+      "name": "bulb-on-large",
+      "tags": [
+        "bulb",
+        "on",
+        "inspired"
+      ]
+    },
+    {
+      "name": "face-grinning-small",
+      "tags": [
+        "smiley",
+        "grin"
+      ]
+    },
+    {
+      "name": "face-grinning-medium",
+      "tags": [
+        "smiley",
+        "grin"
+      ]
+    },
+    {
+      "name": "face-grinning-large",
+      "tags": [
+        "smiley",
+        "grin"
+      ]
+    },
+    {
+      "name": "face-neutral-small",
+      "tags": [
+        "smiley",
+        "neutral"
+      ]
+    },
+    {
+      "name": "face-neutral-medium",
+      "tags": [
+        "smiley",
+        "neutral"
+      ]
+    },
+    {
+      "name": "face-neutral-large",
+      "tags": [
+        "smiley",
+        "neutral"
+      ]
+    },
+    {
+      "name": "face-sad-small",
+      "tags": [
+        "smiley",
+        "sad"
+      ]
+    },
+    {
+      "name": "face-sad-medium",
+      "tags": [
+        "smiley",
+        "sad"
+      ]
+    },
+    {
+      "name": "face-sad-large",
+      "tags": [
+        "smiley",
+        "sad"
+      ]
+    },
+    {
+      "name": "face-smiling-small",
+      "tags": [
+        "smiley",
+        "laughing"
+      ]
+    },
+    {
+      "name": "face-smiling-medium",
+      "tags": [
+        "smiley",
+        "laughing"
+      ]
+    },
+    {
+      "name": "face-smiling-large",
+      "tags": [
+        "smiley",
+        "laughing"
+      ]
+    },
+    {
+      "name": "face-tear-small",
+      "tags": [
+        "smiley",
+        "sad",
+        "tear"
+      ]
+    },
+    {
+      "name": "face-tear-medium",
+      "tags": [
+        "smiley",
+        "sad",
+        "tear"
+      ]
+    },
+    {
+      "name": "face-thinking-small",
+      "tags": [
+        "smiley",
+        "thinking"
+      ]
+    },
+    {
+      "name": "face-thinking-medium",
+      "tags": [
+        "smiley",
+        "thinking"
+      ]
+    },
+    {
+      "name": "face-disagree-small",
+      "tags": [
+        "smiley",
+        "disagree"
+      ]
+    },
+    {
+      "name": "face-disagree-medium",
+      "tags": [
+        "smiley",
+        "disagree"
+      ]
+    },
+    {
+      "name": "handshake-small",
+      "tags": [
+        "handshake"
+      ]
+    },
+    {
+      "name": "handshake-medium",
+      "tags": [
+        "handshake"
+      ]
+    },
+    {
+      "name": "handshake-large",
+      "tags": [
+        "handshake"
+      ]
+    },
+    {
+      "name": "network-small",
+      "tags": [
+        "network"
+      ]
+    },
+    {
+      "name": "network-medium",
+      "tags": [
+        "network"
+      ]
+    },
+    {
+      "name": "network-large",
+      "tags": [
+        "network"
+      ]
+    },
+    {
+      "name": "onboarding-small",
+      "tags": [
+        "onboarding"
+      ]
+    },
+    {
+      "name": "onboarding-medium",
+      "tags": [
+        "onboarding"
+      ]
+    },
+    {
+      "name": "question-answer-small",
+      "tags": [
+        "faq"
+      ]
+    },
+    {
+      "name": "question-answer-medium",
+      "tags": [
+        "faq"
+      ]
+    },
+    {
+      "name": "question-answer-large",
+      "tags": [
+        "faq"
+      ]
+    },
+    {
+      "name": "share-small",
+      "tags": [
+        "share"
+      ]
+    },
+    {
+      "name": "share-medium",
+      "tags": [
+        "share"
+      ]
+    },
+    {
+      "name": "speech-bubble-small",
+      "tags": [
+        "speech",
+        "bubble",
+        "communication"
+      ]
+    },
+    {
+      "name": "speech-bubble-medium",
+      "tags": [
+        "speech",
+        "bubble",
+        "communication"
+      ]
+    },
+    {
+      "name": "speech-bubble-group-empty-small",
+      "tags": [
+        "three",
+        "speech",
+        "bubbles"
+      ]
+    },
+    {
+      "name": "speech-bubble-group-empty-medium",
+      "tags": [
+        "three",
+        "speech",
+        "bubbles"
+      ]
+    },
+    {
+      "name": "thumb-down-small",
+      "tags": [
+        "thumb",
+        "down"
+      ]
+    },
+    {
+      "name": "thumb-down-medium",
+      "tags": [
+        "thumb",
+        "down"
+      ]
+    },
+    {
+      "name": "thumb-up-small",
+      "tags": [
+        "thumbs",
+        "up",
+        "like"
+      ]
+    },
+    {
+      "name": "thumb-up-medium",
+      "tags": [
+        "thumbs",
+        "up",
+        "like"
+      ]
+    },
+    {
+      "name": "translate-small",
+      "tags": [
+        "translated"
+      ]
+    },
+    {
+      "name": "translate-medium",
+      "tags": [
+        "translated"
+      ]
+    },
+    {
+      "name": "two-speech-bubbles-small",
+      "tags": [
+        "two",
+        "speech",
+        "bubbles"
+      ]
+    },
+    {
+      "name": "two-speech-bubbles-medium",
+      "tags": [
+        "two",
+        "speech",
+        "bubbles"
+      ]
+    },
+    {
+      "name": "two-speech-bubbles-large",
+      "tags": [
+        "two",
+        "speech",
+        "bubbles"
+      ]
+    },
+    {
+      "name": "avatar-police-small",
+      "tags": [
+        "user",
+        "police"
+      ]
+    },
+    {
+      "name": "avatar-police-medium",
+      "tags": [
+        "user",
+        "police"
+      ]
+    },
+    {
+      "name": "avatar-police-large",
+      "tags": [
+        "user",
+        "police"
+      ]
+    },
+    {
+      "name": "circle-triangle-square-small",
+      "tags": [
+        "diversity"
+      ]
+    },
+    {
+      "name": "circle-triangle-square-medium",
+      "tags": [
+        "diversity"
+      ]
+    },
+    {
+      "name": "circle-triangle-square-large",
+      "tags": [
+        "diversity"
+      ]
+    },
+    {
+      "name": "employees-sbb-small",
+      "tags": [
+        "jobs"
+      ]
+    },
+    {
+      "name": "employees-sbb-medium",
+      "tags": [
+        "jobs"
+      ]
+    },
+    {
+      "name": "employees-sbb-large",
+      "tags": [
+        "jobs"
+      ]
+    },
+    {
+      "name": "id-card-employee-small",
+      "tags": [
+        "id",
+        "card",
+        "employee"
+      ]
+    },
+    {
+      "name": "id-card-employee-medium",
+      "tags": [
+        "id",
+        "card",
+        "employee"
+      ]
+    },
+    {
+      "name": "key-small",
+      "tags": [
+        "authorization"
+      ]
+    },
+    {
+      "name": "key-medium",
+      "tags": [
+        "authorization"
+      ]
+    },
+    {
+      "name": "pie-small",
+      "tags": [
+        "birthday"
+      ]
+    },
+    {
+      "name": "pie-medium",
+      "tags": [
+        "birthday"
+      ]
+    },
+    {
+      "name": "two-users-small",
+      "tags": [
+        "two",
+        "users"
+      ]
+    },
+    {
+      "name": "two-users-medium",
+      "tags": [
+        "two",
+        "users"
+      ]
+    },
+    {
+      "name": "user-small",
+      "tags": [
+        "user"
+      ]
+    },
+    {
+      "name": "user-medium",
+      "tags": [
+        "user"
+      ]
+    },
+    {
+      "name": "user-large",
+      "tags": [
+        "user"
+      ]
+    },
+    {
+      "name": "user-change-small",
+      "tags": [
+        "user",
+        "replacement"
+      ]
+    },
+    {
+      "name": "user-change-medium",
+      "tags": [
+        "user",
+        "replacement"
+      ]
+    },
+    {
+      "name": "user-group-small",
+      "tags": [
+        "three",
+        "users",
+        "user",
+        "group"
+      ]
+    },
+    {
+      "name": "user-group-medium",
+      "tags": [
+        "three",
+        "users",
+        "user",
+        "group"
+      ]
+    },
+    {
+      "name": "user-group-large",
+      "tags": [
+        "three",
+        "users",
+        "user",
+        "group"
+      ]
+    },
+    {
+      "name": "user-group-round-table-small",
+      "tags": [
+        "user",
+        "session"
+      ]
+    },
+    {
+      "name": "user-group-round-table-medium",
+      "tags": [
+        "user",
+        "session"
+      ]
+    },
+    {
+      "name": "user-group-row-small",
+      "tags": [
+        "user",
+        "row"
+      ]
+    },
+    {
+      "name": "user-group-row-medium",
+      "tags": [
+        "user",
+        "row"
+      ]
+    },
+    {
+      "name": "user-hat-small",
+      "tags": [
+        "user",
+        "training",
+        "education"
+      ]
+    },
+    {
+      "name": "user-hat-medium",
+      "tags": [
+        "user",
+        "training",
+        "education"
+      ]
+    },
+    {
+      "name": "user-headset-small",
+      "tags": [
+        "user",
+        "support"
+      ]
+    },
+    {
+      "name": "user-headset-medium",
+      "tags": [
+        "user",
+        "support"
+      ]
+    },
+    {
+      "name": "user-headset-large",
+      "tags": [
+        "user",
+        "support"
+      ]
+    },
+    {
+      "name": "user-key-small",
+      "tags": [
+        "user",
+        "access"
+      ]
+    },
+    {
+      "name": "user-key-medium",
+      "tags": [
+        "user",
+        "access"
+      ]
+    },
+    {
+      "name": "user-plus-small",
+      "tags": [
+        "register",
+        "user"
+      ]
+    },
+    {
+      "name": "user-plus-medium",
+      "tags": [
+        "register",
+        "user"
+      ]
+    },
+    {
+      "name": "user-tie-small",
+      "tags": [
+        "user",
+        "tie",
+        "management"
+      ]
+    },
+    {
+      "name": "user-tie-medium",
+      "tags": [
+        "user",
+        "tie",
+        "management"
+      ]
+    },
+    {
+      "name": "user-tie-large",
+      "tags": [
+        "user",
+        "tie",
+        "management"
+      ]
+    },
+    {
+      "name": "document-check-small",
+      "tags": [
+        "document",
+        "check"
+      ]
+    },
+    {
+      "name": "document-check-medium",
+      "tags": [
+        "document",
+        "check"
+      ]
+    },
+    {
+      "name": "document-doc-small",
+      "tags": [
+        "document",
+        "check"
+      ]
+    },
+    {
+      "name": "document-doc-medium",
+      "tags": [
+        "document",
+        "check"
+      ]
+    },
+    {
+      "name": "document-image-small",
+      "tags": [
+        "document",
+        "image"
+      ]
+    },
+    {
+      "name": "document-image-medium",
+      "tags": [
+        "document",
+        "image"
+      ]
+    },
+    {
+      "name": "document-lock-small",
+      "tags": [
+        "document",
+        "locked"
+      ]
+    },
+    {
+      "name": "document-lock-medium",
+      "tags": [
+        "document",
+        "locked"
+      ]
+    },
+    {
+      "name": "document-pdf-small",
+      "tags": [
+        "document",
+        "pdf"
+      ]
+    },
+    {
+      "name": "document-pdf-medium",
+      "tags": [
+        "document",
+        "pdf"
+      ]
+    },
+    {
+      "name": "document-plus-small",
+      "tags": [
+        "new",
+        "document"
+      ]
+    },
+    {
+      "name": "document-plus-medium",
+      "tags": [
+        "new",
+        "document"
+      ]
+    },
+    {
+      "name": "document-ppt-small",
+      "tags": [
+        "document",
+        "ppt"
+      ]
+    },
+    {
+      "name": "document-ppt-medium",
+      "tags": [
+        "document",
+        "ppt"
+      ]
+    },
+    {
+      "name": "document-sbb-small",
+      "tags": [
+        "document",
+        "SBB"
+      ]
+    },
+    {
+      "name": "document-sbb-medium",
+      "tags": [
+        "document",
+        "SBB"
+      ]
+    },
+    {
+      "name": "document-signature-small",
+      "tags": [
+        "contract"
+      ]
+    },
+    {
+      "name": "document-signature-medium",
+      "tags": [
+        "contract"
+      ]
+    },
+    {
+      "name": "document-sound-small",
+      "tags": [
+        "document",
+        "sound"
+      ]
+    },
+    {
+      "name": "document-sound-medium",
+      "tags": [
+        "document",
+        "sound"
+      ]
+    },
+    {
+      "name": "document-standard-small",
+      "tags": [
+        "document",
+        "standard"
+      ]
+    },
+    {
+      "name": "document-standard-medium",
+      "tags": [
+        "document",
+        "standard"
+      ]
+    },
+    {
+      "name": "document-text-small",
+      "tags": [
+        "document",
+        "text"
+      ]
+    },
+    {
+      "name": "document-text-medium",
+      "tags": [
+        "document",
+        "text"
+      ]
+    },
+    {
+      "name": "document-text-large",
+      "tags": [
+        "document",
+        "text"
+      ]
+    },
+    {
+      "name": "document-video-small",
+      "tags": [
+        "document",
+        "video"
+      ]
+    },
+    {
+      "name": "document-video-medium",
+      "tags": [
+        "document",
+        "video"
+      ]
+    },
+    {
+      "name": "document-xls-small",
+      "tags": [
+        "document",
+        "xls",
+        "excel"
+      ]
+    },
+    {
+      "name": "document-xls-medium",
+      "tags": [
+        "document",
+        "xls",
+        "excel"
+      ]
+    },
+    {
+      "name": "document-zip-small",
+      "tags": [
+        "document",
+        "zip"
+      ]
+    },
+    {
+      "name": "document-zip-medium",
+      "tags": [
+        "document",
+        "zip"
+      ]
+    },
+    {
+      "name": "folder-small",
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "name": "folder-medium",
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "name": "folder-info-small",
+      "tags": [
+        "folder",
+        "metadata"
+      ]
+    },
+    {
+      "name": "folder-info-medium",
+      "tags": [
+        "folder",
+        "metadata"
+      ]
+    },
+    {
+      "name": "folder-lock-small",
+      "tags": [
+        "folder",
+        "locked"
+      ]
+    },
+    {
+      "name": "folder-lock-medium",
+      "tags": [
+        "folder",
+        "locked"
+      ]
+    },
+    {
+      "name": "folder-open-small",
+      "tags": [
+        "open",
+        "folder"
+      ]
+    },
+    {
+      "name": "folder-open-medium",
+      "tags": [
+        "open",
+        "folder"
+      ]
+    },
+    {
+      "name": "folder-open-arrow-small",
+      "tags": [
+        "folder",
+        "storage"
+      ]
+    },
+    {
+      "name": "folder-open-arrow-medium",
+      "tags": [
+        "folder",
+        "storage"
+      ]
+    },
+    {
+      "name": "folder-plus-small",
+      "tags": [
+        "add",
+        "folder"
+      ]
+    },
+    {
+      "name": "folder-plus-medium",
+      "tags": [
+        "add",
+        "folder"
+      ]
+    },
+    {
+      "name": "metadata-small",
+      "tags": [
+        "metadata"
+      ]
+    },
+    {
+      "name": "metadata-medium",
+      "tags": [
+        "metadata"
+      ]
+    },
+    {
+      "name": "two-folders-small",
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "name": "two-folders-medium",
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "name": "arrow-change-small",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "name": "arrow-change-medium",
+      "tags": [
+        "change"
+      ]
+    },
+    {
+      "name": "arrow-change-horizontal-small",
+      "tags": [
+        "change",
+        "horizontal"
+      ]
+    },
+    {
+      "name": "arrow-change-horizontal-medium",
+      "tags": [
+        "change",
+        "horizontal"
+      ]
+    },
+    {
+      "name": "avatar-train-staff-small",
+      "tags": [
+        "train",
+        "staff",
+        "my",
+        "trip"
+      ]
+    },
+    {
+      "name": "avatar-train-staff-medium",
+      "tags": [
+        "train",
+        "staff",
+        "my",
+        "trip"
+      ]
+    },
+    {
+      "name": "avatar-train-staff-large",
+      "tags": [
+        "train",
+        "staff",
+        "my",
+        "trip"
+      ]
+    },
+    {
+      "name": "avatar-train-staff-disabled-small",
+      "tags": [
+        "train",
+        "staff",
+        "my",
+        "trip",
+        "disabled"
+      ]
+    },
+    {
+      "name": "avatar-train-staff-disabled-medium",
+      "tags": [
+        "train",
+        "staff",
+        "my",
+        "trip",
+        "disabled"
+      ]
+    },
+    {
+      "name": "avatar-train-staff-disabled-large",
+      "tags": [
+        "train",
+        "staff",
+        "my",
+        "trip",
+        "disabled"
+      ]
+    },
+    {
+      "name": "clock-small",
+      "tags": [
+        "clock",
+        "working",
+        "time"
+      ]
+    },
+    {
+      "name": "clock-medium",
+      "tags": [
+        "clock",
+        "working",
+        "time"
+      ]
+    },
+    {
+      "name": "clock-large",
+      "tags": [
+        "clock",
+        "working",
+        "time"
+      ]
+    },
+    {
+      "name": "hourglass-small",
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "name": "hourglass-medium",
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "name": "hourglass-large",
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "name": "locomotive-small",
+      "tags": [
+        "train",
+        "formation"
+      ]
+    },
+    {
+      "name": "locomotive-medium",
+      "tags": [
+        "train",
+        "formation"
+      ]
+    },
+    {
+      "name": "locomotive-large",
+      "tags": [
+        "train",
+        "formation"
+      ]
+    },
+    {
+      "name": "percent-small",
+      "tags": [
+        "percent"
+      ]
+    },
+    {
+      "name": "percent-medium",
+      "tags": [
+        "percent"
+      ]
+    },
+    {
+      "name": "percent-large",
+      "tags": [
+        "percent"
+      ]
+    },
+    {
+      "name": "percent-tag-small",
+      "tags": [
+        "promo",
+        "code"
+      ]
+    },
+    {
+      "name": "percent-tag-medium",
+      "tags": [
+        "promo",
+        "code"
+      ]
+    },
+    {
+      "name": "punctuality-small",
+      "tags": [
+        "punctuality"
+      ]
+    },
+    {
+      "name": "punctuality-medium",
+      "tags": [
+        "punctuality"
+      ]
+    },
+    {
+      "name": "punctuality-large",
+      "tags": [
+        "punctuality"
+      ]
+    },
+    {
+      "name": "route-circle-end-small",
+      "tags": [
+        "route",
+        "end"
+      ]
+    },
+    {
+      "name": "route-circle-end-medium",
+      "tags": [
+        "route",
+        "end"
+      ]
+    },
+    {
+      "name": "route-circle-start-small",
+      "tags": [
+        "route",
+        "start"
+      ]
+    },
+    {
+      "name": "route-circle-start-medium",
+      "tags": [
+        "route",
+        "start"
+      ]
+    },
+    {
+      "name": "seat-small",
+      "tags": [
+        "seat"
+      ]
+    },
+    {
+      "name": "seat-medium",
+      "tags": [
+        "wheelchair",
+        "uncertain"
+      ]
+    },
+    {
+      "name": "seat-window-small",
+      "tags": [
+        "comfort"
+      ]
+    },
+    {
+      "name": "seat-window-medium",
+      "tags": [
+        "comfort"
+      ]
+    },
+    {
+      "name": "seat-window-large",
+      "tags": [
+        "comfort"
+      ]
+    },
+    {
+      "name": "switzerland-route-small",
+      "tags": [
+        "touch",
+        "timetable"
+      ]
+    },
+    {
+      "name": "switzerland-route-medium",
+      "tags": [
+        "touch",
+        "timetable"
+      ]
+    },
+    {
+      "name": "switzerland-route-large",
+      "tags": [
+        "touch",
+        "timetable"
+      ]
+    },
+    {
+      "name": "timetable-small",
+      "tags": [
+        "departure",
+        "table"
+      ]
+    },
+    {
+      "name": "timetable-medium",
+      "tags": [
+        "departure",
+        "table"
+      ]
+    },
+    {
+      "name": "walk-small",
+      "tags": [
+        "footpath"
+      ]
+    },
+    {
+      "name": "walk-medium",
+      "tags": [
+        "footpath"
+      ]
+    },
+    {
+      "name": "walk-large",
+      "tags": [
+        "footpath"
+      ]
+    },
+    {
+      "name": "walk-fast-small",
+      "tags": [
+        "fast"
+      ]
+    },
+    {
+      "name": "walk-fast-medium",
+      "tags": [
+        "fast"
+      ]
+    },
+    {
+      "name": "walk-slow-small",
+      "tags": [
+        "slow"
+      ]
+    },
+    {
+      "name": "walk-slow-medium",
+      "tags": [
+        "slow"
+      ]
+    },
+    {
+      "name": "wheelchair-small",
+      "tags": [
+        "wheelchair"
+      ]
+    },
+    {
+      "name": "wheelchair-medium",
+      "tags": [
+        "wheelchair"
+      ]
+    },
+    {
+      "name": "wheelchair-large",
+      "tags": [
+        "wheelchair"
+      ]
+    },
+    {
+      "name": "wheelchair-inaccessible-small",
+      "tags": [
+        "wheelchair",
+        "disabled"
+      ]
+    },
+    {
+      "name": "wheelchair-inaccessible-medium",
+      "tags": [
+        "wheelchair",
+        "disabled"
+      ]
+    },
+    {
+      "name": "wheelchair-inaccessible-large",
+      "tags": [
+        "wheelchair",
+        "disabled"
+      ]
+    },
+    {
+      "name": "wheelchair-partially-small",
+      "tags": [
+        "wheelchair",
+        "partially",
+        ""
+      ]
+    },
+    {
+      "name": "wheelchair-partially-medium",
+      "tags": [
+        "wheelchair",
+        "partially",
+        ""
+      ]
+    },
+    {
+      "name": "wheelchair-reservation-small",
+      "tags": [
+        "wheelchair",
+        "reservation"
+      ]
+    },
+    {
+      "name": "wheelchair-reservation-medium",
+      "tags": [
+        "wheelchair",
+        "reservation"
+      ]
+    },
+    {
+      "name": "wheelchair-uncertain-small",
+      "tags": [
+        "wheelchair",
+        "uncertain"
+      ]
+    },
+    {
+      "name": "wheelchair-uncertain-medium",
+      "tags": [
+        "wheelchair",
+        "uncertain"
+      ]
+    },
+    {
+      "name": "half-fare-card-small",
+      "tags": [
+        "half",
+        "fare",
+        "card"
+      ]
+    },
+    {
+      "name": "half-fare-card-medium",
+      "tags": [
+        "half",
+        "fare",
+        "card"
+      ]
+    },
+    {
+      "name": "qrcode-small",
+      "tags": [
+        "qrcode"
+      ]
+    },
+    {
+      "name": "qrcode-medium",
+      "tags": [
+        "qrcode"
+      ]
+    },
+    {
+      "name": "qrcode-disabled-small",
+      "tags": [
+        "qrcode",
+        "invalid"
+      ]
+    },
+    {
+      "name": "qrcode-disabled-medium",
+      "tags": [
+        "qrcode",
+        "invalid"
+      ]
+    },
+    {
+      "name": "qrcode-disabled-two-tickets-small",
+      "tags": [
+        "qrcode",
+        "disabled",
+        "several",
+        "tickets"
+      ]
+    },
+    {
+      "name": "qrcode-disabled-two-tickets-medium",
+      "tags": [
+        "qrcode",
+        "disabled",
+        "several",
+        "tickets"
+      ]
+    },
+    {
+      "name": "qrcode-two-tickets-small",
+      "tags": [
+        "qrcode",
+        "several",
+        "tickets"
+      ]
+    },
+    {
+      "name": "qrcode-two-tickets-medium",
+      "tags": [
+        "qrcode",
+        "several",
+        "tickets"
+      ]
+    },
+    {
+      "name": "swisspass-small",
+      "tags": [
+        "swisspass"
+      ]
+    },
+    {
+      "name": "swisspass-medium",
+      "tags": [
+        "swisspass"
+      ]
+    },
+    {
+      "name": "swisspass-large",
+      "tags": [
+        "swisspass"
+      ]
+    },
+    {
+      "name": "swisspass-temporary-small",
+      "tags": [
+        "transition",
+        "swisspass"
+      ]
+    },
+    {
+      "name": "swisspass-temporary-medium",
+      "tags": [
+        "transition",
+        "swisspass"
+      ]
+    },
+    {
+      "name": "ticket-day-small",
+      "tags": [
+        "day",
+        "ticket"
+      ]
+    },
+    {
+      "name": "ticket-day-medium",
+      "tags": [
+        "day",
+        "ticket"
+      ]
+    },
+    {
+      "name": "ticket-day-large",
+      "tags": [
+        "day",
+        "ticket"
+      ]
+    },
+    {
+      "name": "ticket-disabled-small",
+      "tags": [
+        "ticket",
+        "not",
+        "available"
+      ]
+    },
+    {
+      "name": "ticket-disabled-medium",
+      "tags": [
+        "ticket",
+        "not",
+        "available"
+      ]
+    },
+    {
+      "name": "ticket-heart-small",
+      "tags": [
+        "ticket",
+        "favorit"
+      ]
+    },
+    {
+      "name": "ticket-heart-medium",
+      "tags": [
+        "ticket",
+        "favorit"
+      ]
+    },
+    {
+      "name": "ticket-journey-small",
+      "tags": [
+        "ticket",
+        "journey"
+      ]
+    },
+    {
+      "name": "ticket-journey-medium",
+      "tags": [
+        "ticket",
+        "journey"
+      ]
+    },
+    {
+      "name": "ticket-moon-star-small",
+      "tags": [
+        "ticket",
+        "night"
+      ]
+    },
+    {
+      "name": "ticket-moon-star-medium",
+      "tags": [
+        "ticket",
+        "night"
+      ]
+    },
+    {
+      "name": "ticket-parking-small",
+      "tags": [
+        "park",
+        "ticket"
+      ]
+    },
+    {
+      "name": "ticket-parking-medium",
+      "tags": [
+        "park",
+        "ticket"
+      ]
+    },
+    {
+      "name": "ticket-percent-small",
+      "tags": [
+        "voucher"
+      ]
+    },
+    {
+      "name": "ticket-percent-medium",
+      "tags": [
+        "voucher"
+      ]
+    },
+    {
+      "name": "ticket-route-small",
+      "tags": [
+        "ticket",
+        "short",
+        "distance"
+      ]
+    },
+    {
+      "name": "ticket-route-medium",
+      "tags": [
+        "ticket",
+        "short",
+        "distance"
+      ]
+    },
+    {
+      "name": "ticket-star-small",
+      "tags": [
+        "ticket",
+        "event"
+      ]
+    },
+    {
+      "name": "ticket-star-medium",
+      "tags": [
+        "ticket",
+        "event"
+      ]
+    },
+    {
+      "name": "tickets-class-small",
+      "tags": [
+        "tickets",
+        "SBB"
+      ]
+    },
+    {
+      "name": "tickets-class-medium",
+      "tags": [
+        "tickets",
+        "SBB"
+      ]
+    },
+    {
+      "name": "tickets-class-large",
+      "tags": [
+        "tickets",
+        "SBB"
+      ]
+    },
+    {
+      "name": "book-small",
+      "tags": [
+        "books",
+        "library"
+      ]
+    },
+    {
+      "name": "book-medium",
+      "tags": [
+        "books",
+        "library"
+      ]
+    },
+    {
+      "name": "bottle-apple-small",
+      "tags": [
+        "food",
+        "bottle",
+        "apple"
+      ]
+    },
+    {
+      "name": "bottle-apple-medium",
+      "tags": [
+        "food",
+        "bottle",
+        "apple"
+      ]
+    },
+    {
+      "name": "customer-assistance-sbb-small",
+      "tags": [
+        "consultation"
+      ]
+    },
+    {
+      "name": "customer-assistance-sbb-medium",
+      "tags": [
+        "consultation"
+      ]
+    },
+    {
+      "name": "escalator-small",
+      "tags": [
+        "escalator"
+      ]
+    },
+    {
+      "name": "escalator-medium",
+      "tags": [
+        "escalator"
+      ]
+    },
+    {
+      "name": "general-display-small",
+      "tags": [
+        "general",
+        "display"
+      ]
+    },
+    {
+      "name": "general-display-medium",
+      "tags": [
+        "general",
+        "display"
+      ]
+    },
+    {
+      "name": "hand-plus-circle-small",
+      "tags": [
+        "service"
+      ]
+    },
+    {
+      "name": "hand-plus-circle-medium",
+      "tags": [
+        "service"
+      ]
+    },
+    {
+      "name": "hand-plus-circle-large",
+      "tags": [
+        "service"
+      ]
+    },
+    {
+      "name": "hand-sbb-small",
+      "tags": [
+        "SBB",
+        "service"
+      ]
+    },
+    {
+      "name": "hand-sbb-medium",
+      "tags": [
+        "SBB",
+        "service"
+      ]
+    },
+    {
+      "name": "hand-sbb-large",
+      "tags": [
+        "SBB",
+        "service"
+      ]
+    },
+    {
+      "name": "hostel-small",
+      "tags": [
+        "hostel"
+      ]
+    },
+    {
+      "name": "hostel-medium",
+      "tags": [
+        "hostel"
+      ]
+    },
+    {
+      "name": "lift-small",
+      "tags": [
+        "lift"
+      ]
+    },
+    {
+      "name": "lift-medium",
+      "tags": [
+        "lift"
+      ]
+    },
+    {
+      "name": "locker-small",
+      "tags": [
+        "lockers"
+      ]
+    },
+    {
+      "name": "locker-medium",
+      "tags": [
+        "lockers"
+      ]
+    },
+    {
+      "name": "lotus-small",
+      "tags": [
+        "health",
+        "beauty"
+      ]
+    },
+    {
+      "name": "lotus-medium",
+      "tags": [
+        "health",
+        "beauty"
+      ]
+    },
+    {
+      "name": "lotus-large",
+      "tags": [
+        "health",
+        "beauty"
+      ]
+    },
+    {
+      "name": "meeting-point-small",
+      "tags": [
+        "meeting",
+        "point"
+      ]
+    },
+    {
+      "name": "meeting-point-medium",
+      "tags": [
+        "meeting",
+        "point"
+      ]
+    },
+    {
+      "name": "money-exchange-small",
+      "tags": [
+        "currency",
+        "exchange",
+        "money",
+        "exchange"
+      ]
+    },
+    {
+      "name": "money-exchange-medium",
+      "tags": [
+        "currency",
+        "exchange",
+        "money",
+        "exchange"
+      ]
+    },
+    {
+      "name": "money-exchange-large",
+      "tags": [
+        "currency",
+        "exchange",
+        "money",
+        "exchange"
+      ]
+    },
+    {
+      "name": "platform-small",
+      "tags": [
+        "platform"
+      ]
+    },
+    {
+      "name": "platform-medium",
+      "tags": [
+        "platform"
+      ]
+    },
+    {
+      "name": "platform-large",
+      "tags": [
+        "platform"
+      ]
+    },
+    {
+      "name": "platform-display-small",
+      "tags": [
+        "platform",
+        "display"
+      ]
+    },
+    {
+      "name": "platform-display-medium",
+      "tags": [
+        "platform",
+        "display"
+      ]
+    },
+    {
+      "name": "ramp-user-small",
+      "tags": [
+        "rampe"
+      ]
+    },
+    {
+      "name": "ramp-user-medium",
+      "tags": [
+        "rampe"
+      ]
+    },
+    {
+      "name": "screen-inside-train-small",
+      "tags": [
+        "screen",
+        "in",
+        "train"
+      ]
+    },
+    {
+      "name": "screen-inside-train-medium",
+      "tags": [
+        "screen",
+        "in",
+        "train"
+      ]
+    },
+    {
+      "name": "shirt-shoe-small",
+      "tags": [
+        "clothing"
+      ]
+    },
+    {
+      "name": "shirt-shoe-medium",
+      "tags": [
+        "clothing"
+      ]
+    },
+    {
+      "name": "shopping-bag-small",
+      "tags": [
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-bag-medium",
+      "tags": [
+        "shopping"
+      ]
+    },
+    {
+      "name": "shopping-bag-coupon-small",
+      "tags": [
+        "couponing",
+        ""
+      ]
+    },
+    {
+      "name": "shopping-bag-coupon-medium",
+      "tags": [
+        "couponing",
+        ""
+      ]
+    },
+    {
+      "name": "shopping-bag-fast-small",
+      "tags": [
+        "fastlane"
+      ]
+    },
+    {
+      "name": "shopping-bag-fast-medium",
+      "tags": [
+        "fastlane"
+      ]
+    },
+    {
+      "name": "stairs-user-small",
+      "tags": [
+        "treppe"
+      ]
+    },
+    {
+      "name": "stairs-user-medium",
+      "tags": [
+        "treppe"
+      ]
+    },
+    {
+      "name": "station-small",
+      "tags": [
+        "railway",
+        "station"
+      ]
+    },
+    {
+      "name": "station-medium",
+      "tags": [
+        "railway",
+        "station"
+      ]
+    },
+    {
+      "name": "station-large",
+      "tags": [
+        "railway",
+        "station"
+      ]
+    },
+    {
+      "name": "station-surrounding-area-small",
+      "tags": [
+        "close",
+        "to",
+        "the",
+        "station"
+      ]
+    },
+    {
+      "name": "station-surrounding-area-medium",
+      "tags": [
+        "close",
+        "to",
+        "the",
+        "station"
+      ]
+    },
+    {
+      "name": "ticket-machine-small",
+      "tags": [
+        "ticket",
+        "machine"
+      ]
+    },
+    {
+      "name": "ticket-machine-medium",
+      "tags": [
+        "ticket",
+        "machine"
+      ]
+    },
+    {
+      "name": "ticket-machine-ticket-small",
+      "tags": [
+        "purchase",
+        "ticket",
+        "machine"
+      ]
+    },
+    {
+      "name": "ticket-machine-ticket-medium",
+      "tags": [
+        "purchase",
+        "ticket",
+        "machine"
+      ]
+    },
+    {
+      "name": "toilet-small",
+      "tags": [
+        "wc",
+        "toilet"
+      ]
+    },
+    {
+      "name": "toilet-medium",
+      "tags": [
+        "wc",
+        "toilet"
+      ]
+    },
+    {
+      "name": "train-station-small",
+      "tags": [
+        "bus",
+        "stop"
+      ]
+    },
+    {
+      "name": "train-station-medium",
+      "tags": [
+        "bus",
+        "stop"
+      ]
+    },
+    {
+      "name": "train-station-large",
+      "tags": [
+        "bus",
+        "stop"
+      ]
+    },
+    {
+      "name": "waiting-room-small",
+      "tags": [
+        "waiting",
+        "room"
+      ]
+    },
+    {
+      "name": "waiting-room-medium",
+      "tags": [
+        "waiting",
+        "room"
+      ]
+    },
+    {
+      "name": "wine-cheese-small",
+      "tags": [
+        "deli",
+        "food"
+      ]
+    },
+    {
+      "name": "wine-cheese-medium",
+      "tags": [
+        "deli",
+        "food"
+      ]
+    },
+    {
+      "name": "arrow-compass-small",
+      "tags": [
+        "location",
+        "ios"
+      ]
+    },
+    {
+      "name": "arrow-compass-medium",
+      "tags": [
+        "location",
+        "ios"
+      ]
+    },
+    {
+      "name": "gps-small",
+      "tags": [
+        "gps"
+      ]
+    },
+    {
+      "name": "gps-medium",
+      "tags": [
+        "gps"
+      ]
+    },
+    {
+      "name": "gps-large",
+      "tags": [
+        "gps"
+      ]
+    },
+    {
+      "name": "gps-disabled-small",
+      "tags": [
+        "gps",
+        "disabled"
+      ]
+    },
+    {
+      "name": "gps-disabled-medium",
+      "tags": [
+        "gps",
+        "disabled"
+      ]
+    },
+    {
+      "name": "gps-disabled-large",
+      "tags": [
+        "gps",
+        "disabled"
+      ]
+    },
+    {
+      "name": "location-pin-small",
+      "tags": [
+        "marker",
+        "geopointer"
+      ]
+    },
+    {
+      "name": "location-pin-medium",
+      "tags": [
+        "marker",
+        "geopointer"
+      ]
+    },
+    {
+      "name": "location-pin-a-small",
+      "tags": [
+        "marker",
+        "A"
+      ]
+    },
+    {
+      "name": "location-pin-a-medium",
+      "tags": [
+        "marker",
+        "A"
+      ]
+    },
+    {
+      "name": "location-pin-b-small",
+      "tags": [
+        "marker",
+        "B"
+      ]
+    },
+    {
+      "name": "location-pin-b-medium",
+      "tags": [
+        "marker",
+        "B"
+      ]
+    },
+    {
+      "name": "location-pin-camera-small",
+      "tags": [
+        "",
+        "marker",
+        "tourism",
+        "travel"
+      ]
+    },
+    {
+      "name": "location-pin-camera-medium",
+      "tags": [
+        "",
+        "marker",
+        "tourism",
+        "travel"
+      ]
+    },
+    {
+      "name": "location-pin-camera-large",
+      "tags": [
+        "",
+        "marker",
+        "tourism",
+        "travel"
+      ]
+    },
+    {
+      "name": "location-pin-map-small",
+      "tags": [
+        "marker",
+        "map"
+      ]
+    },
+    {
+      "name": "location-pin-map-medium",
+      "tags": [
+        "marker",
+        "map"
+      ]
+    },
+    {
+      "name": "location-pin-map-large",
+      "tags": [
+        "marker",
+        "map"
+      ]
+    },
+    {
+      "name": "location-pin-pulse-surrounding-area-small",
+      "tags": [
+        "activity",
+        "in",
+        "the",
+        "environment"
+      ]
+    },
+    {
+      "name": "location-pin-pulse-surrounding-area-medium",
+      "tags": [
+        "activity",
+        "in",
+        "the",
+        "environment"
+      ]
+    },
+    {
+      "name": "location-pin-surrounding-area-small",
+      "tags": [
+        "marker",
+        "near"
+      ]
+    },
+    {
+      "name": "location-pin-surrounding-area-medium",
+      "tags": [
+        "marker",
+        "near"
+      ]
+    },
+    {
+      "name": "location-pin-surrounding-area-large",
+      "tags": [
+        "marker",
+        "near"
+      ]
+    },
+    {
+      "name": "location-pin-surrounding-area-power-plug-small",
+      "tags": [
+        "marker",
+        "connection",
+        "near"
+      ]
+    },
+    {
+      "name": "location-pin-surrounding-area-power-plug-medium",
+      "tags": [
+        "marker",
+        "connection",
+        "near"
+      ]
+    },
+    {
+      "name": "location-pin-surrounding-area-power-plug-large",
+      "tags": [
+        "marker",
+        "connection",
+        "near"
+      ]
+    },
+    {
+      "name": "mountain-minus-small",
+      "tags": [
+        "lower"
+      ]
+    },
+    {
+      "name": "mountain-minus-medium",
+      "tags": [
+        "lower"
+      ]
+    },
+    {
+      "name": "mountain-plus-small",
+      "tags": [
+        "higher"
+      ]
+    },
+    {
+      "name": "mountain-plus-medium",
+      "tags": [
+        "higher"
+      ]
+    },
+    {
+      "name": "street-location-pin-small",
+      "tags": [
+        "street",
+        "location",
+        "location",
+        "pin"
+      ]
+    },
+    {
+      "name": "street-location-pin-medium",
+      "tags": [
+        "street",
+        "location",
+        "location",
+        "pin"
+      ]
+    },
+    {
+      "name": "street-location-pin-large",
+      "tags": [
+        "street",
+        "location",
+        "location",
+        "pin"
+      ]
+    },
+    {
+      "name": "archive-box-small",
+      "tags": [
+        "archive",
+        "box"
+      ]
+    },
+    {
+      "name": "archive-box-medium",
+      "tags": [
+        "archive",
+        "box"
+      ]
+    },
+    {
+      "name": "archive-box-large",
+      "tags": [
+        "archive",
+        "box"
+      ]
+    },
+    {
+      "name": "briefcase-small",
+      "tags": [
+        "briefcase"
+      ]
+    },
+    {
+      "name": "briefcase-medium",
+      "tags": [
+        "briefcase"
+      ]
+    },
+    {
+      "name": "brochure-small",
+      "tags": [
+        "brochure"
+      ]
+    },
+    {
+      "name": "brochure-medium",
+      "tags": [
+        "brochure"
+      ]
+    },
+    {
+      "name": "brochure-large",
+      "tags": [
+        "brochure"
+      ]
+    },
+    {
+      "name": "calculator-small",
+      "tags": [
+        "washing",
+        "machine",
+        "laundry",
+        "wash"
+      ]
+    },
+    {
+      "name": "calculator-medium",
+      "tags": [
+        "washing",
+        "machine",
+        "laundry",
+        "wash"
+      ]
+    },
+    {
+      "name": "cash-register-small",
+      "tags": [
+        "cash",
+        "register"
+      ]
+    },
+    {
+      "name": "cash-register-medium",
+      "tags": [
+        "cash",
+        "register"
+      ]
+    },
+    {
+      "name": "coffee-machine-small",
+      "tags": [
+        "coffee",
+        "machine"
+      ]
+    },
+    {
+      "name": "coffee-machine-medium",
+      "tags": [
+        "coffee",
+        "machine"
+      ]
+    },
+    {
+      "name": "desk-small",
+      "tags": [
+        "desk"
+      ]
+    },
+    {
+      "name": "desk-medium",
+      "tags": [
+        "desk"
+      ]
+    },
+    {
+      "name": "desk-adjustable-small",
+      "tags": [
+        "adjustable",
+        "desk"
+      ]
+    },
+    {
+      "name": "desk-adjustable-medium",
+      "tags": [
+        "adjustable",
+        "desk"
+      ]
+    },
+    {
+      "name": "display-small",
+      "tags": [
+        "display"
+      ]
+    },
+    {
+      "name": "display-medium",
+      "tags": [
+        "display"
+      ]
+    },
+    {
+      "name": "display-large",
+      "tags": [
+        "display"
+      ]
+    },
+    {
+      "name": "highlighter-small",
+      "tags": [
+        "highlighter"
+      ]
+    },
+    {
+      "name": "highlighter-medium",
+      "tags": [
+        "highlighter"
+      ]
+    },
+    {
+      "name": "keyboard-small",
+      "tags": [
+        "keyboard"
+      ]
+    },
+    {
+      "name": "keyboard-medium",
+      "tags": [
+        "keyboard"
+      ]
+    },
+    {
+      "name": "laptop-small",
+      "tags": [
+        "laptop"
+      ]
+    },
+    {
+      "name": "laptop-medium",
+      "tags": [
+        "laptop"
+      ]
+    },
+    {
+      "name": "laptop-large",
+      "tags": [
+        "laptop"
+      ]
+    },
+    {
+      "name": "laptop-smartphone-small",
+      "tags": [
+        "laptop",
+        "smartphone"
+      ]
+    },
+    {
+      "name": "laptop-smartphone-medium",
+      "tags": [
+        "laptop",
+        "smartphone"
+      ]
+    },
+    {
+      "name": "laptop-smartphone-large",
+      "tags": [
+        "laptop",
+        "smartphone"
+      ]
+    },
+    {
+      "name": "megaphone-small",
+      "tags": [
+        "megaphone"
+      ]
+    },
+    {
+      "name": "megaphone-medium",
+      "tags": [
+        "megaphone"
+      ]
+    },
+    {
+      "name": "microphone-small",
+      "tags": [
+        "microphone"
+      ]
+    },
+    {
+      "name": "microphone-medium",
+      "tags": [
+        "microphone"
+      ]
+    },
+    {
+      "name": "office-chair-small",
+      "tags": [
+        "office",
+        "chair"
+      ]
+    },
+    {
+      "name": "office-chair-medium",
+      "tags": [
+        "office",
+        "chair"
+      ]
+    },
+    {
+      "name": "power-plug-small",
+      "tags": [
+        "connection",
+        "power",
+        "plug"
+      ]
+    },
+    {
+      "name": "power-plug-medium",
+      "tags": [
+        "connection",
+        "power",
+        "plug"
+      ]
+    },
+    {
+      "name": "printer-small",
+      "tags": [
+        "printer"
+      ]
+    },
+    {
+      "name": "printer-medium",
+      "tags": [
+        "printer"
+      ]
+    },
+    {
+      "name": "scanner-small",
+      "tags": [
+        "scanner"
+      ]
+    },
+    {
+      "name": "scanner-medium",
+      "tags": [
+        "scanner"
+      ]
+    },
+    {
+      "name": "smartphone-small",
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile"
+      ]
+    },
+    {
+      "name": "smartphone-medium",
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile"
+      ]
+    },
+    {
+      "name": "smartphone-large",
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile"
+      ]
+    },
+    {
+      "name": "smartwatch-small",
+      "tags": [
+        "watch",
+        "smartwatch"
+      ]
+    },
+    {
+      "name": "smartwatch-medium",
+      "tags": [
+        "watch",
+        "smartwatch"
+      ]
+    },
+    {
+      "name": "speaker-small",
+      "tags": [
+        "speaker"
+      ]
+    },
+    {
+      "name": "speaker-medium",
+      "tags": [
+        "speaker"
+      ]
+    },
+    {
+      "name": "suitcase-small",
+      "tags": [
+        "suitcase"
+      ]
+    },
+    {
+      "name": "suitcase-medium",
+      "tags": [
+        "suitcase"
+      ]
+    },
+    {
+      "name": "suitcase-large",
+      "tags": [
+        "suitcase"
+      ]
+    },
+    {
+      "name": "suitcase-disabled-small",
+      "tags": [
+        "briefcase",
+        "disabled"
+      ]
+    },
+    {
+      "name": "suitcase-disabled-medium",
+      "tags": [
+        "briefcase",
+        "disabled"
+      ]
+    },
+    {
+      "name": "suitcase-disabled-large",
+      "tags": [
+        "briefcase",
+        "disabled"
+      ]
+    },
+    {
+      "name": "tablet-small",
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile"
+      ]
+    },
+    {
+      "name": "tablet-medium",
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile"
+      ]
+    },
+    {
+      "name": "tablet-large",
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile"
+      ]
+    },
+    {
+      "name": "tablet-smartphone-small",
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile"
+      ]
+    },
+    {
+      "name": "tablet-smartphone-medium",
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile"
+      ]
+    },
+    {
+      "name": "tablet-smartphone-large",
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile"
+      ]
+    },
+    {
+      "name": "telephone-gsm-small",
+      "tags": [
+        "phone",
+        "gsm"
+      ]
+    },
+    {
+      "name": "telephone-gsm-medium",
+      "tags": [
+        "phone",
+        "gsm"
+      ]
+    },
+    {
+      "name": "telephone-receiver-small",
+      "tags": [
+        "phone",
+        "receiver"
+      ]
+    },
+    {
+      "name": "telephone-receiver-medium",
+      "tags": [
+        "phone",
+        "receiver"
+      ]
+    },
+    {
+      "name": "walkie-talkie-small",
+      "tags": [
+        "walkie",
+        "talkie"
+      ]
+    },
+    {
+      "name": "walkie-talkie-medium",
+      "tags": [
+        "walkie",
+        "talkie"
+      ]
+    },
+    {
+      "name": "weight-small",
+      "tags": [
+        "weight"
+      ]
+    },
+    {
+      "name": "weight-medium",
+      "tags": [
+        "weight"
+      ]
+    },
+    {
+      "name": "washing-machine-small",
+      "tags": [
+        "washing",
+        "machine",
+        "laundry",
+        "wash"
+      ]
+    },
+    {
+      "name": "washing-machine-medium",
+      "tags": [
+        "washing",
+        "machine",
+        "laundry",
+        "wash"
+      ]
+    },
+    {
+      "name": "washing-machine-large",
+      "tags": [
+        "washing",
+        "machine",
+        "laundry",
+        "wash"
+      ]
+    },
+    {
+      "name": "cloud-small",
+      "tags": [
+        "cloudy"
+      ]
+    },
+    {
+      "name": "cloud-medium",
+      "tags": [
+        "cloudy"
+      ]
+    },
+    {
+      "name": "cloud-large",
+      "tags": [
+        "cloudy"
+      ]
+    },
+    {
+      "name": "cloud-dense-fog-small",
+      "tags": [
+        "dense",
+        "fog"
+      ]
+    },
+    {
+      "name": "cloud-dense-fog-medium",
+      "tags": [
+        "dense",
+        "fog"
+      ]
+    },
+    {
+      "name": "cloud-drops-small",
+      "tags": [
+        "drizzle"
+      ]
+    },
+    {
+      "name": "cloud-drops-medium",
+      "tags": [
+        "drizzle"
+      ]
+    },
+    {
+      "name": "cloud-drops-moon-small",
+      "tags": [
+        "rain",
+        "at",
+        "night"
+      ]
+    },
+    {
+      "name": "cloud-drops-moon-medium",
+      "tags": [
+        "rain",
+        "at",
+        "night"
+      ]
+    },
+    {
+      "name": "cloud-fog-small",
+      "tags": [
+        "fog"
+      ]
+    },
+    {
+      "name": "cloud-fog-medium",
+      "tags": [
+        "fog"
+      ]
+    },
+    {
+      "name": "cloud-ice-small",
+      "tags": [
+        "snow",
+        "star"
+      ]
+    },
+    {
+      "name": "cloud-ice-medium",
+      "tags": [
+        "snow",
+        "star"
+      ]
+    },
+    {
+      "name": "cloud-lightning-small",
+      "tags": [
+        "thunderstorm"
+      ]
+    },
+    {
+      "name": "cloud-lightning-medium",
+      "tags": [
+        "thunderstorm"
+      ]
+    },
+    {
+      "name": "cloud-lightning-moon-small",
+      "tags": [
+        "night",
+        "thunderstorm"
+      ]
+    },
+    {
+      "name": "cloud-lightning-moon-medium",
+      "tags": [
+        "night",
+        "thunderstorm"
+      ]
+    },
+    {
+      "name": "cloud-little-snow-moon-small",
+      "tags": [
+        "snow",
+        "showers"
+      ]
+    },
+    {
+      "name": "cloud-little-snow-moon-medium",
+      "tags": [
+        "snow",
+        "showers"
+      ]
+    },
+    {
+      "name": "cloud-little-snow-sun-small",
+      "tags": [
+        "snow",
+        "showers",
+        "with",
+        "sun"
+      ]
+    },
+    {
+      "name": "cloud-little-snow-sun-medium",
+      "tags": [
+        "snow",
+        "showers",
+        "with",
+        "sun"
+      ]
+    },
+    {
+      "name": "cloud-moon-small",
+      "tags": [
+        "cloud",
+        "moon"
+      ]
+    },
+    {
+      "name": "cloud-moon-medium",
+      "tags": [
+        "cloud",
+        "moon"
+      ]
+    },
+    {
+      "name": "cloud-rain-small",
+      "tags": [
+        "rain"
+      ]
+    },
+    {
+      "name": "cloud-rain-medium",
+      "tags": [
+        "rain"
+      ]
+    },
+    {
+      "name": "cloud-rain-snow-small",
+      "tags": [
+        "sleet"
+      ]
+    },
+    {
+      "name": "cloud-rain-snow-medium",
+      "tags": [
+        "sleet"
+      ]
+    },
+    {
+      "name": "cloud-rain-snow-moon-small",
+      "tags": [
+        "sleet",
+        "moon"
+      ]
+    },
+    {
+      "name": "cloud-rain-snow-moon-medium",
+      "tags": [
+        "sleet",
+        "moon"
+      ]
+    },
+    {
+      "name": "cloud-rain-snow-sun-small",
+      "tags": [
+        "sun",
+        "sleet"
+      ]
+    },
+    {
+      "name": "cloud-rain-snow-sun-medium",
+      "tags": [
+        "sun",
+        "sleet"
+      ]
+    },
+    {
+      "name": "cloud-rain-sun-small",
+      "tags": [
+        "rain",
+        "with",
+        "sun"
+      ]
+    },
+    {
+      "name": "cloud-rain-sun-medium",
+      "tags": [
+        "rain",
+        "with",
+        "sun"
+      ]
+    },
+    {
+      "name": "cloud-snow-small",
+      "tags": [
+        "snow"
+      ]
+    },
+    {
+      "name": "cloud-snow-medium",
+      "tags": [
+        "snow"
+      ]
+    },
+    {
+      "name": "cloud-snow-lightning-small",
+      "tags": [
+        "snow",
+        "storm"
+      ]
+    },
+    {
+      "name": "cloud-snow-lightning-medium",
+      "tags": [
+        "snow",
+        "storm"
+      ]
+    },
+    {
+      "name": "cloud-snow-moon-small",
+      "tags": [
+        "snow",
+        "moon",
+        "snow",
+        "by",
+        "night"
+      ]
+    },
+    {
+      "name": "cloud-snow-moon-medium",
+      "tags": [
+        "snow",
+        "moon",
+        "snow",
+        "by",
+        "night"
+      ]
+    },
+    {
+      "name": "cloud-snow-sun-small",
+      "tags": [
+        "snow",
+        "with",
+        "sun"
+      ]
+    },
+    {
+      "name": "cloud-snow-sun-medium",
+      "tags": [
+        "snow",
+        "with",
+        "sun"
+      ]
+    },
+    {
+      "name": "cloud-snowflake-small",
+      "tags": [
+        "snow"
+      ]
+    },
+    {
+      "name": "cloud-snowflake-medium",
+      "tags": [
+        "snow"
+      ]
+    },
+    {
+      "name": "cloud-snowflake-sun-small",
+      "tags": [
+        "blizzard"
+      ]
+    },
+    {
+      "name": "cloud-snowflake-sun-medium",
+      "tags": [
+        "blizzard"
+      ]
+    },
+    {
+      "name": "cloud-strong-rain-moon-small",
+      "tags": [
+        "heavy",
+        "rain",
+        "by",
+        "night"
+      ]
+    },
+    {
+      "name": "cloud-strong-rain-moon-medium",
+      "tags": [
+        "heavy",
+        "rain",
+        "by",
+        "night"
+      ]
+    },
+    {
+      "name": "cloud-strong-rain-sun-small",
+      "tags": [
+        "heavy",
+        "rain",
+        "with",
+        "sun"
+      ]
+    },
+    {
+      "name": "cloud-strong-rain-sun-medium",
+      "tags": [
+        "heavy",
+        "rain",
+        "with",
+        "sun"
+      ]
+    },
+    {
+      "name": "cloud-sun-small",
+      "tags": [
+        "cloud",
+        "with",
+        "sun"
+      ]
+    },
+    {
+      "name": "cloud-sun-medium",
+      "tags": [
+        "cloud",
+        "with",
+        "sun"
+      ]
+    },
+    {
+      "name": "cloud-sunshine-small",
+      "tags": [
+        "slightly",
+        "cloudy"
+      ]
+    },
+    {
+      "name": "cloud-sunshine-medium",
+      "tags": [
+        "slightly",
+        "cloudy"
+      ]
+    },
+    {
+      "name": "fog-small",
+      "tags": [
+        "fog"
+      ]
+    },
+    {
+      "name": "fog-medium",
+      "tags": [
+        "fog"
+      ]
+    },
+    {
+      "name": "moon-small",
+      "tags": [
+        "moon",
+        "night"
+      ]
+    },
+    {
+      "name": "moon-medium",
+      "tags": [
+        "moon",
+        "night"
+      ]
+    },
+    {
+      "name": "sun-moon-small",
+      "tags": [
+        "sun",
+        "and",
+        "moon"
+      ]
+    },
+    {
+      "name": "sun-moon-medium",
+      "tags": [
+        "sun",
+        "and",
+        "moon"
+      ]
+    },
+    {
+      "name": "sunrise-small",
+      "tags": [
+        "fog"
+      ]
+    },
+    {
+      "name": "sunrise-medium",
+      "tags": [
+        "fog"
+      ]
+    },
+    {
+      "name": "sunshine-small",
+      "tags": [
+        "sunny"
+      ]
+    },
+    {
+      "name": "sunshine-medium",
+      "tags": [
+        "sunny"
+      ]
+    },
+    {
+      "name": "sunshine-large",
+      "tags": [
+        "sunny"
+      ]
+    },
+    {
+      "name": "weather-unknown-small",
+      "tags": [
+        "weather",
+        "unknown"
+      ]
+    },
+    {
+      "name": "weather-unknown-medium",
+      "tags": [
+        "weather",
+        "unknown"
+      ]
+    },
+    {
+      "name": "fast-forward-small",
+      "tags": [
+        "forward"
+      ]
+    },
+    {
+      "name": "fast-forward-medium",
+      "tags": [
+        "forward"
+      ]
+    },
+    {
+      "name": "next-small",
+      "tags": [
+        "next"
+      ]
+    },
+    {
+      "name": "next-medium",
+      "tags": [
+        "next"
+      ]
+    },
+    {
+      "name": "pause-small",
+      "tags": [
+        "pause"
+      ]
+    },
+    {
+      "name": "pause-medium",
+      "tags": [
+        "pause"
+      ]
+    },
+    {
+      "name": "play-small",
+      "tags": [
+        "play"
+      ]
+    },
+    {
+      "name": "play-medium",
+      "tags": [
+        "play"
+      ]
+    },
+    {
+      "name": "previous-small",
+      "tags": [
+        "previous"
+      ]
+    },
+    {
+      "name": "previous-medium",
+      "tags": [
+        "previous"
+      ]
+    },
+    {
+      "name": "record-small",
+      "tags": [
+        "record"
+      ]
+    },
+    {
+      "name": "record-medium",
+      "tags": [
+        "record"
+      ]
+    },
+    {
+      "name": "rewind-small",
+      "tags": [
+        "rewind"
+      ]
+    },
+    {
+      "name": "rewind-medium",
+      "tags": [
+        "rewind"
+      ]
+    },
+    {
+      "name": "stop-small",
+      "tags": [
+        "stop"
+      ]
+    },
+    {
+      "name": "stop-medium",
+      "tags": [
+        "stop"
+      ]
+    },
+    {
+      "name": "airplane-small",
+      "tags": [
+        "plane",
+        "airplane"
+      ]
+    },
+    {
+      "name": "airplane-medium",
+      "tags": [
+        "plane",
+        "airplane"
+      ]
+    },
+    {
+      "name": "bicycle-small",
+      "tags": [
+        "velo"
+      ]
+    },
+    {
+      "name": "bicycle-medium",
+      "tags": [
+        "velo"
+      ]
+    },
+    {
+      "name": "bicycle-large",
+      "tags": [
+        "velo"
+      ]
+    },
+    {
+      "name": "bicycle-profile-user-group-circle-small",
+      "tags": [
+        "bike",
+        "sharing"
+      ]
+    },
+    {
+      "name": "bicycle-profile-user-group-circle-medium",
+      "tags": [
+        "bike",
+        "sharing"
+      ]
+    },
+    {
+      "name": "bicycle-profile-user-group-circle-large",
+      "tags": [
+        "bike",
+        "sharing"
+      ]
+    },
+    {
+      "name": "bike-profile-power-plug-small",
+      "tags": [
+        "electric",
+        "car"
+      ]
+    },
+    {
+      "name": "bike-profile-power-plug-medium",
+      "tags": [
+        "electric",
+        "car"
+      ]
+    },
+    {
+      "name": "bike-profile-sign-parking-small",
+      "tags": [
+        "velo",
+        "parking",
+        "parking",
+        "sign"
+      ]
+    },
+    {
+      "name": "bike-profile-sign-parking-medium",
+      "tags": [
+        "velo",
+        "parking",
+        "parking",
+        "sign"
+      ]
+    },
+    {
+      "name": "boat-profile-small",
+      "tags": [
+        "velo",
+        "parking",
+        "parking",
+        "sign"
+      ]
+    },
+    {
+      "name": "boat-profile-medium",
+      "tags": [
+        "velo",
+        "parking",
+        "parking",
+        "sign"
+      ]
+    },
+    {
+      "name": "bus-small",
+      "tags": [
+        "bus"
+      ]
+    },
+    {
+      "name": "bus-medium",
+      "tags": [
+        "bus"
+      ]
+    },
+    {
+      "name": "bus-sbb-small",
+      "tags": [
+        "replacement",
+        "bus"
+      ]
+    },
+    {
+      "name": "bus-sbb-medium",
+      "tags": [
+        "replacement",
+        "bus"
+      ]
+    },
+    {
+      "name": "bus-stop-small",
+      "tags": [
+        "bus",
+        "stop"
+      ]
+    },
+    {
+      "name": "bus-stop-medium",
+      "tags": [
+        "bus",
+        "stop"
+      ]
+    },
+    {
+      "name": "bus-surrounding-area-small",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "bus-surrounding-area-medium",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "bus-profile-small",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "bus-profile-medium",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "cable-car-profile-small",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "cable-car-profile-medium",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "car-small",
+      "tags": [
+        "automobile",
+        "road",
+        "vehicle",
+        "car"
+      ]
+    },
+    {
+      "name": "car-medium",
+      "tags": [
+        "automobile",
+        "road",
+        "vehicle",
+        "car"
+      ]
+    },
+    {
+      "name": "car-profile-small",
+      "tags": [
+        "car"
+      ]
+    },
+    {
+      "name": "car-profile-medium",
+      "tags": [
+        "car"
+      ]
+    },
+    {
+      "name": "car-profile-large",
+      "tags": [
+        "car"
+      ]
+    },
+    {
+      "name": "car-profile-power-plug-small",
+      "tags": [
+        "electric",
+        "car"
+      ]
+    },
+    {
+      "name": "car-profile-power-plug-medium",
+      "tags": [
+        "electric",
+        "car"
+      ]
+    },
+    {
+      "name": "car-profile-power-plug-large",
+      "tags": [
+        "electric",
+        "car"
+      ]
+    },
+    {
+      "name": "car-profile-sign-parking-small",
+      "tags": [
+        "car",
+        "parking",
+        "sign"
+      ]
+    },
+    {
+      "name": "car-profile-sign-parking-medium",
+      "tags": [
+        "car",
+        "parking",
+        "sign"
+      ]
+    },
+    {
+      "name": "car-profile-sign-parking-large",
+      "tags": [
+        "car",
+        "parking",
+        "sign"
+      ]
+    },
+    {
+      "name": "car-profile-user-group-circle-small",
+      "tags": [
+        "car",
+        "sharing"
+      ]
+    },
+    {
+      "name": "car-profile-user-group-circle-medium",
+      "tags": [
+        "car",
+        "sharing"
+      ]
+    },
+    {
+      "name": "car-profile-user-group-circle-large",
+      "tags": [
+        "car",
+        "sharing"
+      ]
+    },
+    {
+      "name": "car-sign-parking-small",
+      "tags": [
+        "car",
+        "parking"
+      ]
+    },
+    {
+      "name": "car-sign-parking-medium",
+      "tags": [
+        "car",
+        "parking"
+      ]
+    },
+    {
+      "name": "chairlift-profile-small",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "chairlift-profile-medium",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "charging-station-small",
+      "tags": [
+        "charging",
+        "station"
+      ]
+    },
+    {
+      "name": "charging-station-medium",
+      "tags": [
+        "charging",
+        "station"
+      ]
+    },
+    {
+      "name": "combined-mobility-small",
+      "tags": [
+        "combined",
+        "mobility"
+      ]
+    },
+    {
+      "name": "combined-mobility-medium",
+      "tags": [
+        "combined",
+        "mobility"
+      ]
+    },
+    {
+      "name": "container-small",
+      "tags": [
+        "container"
+      ]
+    },
+    {
+      "name": "container-medium",
+      "tags": [
+        "container"
+      ]
+    },
+    {
+      "name": "double-deck-wagon-small",
+      "tags": [
+        "double-deck",
+        "wagon"
+      ]
+    },
+    {
+      "name": "double-deck-wagon-medium",
+      "tags": [
+        "double-deck",
+        "wagon"
+      ]
+    },
+    {
+      "name": "driverless-bus-profile-small",
+      "tags": [
+        "self-driving",
+        "bus"
+      ]
+    },
+    {
+      "name": "driverless-bus-profile-medium",
+      "tags": [
+        "self-driving",
+        "bus"
+      ]
+    },
+    {
+      "name": "freight-wagon-small",
+      "tags": [
+        "freight",
+        "wagon"
+      ]
+    },
+    {
+      "name": "freight-wagon-medium",
+      "tags": [
+        "freight",
+        "wagon"
+      ]
+    },
+    {
+      "name": "freight-wagon-large",
+      "tags": [
+        "freight",
+        "wagon"
+      ]
+    },
+    {
+      "name": "funicular-profile-small",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "funicular-profile-medium",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "gear-changing-small",
+      "tags": [
+        "gear",
+        "changing",
+        "gear",
+        "shift",
+        "mobility",
+        "offer"
+      ]
+    },
+    {
+      "name": "gear-changing-medium",
+      "tags": [
+        "gear",
+        "changing",
+        "gear",
+        "shift",
+        "mobility",
+        "offer"
+      ]
+    },
+    {
+      "name": "gondola-profile-small",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "gondola-profile-medium",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "home-power-plug-small",
+      "tags": [
+        "home",
+        "charging"
+      ]
+    },
+    {
+      "name": "home-power-plug-medium",
+      "tags": [
+        "home",
+        "charging"
+      ]
+    },
+    {
+      "name": "k-r-small",
+      "tags": [
+        "k+r"
+      ]
+    },
+    {
+      "name": "k-r-medium",
+      "tags": [
+        "k+r"
+      ]
+    },
+    {
+      "name": "locomotive-high-speed-small",
+      "tags": [
+        "high",
+        "speed",
+        "train",
+        "train"
+      ]
+    },
+    {
+      "name": "locomotive-high-speed-medium",
+      "tags": [
+        "high",
+        "speed",
+        "train",
+        "train"
+      ]
+    },
+    {
+      "name": "locomotive-high-speed-large",
+      "tags": [
+        "high",
+        "speed",
+        "train",
+        "train"
+      ]
+    },
+    {
+      "name": "locomotive-profile-moon-small",
+      "tags": [
+        "night",
+        "travel",
+        "night",
+        "train"
+      ]
+    },
+    {
+      "name": "locomotive-profile-moon-medium",
+      "tags": [
+        "night",
+        "travel",
+        "night",
+        "train"
+      ]
+    },
+    {
+      "name": "locomotive-profile-moon-large",
+      "tags": [
+        "night",
+        "travel",
+        "night",
+        "train"
+      ]
+    },
+    {
+      "name": "long-distance-coach-profile-small",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "long-distance-coach-profile-medium",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "microscooter-profile-small",
+      "tags": [
+        "microscooter"
+      ]
+    },
+    {
+      "name": "microscooter-profile-medium",
+      "tags": [
+        "microscooter"
+      ]
+    },
+    {
+      "name": "microscooter-profile-power-plug-small",
+      "tags": [
+        "electric",
+        "microscooter"
+      ]
+    },
+    {
+      "name": "microscooter-profile-power-plug-medium",
+      "tags": [
+        "electric",
+        "microscooter"
+      ]
+    },
+    {
+      "name": "moving-bus-small",
+      "tags": [
+        "self-driving",
+        "bus"
+      ]
+    },
+    {
+      "name": "moving-bus-medium",
+      "tags": [
+        "self-driving",
+        "bus"
+      ]
+    },
+    {
+      "name": "park-and-rail-small",
+      "tags": [
+        "parc",
+        "and",
+        "rail"
+      ]
+    },
+    {
+      "name": "park-and-rail-medium",
+      "tags": [
+        "parc",
+        "and",
+        "rail"
+      ]
+    },
+    {
+      "name": "park-and-rail-large",
+      "tags": [
+        "parc",
+        "and",
+        "rail"
+      ]
+    },
+    {
+      "name": "petrol-station-small",
+      "tags": [
+        "petrol",
+        "fuel",
+        "petrol",
+        "station"
+      ]
+    },
+    {
+      "name": "petrol-station-medium",
+      "tags": [
+        "petrol",
+        "fuel",
+        "petrol",
+        "station"
+      ]
+    },
+    {
+      "name": "rack-railaway-profile-small",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "rack-railaway-profile-medium",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "scooter-profile-small",
+      "tags": [
+        "scooter"
+      ]
+    },
+    {
+      "name": "scooter-profile-medium",
+      "tags": [
+        "scooter"
+      ]
+    },
+    {
+      "name": "scooter-profile-power-plug-small",
+      "tags": [
+        "electric",
+        "scooter"
+      ]
+    },
+    {
+      "name": "scooter-profile-power-plug-medium",
+      "tags": [
+        "electric",
+        "scooter"
+      ]
+    },
+    {
+      "name": "shuttle-small",
+      "tags": [
+        "shuttle"
+      ]
+    },
+    {
+      "name": "shuttle-medium",
+      "tags": [
+        "shuttle"
+      ]
+    },
+    {
+      "name": "sign-parking-small",
+      "tags": [
+        "parking",
+        "sign"
+      ]
+    },
+    {
+      "name": "sign-parking-medium",
+      "tags": [
+        "parking",
+        "sign"
+      ]
+    },
+    {
+      "name": "sign-parking-large",
+      "tags": [
+        "parking",
+        "sign"
+      ]
+    },
+    {
+      "name": "taxi-small",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "name": "taxi-medium",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "name": "taxi-profile-small",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "name": "taxi-profile-medium",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "name": "taxi-profile-large",
+      "tags": [
+        "taxi"
+      ]
+    },
+    {
+      "name": "train-small",
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "name": "train-medium",
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "name": "train-large",
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "name": "train-profile-small",
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "name": "train-profile-medium",
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "name": "train-profile-large",
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "name": "tram-small",
+      "tags": [
+        "tram"
+      ]
+    },
+    {
+      "name": "tram-medium",
+      "tags": [
+        "tram"
+      ]
+    },
+    {
+      "name": "tram-profile-small",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "tram-profile-medium",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "underground-vehicule-profile-small",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "underground-vehicule-profile-medium",
+      "tags": [
+        "short",
+        "distance",
+        "traffic"
+      ]
+    },
+    {
+      "name": "wagon-small",
+      "tags": [
+        "wagon",
+        "wagon",
+        "profile"
+      ]
+    },
+    {
+      "name": "wagon-medium",
+      "tags": [
+        "wagon",
+        "wagon",
+        "profile"
+      ]
+    },
+    {
+      "name": "walk-large-small",
+      "tags": [
+        "pedestrian"
+      ]
+    },
+    {
+      "name": "walk-large-medium",
+      "tags": [
+        "pedestrian"
+      ]
+    },
+    {
+      "name": "walk-large-large",
+      "tags": [
+        "pedestrian"
+      ]
+    },
+    {
+      "name": "car-power-plug-small",
+      "tags": [
+        "e-car",
+        "car"
+      ]
+    },
+    {
+      "name": "car-power-plug-medium",
+      "tags": [
+        "e-car",
+        "car"
+      ]
+    },
+    {
+      "name": "car-power-plug-large",
+      "tags": [
+        "e-car",
+        "car"
+      ]
+    },
+    {
+      "name": "adult-kids-large",
+      "tags": [
+        "school",
+        "excursions"
+      ]
+    },
+    {
+      "name": "balloons-small",
+      "tags": [
+        "game",
+        "fun"
+      ]
+    },
+    {
+      "name": "balloons-medium",
+      "tags": [
+        "game",
+        "fun"
+      ]
+    },
+    {
+      "name": "balloons-large",
+      "tags": [
+        "game",
+        "fun"
+      ]
+    },
+    {
+      "name": "child-adult-small",
+      "tags": [
+        "travel",
+        "with",
+        "children",
+        "child",
+        "family"
+      ]
+    },
+    {
+      "name": "child-adult-medium",
+      "tags": [
+        "travel",
+        "with",
+        "children",
+        "child",
+        "family"
+      ]
+    },
+    {
+      "name": "child-adult-large",
+      "tags": [
+        "travel",
+        "with",
+        "children",
+        "child",
+        "family"
+      ]
+    },
+    {
+      "name": "christmas-tree-shopping-bag-large",
+      "tags": [
+        "christmas",
+        "market",
+        "shopping"
+      ]
+    },
+    {
+      "name": "clapperboard-small",
+      "tags": [
+        "clapperboard",
+        "movie",
+        "entertainment"
+      ]
+    },
+    {
+      "name": "clapperboard-medium",
+      "tags": [
+        "clapperboard",
+        "movie",
+        "entertainment"
+      ]
+    },
+    {
+      "name": "clapperboard-large",
+      "tags": [
+        "clapperboard",
+        "movie",
+        "entertainment"
+      ]
+    },
+    {
+      "name": "elephant-large",
+      "tags": [
+        "zoo"
+      ]
+    },
+    {
+      "name": "ferris-wheel-large",
+      "tags": [
+        "folk",
+        "festival",
+        "ferris",
+        "wheel"
+      ]
+    },
+    {
+      "name": "hiking-boot-large",
+      "tags": [
+        "hike"
+      ]
+    },
+    {
+      "name": "leaf-large",
+      "tags": [
+        "nature",
+        "leaf",
+        "attractions"
+      ]
+    },
+    {
+      "name": "locomotive-viaduct-large",
+      "tags": [
+        "experience",
+        "panorama",
+        "travel"
+      ]
+    },
+    {
+      "name": "lucerne-chapel-bridge-large",
+      "tags": [
+        "short",
+        "trip",
+        "switzerland"
+      ]
+    },
+    {
+      "name": "market-shopping-bag-large",
+      "tags": [
+        "market",
+        "shopping"
+      ]
+    },
+    {
+      "name": "mountain-sun-small",
+      "tags": [
+        "mountains",
+        "views"
+      ]
+    },
+    {
+      "name": "mountain-sun-medium",
+      "tags": [
+        "mountains",
+        "views"
+      ]
+    },
+    {
+      "name": "mountain-sun-large",
+      "tags": [
+        "mountains",
+        "views"
+      ]
+    },
+    {
+      "name": "museum-large",
+      "tags": [
+        "art",
+        "culture",
+        "museum"
+      ]
+    },
+    {
+      "name": "music-notes-small",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "name": "music-notes-medium",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "name": "music-notes-large",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "name": "roof-bed-small",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "name": "roof-bed-medium",
+      "tags": [
+        "music"
+      ]
+    },
+    {
+      "name": "music-rock-hand-gesture-large",
+      "tags": [
+        "concerts",
+        "musicals",
+        "festivals"
+      ]
+    },
+    {
+      "name": "railway-ship-large",
+      "tags": [
+        "train",
+        "ship"
+      ]
+    },
+    {
+      "name": "skis-ski-poles-small",
+      "tags": [
+        "skis",
+        "ski",
+        "poles"
+      ]
+    },
+    {
+      "name": "skis-ski-poles-medium",
+      "tags": [
+        "skis",
+        "ski",
+        "poles"
+      ]
+    },
+    {
+      "name": "skis-ski-poles-large",
+      "tags": [
+        "skis",
+        "ski",
+        "poles"
+      ]
+    },
+    {
+      "name": "sledge-snowshoe-large",
+      "tags": [
+        "sledge",
+        "winter",
+        "hiking",
+        "snowshoe"
+      ]
+    },
+    {
+      "name": "soccer-ball-large",
+      "tags": [
+        "sports",
+        "events"
+      ]
+    },
+    {
+      "name": "sunshade-sun-sand-small",
+      "tags": [
+        "holiday"
+      ]
+    },
+    {
+      "name": "sunshade-sun-sand-medium",
+      "tags": [
+        "holiday"
+      ]
+    },
+    {
+      "name": "sunshade-sun-sand-large",
+      "tags": [
+        "holiday"
+      ]
+    },
+    {
+      "name": "three-adults-large",
+      "tags": [
+        "group",
+        "trip"
+      ]
+    },
+    {
+      "name": "train-ski-large",
+      "tags": [
+        "snow",
+        "n",
+        "rail"
+      ]
+    },
+    {
+      "name": "travel-backpack-small",
+      "tags": [
+        "outdoor",
+        "international",
+        "travel",
+        "backpacking"
+      ]
+    },
+    {
+      "name": "travel-backpack-medium",
+      "tags": [
+        "outdoor",
+        "international",
+        "travel",
+        "backpacking"
+      ]
+    },
+    {
+      "name": "travel-backpack-large",
+      "tags": [
+        "outdoor",
+        "international",
+        "travel",
+        "backpacking"
+      ]
+    },
+    {
+      "name": "two-adults-kid-small",
+      "tags": [
+        "family",
+        "trip"
+      ]
+    },
+    {
+      "name": "two-adults-kid-medium",
+      "tags": [
+        "family",
+        "trip"
+      ]
+    },
+    {
+      "name": "two-adults-kid-large",
+      "tags": [
+        "family",
+        "trip"
+      ]
+    },
+    {
+      "name": "waves-ladder-small",
+      "tags": [
+        "waves",
+        "water",
+        "pool",
+        "ladder"
+      ]
+    },
+    {
+      "name": "waves-ladder-medium",
+      "tags": [
+        "waves",
+        "water",
+        "pool",
+        "ladder"
+      ]
+    },
+    {
+      "name": "waves-ladder-large",
+      "tags": [
+        "waves",
+        "water",
+        "pool",
+        "ladder"
+      ]
+    },
+    {
+      "name": "mountain-lake-sun-small",
+      "tags": [
+        "waves",
+        "water",
+        "sun",
+        "mountain",
+        "lake",
+        "view"
+      ]
+    },
+    {
+      "name": "mountain-lake-sun-medium",
+      "tags": [
+        "waves",
+        "water",
+        "sun",
+        "mountain",
+        "lake",
+        "view"
+      ]
+    },
+    {
+      "name": "mountain-lake-sun-large",
+      "tags": [
+        "waves",
+        "water",
+        "sun",
+        "mountain",
+        "lake",
+        "view"
+      ]
+    },
+    {
+      "name": "barrier-construction-small",
+      "tags": [
+        "barriere",
+        "construction"
+      ]
+    },
+    {
+      "name": "barrier-construction-medium",
+      "tags": [
+        "barriere",
+        "construction"
+      ]
+    },
+    {
+      "name": "barrier-construction-large",
+      "tags": [
+        "barriere",
+        "construction"
+      ]
+    },
+    {
+      "name": "construction-small",
+      "tags": [
+        "user",
+        "construction",
+        "work"
+      ]
+    },
+    {
+      "name": "construction-medium",
+      "tags": [
+        "user",
+        "construction",
+        "work"
+      ]
+    },
+    {
+      "name": "railway-switch-small",
+      "tags": [
+        "give",
+        "way"
+      ]
+    },
+    {
+      "name": "railway-switch-medium",
+      "tags": [
+        "give",
+        "way"
+      ]
+    },
+    {
+      "name": "railway-switch-large",
+      "tags": [
+        "give",
+        "way"
+      ]
+    },
+    {
+      "name": "train-signal-small",
+      "tags": [
+        "signal",
+        "train",
+        "signal"
+      ]
+    },
+    {
+      "name": "train-signal-medium",
+      "tags": [
+        "signal",
+        "train",
+        "signal"
+      ]
+    },
+    {
+      "name": "train-signal-large",
+      "tags": [
+        "signal",
+        "train",
+        "signal"
+      ]
+    },
+    {
+      "name": "train-tracks-small",
+      "tags": [
+        "rails",
+        "train",
+        "tracks"
+      ]
+    },
+    {
+      "name": "train-tracks-medium",
+      "tags": [
+        "rails",
+        "train",
+        "tracks"
+      ]
+    },
+    {
+      "name": "train-tracks-large",
+      "tags": [
+        "rails",
+        "train",
+        "tracks"
+      ]
+    },
+    {
+      "name": "building-tree-small",
+      "tags": [
+        "building"
+      ]
+    },
+    {
+      "name": "building-tree-medium",
+      "tags": [
+        "building"
+      ]
+    },
+    {
+      "name": "building-tree-large",
+      "tags": [
+        "building"
+      ]
+    },
+    {
+      "name": "city-small",
+      "tags": [
+        "city"
+      ]
+    },
+    {
+      "name": "city-medium",
+      "tags": [
+        "city"
+      ]
+    },
+    {
+      "name": "city-large",
+      "tags": [
+        "city"
+      ]
+    },
+    {
+      "name": "medical-facility-small",
+      "tags": [
+        "city"
+      ]
+    },
+    {
+      "name": "medical-facility-medium",
+      "tags": [
+        "city"
+      ]
+    },
+    {
+      "name": "fireplace-small",
+      "tags": [
+        "fire",
+        "place",
+        "fireplace"
+      ]
+    },
+    {
+      "name": "fireplace-medium",
+      "tags": [
+        "fire",
+        "place",
+        "fireplace"
+      ]
+    },
+    {
+      "name": "fireplace-large",
+      "tags": [
+        "fire",
+        "place",
+        "fireplace"
+      ]
+    },
+    {
+      "name": "eiffel-tower-small",
+      "tags": [
+        "Eiffel",
+        "Paris"
+      ]
+    },
+    {
+      "name": "eiffel-tower-medium",
+      "tags": [
+        "Eiffel",
+        "Paris"
+      ]
+    },
+    {
+      "name": "eiffel-tower-large",
+      "tags": [
+        "Eiffel",
+        "Paris"
+      ]
+    },
+    {
+      "name": "curriculum-vitae-small",
+      "tags": [
+        "resume"
+      ]
+    },
+    {
+      "name": "curriculum-vitae-medium",
+      "tags": [
+        "resume"
+      ]
+    },
+    {
+      "name": "curriculum-vitae-large",
+      "tags": [
+        "resume"
+      ]
+    },
+    {
+      "name": "hand-graduation-cap-small",
+      "tags": [
+        "internship"
+      ]
+    },
+    {
+      "name": "hand-graduation-cap-medium",
+      "tags": [
+        "internship"
+      ]
+    },
+    {
+      "name": "hand-graduation-cap-large",
+      "tags": [
+        "internship"
+      ]
+    },
+    {
+      "name": "ship-steering-wheel-small",
+      "tags": [
+        "steering",
+        "wheel"
+      ]
+    },
+    {
+      "name": "ship-steering-wheel-medium",
+      "tags": [
+        "steering",
+        "wheel"
+      ]
+    },
+    {
+      "name": "arrow-circle-eye-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "arrow-circle-eye-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "arrow-circle-lightning-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "arrow-circle-lightning-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "arrow-circle-switzerland-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "arrow-circle-switzerland-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "arrow-circle-train-tracks-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "arrow-circle-train-tracks-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "arrow-circle-two-users-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "arrow-circle-two-users-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "book-section-mark-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "book-section-mark-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "certificate-ribbon-tick-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "certificate-ribbon-tick-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "coin-stack-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "coin-stack-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "display-binary-code-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "display-binary-code-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "display-gears-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "display-gears-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "five-circles-interconnected-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "five-circles-interconnected-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "freight-wagon-container-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "freight-wagon-container-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "freight-wagon-globe-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "freight-wagon-globe-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "freight-wagon-switzerland-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "freight-wagon-switzerland-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "hand-briefcase-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "hand-briefcase-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "hand-locomotive-profile-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "hand-locomotive-profile-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "hand-user-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "hand-user-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "parliament-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "parliament-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "three-gears-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "three-gears-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ticket-fv-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ticket-fv-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ticket-ipv-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ticket-ipv-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ticket-rv-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ticket-rv-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "train-tracks-horizontal-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "train-tracks-horizontal-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "user-headset-display-small",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "user-headset-display-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-1",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-2",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-aa",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ar",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-abteilkinderwagen",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-af",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-at",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-aw",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-b",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-bb",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-be",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-bi",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-bk",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-bl",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-br",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-bs",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-bv",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-bz",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-cc",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ci",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-co",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ds",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-dz",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ep",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-fa",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-fl",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-fs",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-fw",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-fz",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-gk",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-gl",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-gn",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-gp",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-gr",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-gx",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-gz",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-hk",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-hn",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ii",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-je",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-kb",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-kw",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-lc",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-le",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-me",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-mi",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-mo",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-mp",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-nf",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-nj",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-nv",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ob",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-om",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-p",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-pa",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-pg",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ph",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-pl",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-pr",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-r",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-rb",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-rc",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-re",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-rq",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-rr",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-reisegruppe",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-rs",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-rt",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ry",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-rz",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-s",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sb",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sc",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sd",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sf",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sh",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sk",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sl",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sm",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sn",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sv",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-sz",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ta",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-tc",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-td",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-tf",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-tg",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-tk",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-tn",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ts",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-tt",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-tx",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-uk",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-vb",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-vc",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-vi",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-vl",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-vn",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-vo",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-vp",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-vr",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-vt",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-vx",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-wb",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-wf",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-wl",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-wr",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ws",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-wv",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-x",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-xp",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-xr",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-xt",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-y",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-yb",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-ym",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-yt",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-z",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sa-zm",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "add-stop",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "alternative",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "cancellation",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "construction",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "delay",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "disruption",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "info",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "missed-connection",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "platform-change",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "replacementbus",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "reroute",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "utilization-high",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "utilization-low",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "utilization-medium",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "utilization-none",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "bex",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "cnl",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ec",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "en",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "gex",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-1",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-11",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-2",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-21",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-3",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-4",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-5",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-51",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-6",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-61",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-7",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-8",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-81",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ic-9",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ice",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "icn",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-13",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-15",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-16",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-17",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-18",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-19",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-25",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-26",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-27",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-35",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-36",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-37",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-40",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-45",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-46",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-47",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-48",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-55",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-56",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-65",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-66",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-67",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-70",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-75",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-90",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ir-95",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "nj",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "ogv",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "pe",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "re",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "rj",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "rjx",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "rx",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-1",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-3",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-4",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-5",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-6",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-7",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-8",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-9",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-10",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-15",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-18",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "sn-20",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "tgv",
+      "tags": [
+        "-"
+      ]
+    },
+    {
+      "name": "vae",
+      "tags": [
+        "-"
+      ]
+    }
+  ]
+}
