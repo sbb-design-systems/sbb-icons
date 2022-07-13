@@ -1,11 +1,15 @@
 {
   "name": "@sbb-esta/icons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Icon package for the SBB organization",
   "repository": "https://github.com/sbb-design-systems/sbb-icons.git",
   "author": "ESTA",
   "license": "Apache-2.0",
-  "keywords": ["icons", "svg", "sbb"],
+  "keywords": [
+    "icons",
+    "svg",
+    "sbb"
+  ],
   "scripts": {
     "extract": "tsx scripts/extract-icons.ts"
   },
@@ -20,7 +24,9 @@
     "tsx": "3.7.1",
     "typescript": "4.7.4"
   },
-  "files": ["icons"],
+  "files": [
+    "icons"
+  ],
   "publishConfig": {
     "access": "public"
   },
