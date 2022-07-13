@@ -50,7 +50,7 @@ runs:
         aws-secret-access-key: ${{ inputs.aws-secret-access-key }}
         aws-region: eu-central-1
     - name: Upload icons and indexes to s3
-      run: aws s3 cp . s3://${{ env.S3BUCKET }} --recursive --exclude "node_modules/*" --include "*.svg" --include index.json
+      run: aws s3 cp . s3://cloudfront-icon-cdn-backend-esta-web-prod --recursive --exclude "*" --include "icons/*.svg" --include "icons/index.json"
       env:
-        S3BUCKET: cloudfront-icon-cdn-backend-esta-web-prod
+        S3BUCKET: 
       shell: bash
