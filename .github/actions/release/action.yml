@@ -45,7 +45,7 @@ runs:
     - name: 'Release: Publish @sbb-esta/icons'
       run: yarn publish --tag ${{ steps.npm_tag.outputs.npm_tag }}
       env:
-        NODE_AUTH_TOKEN: ${{ inputs.key }}
+        NODE_AUTH_TOKEN: ${{ inputs.npm-token }}
       shell: bash
       
     - name: Configure AWS Credentials
