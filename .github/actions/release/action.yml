@@ -14,11 +14,6 @@ inputs:
 runs:
   using: 'composite'
   steps:
-    - uses: actions/setup-node@v3
-      with:
-        node-version: 18
-        registry-url: 'https://registry.npmjs.org'
-        scope: sbb-esta
     - name: 'Release: Create release with standard-version'
       run: |
         if [ -f CHANGELOG.md ]; then
