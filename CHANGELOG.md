@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.4 (2022-07-13)
+
+
+### Features
+
+* import icons ([9266a85](https://github.com/sbb-design-systems/sbb-icons/commit/9266a85c0e2b1980fbe78bab96a4969f15586bbb))
+
 ### 0.1.3 (2022-07-13)
 
 ### 0.1.2 (2022-07-13)
