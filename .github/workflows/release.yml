@@ -3,14 +3,12 @@ on:
   push:
     branches:
       - 'main'
-  workflow_dispatch:
 
 jobs:
   release:
     runs-on: ubuntu-latest
     if: >
       (
-        github.event.inputs ||
         startsWith(github.event.head_commit.message, 'feat') ||
         startsWith(github.event.head_commit.message, 'fix') ||
         startsWith(github.event.head_commit.message, 'refactor') ||
