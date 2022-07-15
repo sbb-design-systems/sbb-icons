@@ -36,7 +36,11 @@ interface Description {
         components[id]?.description,
         id,
         pathAsString
-      )
+      ),
+      readonly keywords = [
+        ...(description.keywords?.split(/[, ]+/) ?? []),
+        ...fullPath.map((n) => n.name),
+      ]
     ) {}
 
     valid() {
@@ -91,7 +95,9 @@ interface Description {
       version: JSON.parse(packageJson).version,
       icons: validIcons.map((i) => ({
         name: i.fileName.replace(/.svg$/, ''),
-        tags: i.description.keywords?.split(/[, ]+/),
+        color: !!i.description.color,
+        scalable: i.description.scalable,
+        tags: i.keywords,
       })),
     };
     writeFileSync(
@@ -118,9 +124,13 @@ interface Description {
             severity: 'warn',
           });
         } else {
+          let svg = minifiedContent.data;
+          if (!icon.description.color) {
+            svg = svg.replace('<svg ', `<svg class="color-immutable" `);
+          }
           writeFileSync(
             new URL(`../icons/${icon.fileName}`, import.meta.url),
-            minifiedContent.data,
+            svg,
             'utf-8'
           );
         }
