@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -1083,6 +1083,51 @@
         "ui-icons",
         "Basic",
         "circle-question-mark",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "checkpoints-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "flow",
+        "approval",
+        "step",
+        "steps",
+        "ui-icons",
+        "Basic",
+        "checkpoints",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "checkpoints-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "flow",
+        "approval",
+        "step",
+        "steps",
+        "ui-icons",
+        "Basic",
+        "checkpoints",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "checkpoints-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "flow",
+        "approval",
+        "step",
+        "steps",
+        "ui-icons",
+        "Basic",
+        "checkpoints",
         "Size=large"
       ]
     },
@@ -3000,6 +3045,30 @@
       ]
     },
     {
+      "name": "robot-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "robot",
+        "ui-icons",
+        "Basic",
+        "robot",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "robot-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "robot",
+        "ui-icons",
+        "Basic",
+        "robot",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "rocket-large",
       "color": true,
       "scalable": false,
@@ -3694,75 +3763,6 @@
         "ui-icons",
         "Basic",
         "unicorn",
-        "Size=medium"
-      ]
-    },
-    {
-      "name": "checkpoints-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "flow",
-        "approval",
-        "step",
-        "steps",
-        "ui-icons",
-        "Basic",
-        "checkpoints",
-        "Size=small"
-      ]
-    },
-    {
-      "name": "checkpoints-medium",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "flow",
-        "approval",
-        "step",
-        "steps",
-        "ui-icons",
-        "Basic",
-        "checkpoints",
-        "Size=medium"
-      ]
-    },
-    {
-      "name": "checkpoints-large",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "flow",
-        "approval",
-        "step",
-        "steps",
-        "ui-icons",
-        "Basic",
-        "checkpoints",
-        "Size=large"
-      ]
-    },
-    {
-      "name": "robot-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "robot",
-        "ui-icons",
-        "Basic",
-        "robot",
-        "Size=small"
-      ]
-    },
-    {
-      "name": "robot-medium",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "robot",
-        "ui-icons",
-        "Basic",
-        "robot",
         "Size=medium"
       ]
     },
