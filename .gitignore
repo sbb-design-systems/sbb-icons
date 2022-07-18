@@ -105,3 +105,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Exports
+icons/*.cjs
+icons/*.mjs
+icons/*.d.ts

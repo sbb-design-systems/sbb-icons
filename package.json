@@ -11,8 +11,14 @@
     "sbb"
   ],
   "scripts": {
-    "extract": "tsx scripts/extract-icons.ts"
+    "extract": "tsx scripts/extract-icons.ts",
+    "prepack": "tsx scripts/build-exports.ts"
   },
+  "main": "./icons/index.cjs",
+  "module": "./icons/index.mjs",
+  "es2015": "./icons/index.mjs",
+  "es2017": "./icons/index.mjs",
+  "typings": "./icons/index.d.ts",
   "devDependencies": {
     "@types/node": "18.0.3",
     "@types/svgo": "2.6.3",
