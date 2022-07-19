@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.8 (2022-07-19)
+
+
+### Bug Fixes
+
+* use correct format for .d.ts ([4c322b1](https://github.com/sbb-design-systems/sbb-icons/commit/4c322b1c20557260acb4b7c8757c123da9fa44d5))
+
 ### 0.1.7 (2022-07-18)
 
 
