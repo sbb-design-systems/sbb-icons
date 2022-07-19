@@ -54,6 +54,6 @@ import { readFileSync, writeFileSync } from 'fs';
     const values = Object.entries(iconMap)
       .map(([key, _value]) => `export const ${key}: string;`)
       .join('\n');
-    return `export const VERSION = '${icons.version}';\n${values}\n`;
+    return `export const VERSION: string;\n${values}\n`;
   }
 })();
