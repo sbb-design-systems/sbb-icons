@@ -117,7 +117,18 @@ interface Description {
         });
       } else {
         const content = await response.text();
-        const minifiedContent = optimize(content);
+        const minifiedContent = optimize(content, {
+          plugins: [
+            {
+              name: 'preset-default',
+              params: {
+                overrides: {
+                  removeViewBox: false,
+                },
+              },
+            },
+          ],
+        });
         if (minifiedContent.error !== undefined) {
           errors.push({
             message: `Failed to minify icon ${icon.fileName} due to ${minifiedContent.error}`,
@@ -143,7 +154,7 @@ interface Description {
 
     console.log('Finished all svg downloads');
     if (errors.length) {
-      errors.forEach((e) => `${e.severity} ${e.message}`);
+      errors.forEach((e) => console.log(`${e.severity} ${e.message}`));
       throw new Error(`Finished with ${errors.length} errors`);
     }
     console.log('Successfully completed');

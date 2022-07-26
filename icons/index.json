@@ -1,5 +1,5 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.8",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -2323,6 +2323,20 @@
         "Basic",
         "heart",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "heart-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heart",
+        "like",
+        "wonderful",
+        "ui-icons",
+        "Basic",
+        "heart",
+        "Size=large"
       ]
     },
     {
@@ -5164,6 +5178,32 @@
       ]
     },
     {
+      "name": "hand-cursor-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "user",
+        "action",
+        "ui-icons",
+        "Navigation",
+        "hand-cursor",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "hand-cursor-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "user",
+        "action",
+        "ui-icons",
+        "Navigation",
+        "hand-cursor",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "bulb-off-small",
       "color": true,
       "scalable": false,
@@ -5401,7 +5441,7 @@
       ]
     },
     {
-      "name": "face-tear-small",
+      "name": "large-small",
       "color": true,
       "scalable": false,
       "tags": [
@@ -5410,12 +5450,12 @@
         "tear",
         "ui-icons",
         "Community",
-        "face-tear",
+        "large",
         "Size=small"
       ]
     },
     {
-      "name": "face-tear-medium",
+      "name": "large-medium",
       "color": true,
       "scalable": false,
       "tags": [
@@ -5424,8 +5464,22 @@
         "tear",
         "ui-icons",
         "Community",
-        "face-tear",
+        "large",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "large-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "smiley",
+        "sad",
+        "tear",
+        "ui-icons",
+        "Community",
+        "large",
+        "Size=large"
       ]
     },
     {
@@ -5455,6 +5509,19 @@
       ]
     },
     {
+      "name": "face-thinking-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "smiley",
+        "thinking",
+        "ui-icons",
+        "Community",
+        "face-thinking",
+        "Size=large"
+      ]
+    },
+    {
       "name": "face-disagree-small",
       "color": true,
       "scalable": false,
@@ -5478,6 +5545,19 @@
         "Community",
         "face-disagree",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "face-disagree-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "smiley",
+        "disagree",
+        "ui-icons",
+        "Community",
+        "face-disagree",
+        "Size=large"
       ]
     },
     {
@@ -13299,6 +13379,34 @@
         "Leisure",
         "clapperboard",
         "Size=large"
+      ]
+    },
+    {
+      "name": "earth-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "earth",
+        "globe",
+        "international",
+        "ui-icons",
+        "Leisure",
+        "earth",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "earth-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "earth",
+        "globe",
+        "international",
+        "ui-icons",
+        "Leisure",
+        "earth",
+        "Size=medium"
       ]
     },
     {
