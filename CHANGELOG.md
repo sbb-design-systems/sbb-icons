@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.9 (2022-07-26)
+
+
+### Bug Fixes
+
+* disable removal of viewBox ([dc1766c](https://github.com/sbb-design-systems/sbb-icons/commit/dc1766ce948920babf012752593f83e7c0d58e6f))
+
 ### 0.1.8 (2022-07-19)
 
 
