@@ -1,5 +1,5 @@
 {
-  "version": "0.1.8",
+  "version": "0.1.9",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -28,6 +28,19 @@
       ]
     },
     {
+      "name": "aerosol-can-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "aerosol-can",
+        "graffiti",
+        "ui-icons",
+        "Basic",
+        "aerosol-can",
+        "Size=large"
+      ]
+    },
+    {
       "name": "alarm-clock-small",
       "color": true,
       "scalable": false,
@@ -51,6 +64,19 @@
         "Basic",
         "alarm-clock",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "alarm-clock-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "alarm",
+        "clock",
+        "ui-icons",
+        "Basic",
+        "alarm-clock",
+        "Size=large"
       ]
     },
     {
@@ -118,6 +144,20 @@
         "Basic",
         "apple-bag",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "apple-bag-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "apple",
+        "bag",
+        "food",
+        "ui-icons",
+        "Basic",
+        "apple-bag",
+        "Size=large"
       ]
     },
     {
@@ -202,6 +242,34 @@
       ]
     },
     {
+      "name": "arrow-circle-time-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "reset",
+        "time",
+        "history",
+        "ui-icons",
+        "Basic",
+        "arrow-circle-time",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "arrow-circle-time-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "reset",
+        "time",
+        "history",
+        "ui-icons",
+        "Basic",
+        "arrow-circle-time",
+        "Size=small"
+      ]
+    },
+    {
       "name": "backpack-small",
       "color": true,
       "scalable": false,
@@ -264,6 +332,19 @@
       ]
     },
     {
+      "name": "banknotes-dollar-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "banknotes",
+        "dollar",
+        "ui-icons",
+        "Basic",
+        "banknotes-dollar",
+        "Size=large"
+      ]
+    },
+    {
       "name": "battery-level-empty-small",
       "color": true,
       "scalable": false,
@@ -289,6 +370,20 @@
         "Basic",
         "battery-level-empty",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "battery-level-empty-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "battery",
+        "empty",
+        "level",
+        "ui-icons",
+        "Basic",
+        "battery-level-empty",
+        "Size=large"
       ]
     },
     {
@@ -322,6 +417,21 @@
       ]
     },
     {
+      "name": "battery-level-high-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "battery",
+        "nearly",
+        "full",
+        "level",
+        "ui-icons",
+        "Basic",
+        "battery-level-high",
+        "Size=large"
+      ]
+    },
+    {
       "name": "battery-level-low-small",
       "color": true,
       "scalable": false,
@@ -349,6 +459,21 @@
         "Basic",
         "battery-level-low",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "battery-level-low-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "battery",
+        "low",
+        "empty",
+        "level",
+        "ui-icons",
+        "Basic",
+        "battery-level-low",
+        "Size=large"
       ]
     },
     {
@@ -380,6 +505,20 @@
       ]
     },
     {
+      "name": "battery-level-medium-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "battery",
+        "medium",
+        "level",
+        "ui-icons",
+        "Basic",
+        "battery-level-medium",
+        "Size=large"
+      ]
+    },
+    {
       "name": "bell-small",
       "color": true,
       "scalable": false,
@@ -401,6 +540,18 @@
         "Basic",
         "bell",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "bell-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "notification",
+        "ui-icons",
+        "Basic",
+        "bell",
+        "Size=large"
       ]
     },
     {
@@ -427,6 +578,19 @@
         "Basic",
         "bell-disabled",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "bell-disabled-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "notification",
+        "disabled",
+        "ui-icons",
+        "Basic",
+        "bell-disabled",
+        "Size=large"
       ]
     },
     {
@@ -1267,6 +1431,36 @@
         "ui-icons",
         "Basic",
         "controls",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "controls-x-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "controls",
+        "reset",
+        "filter",
+        "reset",
+        "ui-icons",
+        "Basic",
+        "controls-x",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "controls-x-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "controls",
+        "reset",
+        "filter",
+        "reset",
+        "ui-icons",
+        "Basic",
+        "controls-x",
         "Size=medium"
       ]
     },
@@ -2674,6 +2868,36 @@
       ]
     },
     {
+      "name": "minimize-screen-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "minimize",
+        "screen",
+        "view",
+        "window",
+        "ui-icons",
+        "Basic",
+        "minimize-screen",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "minimize-screen-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "minimize",
+        "screen",
+        "view",
+        "window",
+        "ui-icons",
+        "Basic",
+        "minimize-screen",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "mug-hot-small",
       "color": true,
       "scalable": false,
@@ -2865,6 +3089,19 @@
         "Basic",
         "pen",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "pen-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "edit",
+        "pen",
+        "ui-icons",
+        "Basic",
+        "pen",
+        "Size=large"
       ]
     },
     {
@@ -3116,6 +3353,45 @@
         "Basic",
         "rss",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "hand-safety-shield-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "safety",
+        "reliability",
+        "ui-icons",
+        "Basic",
+        "hand-safety-shield",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "hand-safety-shield-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "safety",
+        "reliability",
+        "ui-icons",
+        "Basic",
+        "hand-safety-shield",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "hand-safety-shield-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "safety",
+        "reliability",
+        "ui-icons",
+        "Basic",
+        "hand-safety-shield",
+        "Size=large"
       ]
     },
     {
@@ -3498,6 +3774,20 @@
       ]
     },
     {
+      "name": "trash-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "waste",
+        "paper",
+        "bin",
+        "ui-icons",
+        "Basic",
+        "trash",
+        "Size=large"
+      ]
+    },
+    {
       "name": "tree-small",
       "color": true,
       "scalable": false,
@@ -3781,6 +4071,32 @@
       ]
     },
     {
+      "name": "hand-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hand",
+        "stop",
+        "ui-icons",
+        "Basic",
+        "hand",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "hand-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hand",
+        "stop",
+        "ui-icons",
+        "Basic",
+        "hand",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "arrow-circle-small",
       "color": true,
       "scalable": false,
@@ -3801,6 +4117,30 @@
         "ui-icons",
         "Arrow",
         "arrow-circle",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "arrow-circle-reset-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "reset",
+        "ui-icons",
+        "Arrow",
+        "arrow-circle-reset",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "arrow-circle-reset-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "reset",
+        "ui-icons",
+        "Arrow",
+        "arrow-circle-reset",
         "Size=medium"
       ]
     },
@@ -5038,6 +5378,18 @@
       ]
     },
     {
+      "name": "house-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "home",
+        "ui-icons",
+        "Navigation",
+        "house",
+        "Size=large"
+      ]
+    },
+    {
       "name": "layers-small",
       "color": true,
       "scalable": false,
@@ -5441,7 +5793,7 @@
       ]
     },
     {
-      "name": "large-small",
+      "name": "face-tear-small",
       "color": true,
       "scalable": false,
       "tags": [
@@ -5450,12 +5802,12 @@
         "tear",
         "ui-icons",
         "Community",
-        "large",
+        "face-tear",
         "Size=small"
       ]
     },
     {
-      "name": "large-medium",
+      "name": "face-tear-medium",
       "color": true,
       "scalable": false,
       "tags": [
@@ -5464,12 +5816,12 @@
         "tear",
         "ui-icons",
         "Community",
-        "large",
+        "face-tear",
         "Size=medium"
       ]
     },
     {
-      "name": "large-large",
+      "name": "face-tear-large",
       "color": true,
       "scalable": false,
       "tags": [
@@ -5478,7 +5830,7 @@
         "tear",
         "ui-icons",
         "Community",
-        "large",
+        "face-tear",
         "Size=large"
       ]
     },
@@ -5893,6 +6245,34 @@
       ]
     },
     {
+      "name": "two-speech-bubbles-rainbow-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "rainbow",
+        "queer",
+        "chat",
+        "ui-icons",
+        "Community",
+        "two-speech-bubbles-rainbow",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "two-speech-bubbles-rainbow-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "rainbow",
+        "queer",
+        "chat",
+        "ui-icons",
+        "Community",
+        "two-speech-bubbles-rainbow",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "avatar-police-small",
       "color": true,
       "scalable": false,
@@ -6290,6 +6670,20 @@
         "User",
         "user-hat",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "user-hat-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "user",
+        "training",
+        "education",
+        "ui-icons",
+        "User",
+        "user-hat",
+        "Size=large"
       ]
     },
     {
@@ -9683,6 +10077,18 @@
       ]
     },
     {
+      "name": "briefcase-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "briefcase",
+        "ui-icons",
+        "Hardware",
+        "briefcase",
+        "Size=large"
+      ]
+    },
+    {
       "name": "brochure-small",
       "color": true,
       "scalable": false,
@@ -9746,6 +10152,21 @@
         "Hardware",
         "calculator",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "calculator-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "washing",
+        "machine",
+        "laundry",
+        "wash",
+        "ui-icons",
+        "Hardware",
+        "calculator",
+        "Size=large"
       ]
     },
     {
@@ -11636,6 +12057,51 @@
       ]
     },
     {
+      "name": "airplane-train-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "airplane",
+        "train",
+        "railway",
+        "combined",
+        "ui-icons",
+        "Transport",
+        "airplane-train",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "airplane-train-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "airplane",
+        "train",
+        "railway",
+        "combined",
+        "ui-icons",
+        "Transport",
+        "airplane-train",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "airplane-train-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "airplane",
+        "train",
+        "railway",
+        "combined",
+        "ui-icons",
+        "Transport",
+        "airplane-train",
+        "Size=large"
+      ]
+    },
+    {
       "name": "bicycle-small",
       "color": true,
       "scalable": false,
@@ -11669,6 +12135,34 @@
         "Transport",
         "bicycle",
         "Size=large"
+      ]
+    },
+    {
+      "name": "bicycle-tandem-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tandem",
+        "bike",
+        "bicycle",
+        "ui-icons",
+        "Transport",
+        "bicycle-tandem",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "bicycle-tandem-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tandem",
+        "bike",
+        "bicycle",
+        "ui-icons",
+        "Transport",
+        "bicycle-tandem",
+        "Size=medium"
       ]
     },
     {
@@ -12364,6 +12858,48 @@
       ]
     },
     {
+      "name": "freight-wagon-weight-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "freight",
+        "wagon",
+        "weight",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-weight",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "freight-wagon-weight-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "freight",
+        "wagon",
+        "weight",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-weight",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "freight-wagon-weight-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "freight",
+        "wagon",
+        "weight",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-weight",
+        "Size=large"
+      ]
+    },
+    {
       "name": "funicular-profile-small",
       "color": true,
       "scalable": false,
@@ -12971,6 +13507,45 @@
       ]
     },
     {
+      "name": "traffic-jam-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "traffic",
+        "jam",
+        "ui-icons",
+        "Transport",
+        "traffic-jam",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "traffic-jam-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "traffic",
+        "jam",
+        "ui-icons",
+        "Transport",
+        "traffic-jam",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "traffic-jam-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "traffic",
+        "jam",
+        "ui-icons",
+        "Transport",
+        "traffic-jam",
+        "Size=large"
+      ]
+    },
+    {
       "name": "train-small",
       "color": true,
       "scalable": false,
@@ -13543,6 +14118,34 @@
       ]
     },
     {
+      "name": "museum-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "art",
+        "culture",
+        "museum",
+        "ui-icons",
+        "Leisure",
+        "museum",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "museum-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "art",
+        "culture",
+        "museum",
+        "ui-icons",
+        "Leisure",
+        "museum",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "museum-large",
       "color": true,
       "scalable": false,
@@ -13698,6 +14301,32 @@
         "Leisure",
         "sledge-snowshoe",
         "Size=large"
+      ]
+    },
+    {
+      "name": "soccer-ball-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sports",
+        "events",
+        "ui-icons",
+        "Leisure",
+        "soccer-ball",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "soccer-ball-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sports",
+        "events",
+        "ui-icons",
+        "Leisure",
+        "soccer-ball",
+        "Size=medium"
       ]
     },
     {
@@ -17052,6 +17681,28 @@
         "timetable-icons",
         "Product-Brands",
         "re"
+      ]
+    },
+    {
+      "name": "re-30",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "re-30"
+      ]
+    },
+    {
+      "name": "re-80",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "re-80"
       ]
     },
     {
