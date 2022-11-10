@@ -1,5 +1,5 @@
 {
-  "version": "0.1.9",
+  "version": "0.1.10",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -2387,6 +2387,32 @@
       ]
     },
     {
+      "name": "hand-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hand",
+        "stop",
+        "ui-icons",
+        "Basic",
+        "hand",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "hand-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hand",
+        "stop",
+        "ui-icons",
+        "Basic",
+        "hand",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "hand-fingers-snap-small",
       "color": true,
       "scalable": false,
@@ -2985,6 +3011,32 @@
         "Basic",
         "newspaper",
         "Size=large"
+      ]
+    },
+    {
+      "name": "newspaper-sbb-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "news",
+        "sbb",
+        "ui-icons",
+        "Basic",
+        "newspaper-sbb",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "newspaper-sbb-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "news",
+        "sbb",
+        "ui-icons",
+        "Basic",
+        "newspaper-sbb",
+        "Size=medium"
       ]
     },
     {
@@ -4071,32 +4123,6 @@
       ]
     },
     {
-      "name": "hand-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "hand",
-        "stop",
-        "ui-icons",
-        "Basic",
-        "hand",
-        "Size=small"
-      ]
-    },
-    {
-      "name": "hand-medium",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "hand",
-        "stop",
-        "ui-icons",
-        "Basic",
-        "hand",
-        "Size=medium"
-      ]
-    },
-    {
       "name": "arrow-circle-small",
       "color": true,
       "scalable": false,
@@ -4801,6 +4827,64 @@
         "ui-icons",
         "Arrow",
         "reduce-size",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "merge-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "merge",
+        "join",
+        "unite",
+        "combine",
+        "ui-icons",
+        "Arrow",
+        "merge",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "merge-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "merge",
+        "join",
+        "unite",
+        "combine",
+        "ui-icons",
+        "Arrow",
+        "merge",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "split-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "split",
+        "seperate",
+        "divide",
+        "ui-icons",
+        "Arrow",
+        "split",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "split-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "split",
+        "seperate",
+        "divide",
+        "ui-icons",
+        "Arrow",
+        "split",
         "Size=medium"
       ]
     },
