@@ -2,6 +2,24 @@ name: Figma Publish
 on:
   repository_dispatch:
     types: [library_publish]
+  workflow_dispatch:
+    inputs:
+      commit_type:
+        description: 'Commit Type'
+        required: true
+        default: 'refactor'
+        type: choice
+        options:
+        - feat
+        - fix
+        - refactor
+      commit_message:
+        description: 'Commit Type'
+        required: true
+        default: 'update icons'
+        type: string
+
+concurrency: publish
 
 jobs:
   release:  
@@ -30,10 +48,14 @@ jobs:
 
       - name: Commit changes
         run: |
+          if [ -z "${{ inputs.commit_type }}" ]
+          then
+            MESSAGE="${{ github.event.client_payload.description }}"
+          else
+            MESSAGE="${{ inputs.commit_type }}: ${{ inputs.commit_message }}"
+          fi
           git add --all
           git commit -m "$MESSAGE"
-        env:
-          MESSAGE: ${{ github.event.client_payload.description }}
       - name: Ensure latest branch state
         run: git pull --rebase
 
