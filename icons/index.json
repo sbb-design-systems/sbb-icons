@@ -1,5 +1,5 @@
 {
-  "version": "0.1.13",
+  "version": "0.1.14",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -2724,6 +2724,30 @@
       ]
     },
     {
+      "name": "list-plus-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "list",
+        "ui-icons",
+        "Basic",
+        "list-plus",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "list-plus-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "list",
+        "ui-icons",
+        "Basic",
+        "list-plus",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "low-vision-small",
       "color": true,
       "scalable": false,
@@ -4219,6 +4243,30 @@
       ]
     },
     {
+      "name": "arrow-left-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "ui-icons",
+        "Arrow",
+        "arrow-left",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "arrow-left-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "ui-icons",
+        "Arrow",
+        "arrow-left",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "arrow-long-right-small",
       "color": true,
       "scalable": false,
@@ -4287,6 +4335,30 @@
         "ui-icons",
         "Arrow",
         "arrow-up",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "arrow-start-right-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "ui-icons",
+        "Arrow",
+        "arrow-start-right",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "arrow-start-right-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "ui-icons",
+        "Arrow",
+        "arrow-start-right",
         "Size=medium"
       ]
     },
@@ -5003,6 +5075,90 @@
         "ui-icons",
         "Status",
         "circle-tick",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "clipboard-empty-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "control",
+        "check",
+        "failed",
+        "ui-icons",
+        "Status",
+        "clipboard-empty",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "clipboard-empty-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "control",
+        "check",
+        "failed",
+        "ui-icons",
+        "Status",
+        "clipboard-empty",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "clipboard-list-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "control",
+        "check",
+        "failed",
+        "ui-icons",
+        "Status",
+        "clipboard-list",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "clipboard-list-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "control",
+        "check",
+        "failed",
+        "ui-icons",
+        "Status",
+        "clipboard-list",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "clipboard-plus-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "control",
+        "check",
+        "failed",
+        "ui-icons",
+        "Status",
+        "clipboard-plus",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "clipboard-plus-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "control",
+        "check",
+        "failed",
+        "ui-icons",
+        "Status",
+        "clipboard-plus",
         "Size=medium"
       ]
     },
@@ -6201,6 +6357,62 @@
         "ui-icons",
         "Community",
         "speech-bubble",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "speech-bubble-empty-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "speech",
+        "bubble",
+        "communication",
+        "ui-icons",
+        "Community",
+        "speech-bubble-empty",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "speech-bubble-empty-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "speech",
+        "bubble",
+        "communication",
+        "ui-icons",
+        "Community",
+        "speech-bubble-empty",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "speech-bubble-exclamation-point-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "speech",
+        "bubble",
+        "communication",
+        "ui-icons",
+        "Community",
+        "speech-bubble-exclamation-point",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "speech-bubble-exclamation-point-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "speech",
+        "bubble",
+        "communication",
+        "ui-icons",
+        "Community",
+        "speech-bubble-exclamation-point",
         "Size=medium"
       ]
     },
