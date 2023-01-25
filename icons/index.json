@@ -1,5 +1,5 @@
 {
-  "version": "0.1.17",
+  "version": "0.1.18",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -15375,6 +15375,30 @@
         "ui-icons",
         "Building",
         "doorbell-hand",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "two-houses-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "home",
+        "ui-icons",
+        "Building",
+        "two-houses",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "two-houses-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "home",
+        "ui-icons",
+        "Building",
+        "two-houses",
         "Size=medium"
       ]
     },
