@@ -1,5 +1,5 @@
 {
-  "version": "0.1.16",
+  "version": "0.1.17",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -15352,6 +15352,30 @@
         "Building",
         "eiffel-tower",
         "Size=large"
+      ]
+    },
+    {
+      "name": "doorbell-hand-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "city",
+        "ui-icons",
+        "Building",
+        "doorbell-hand",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "doorbell-hand-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "city",
+        "ui-icons",
+        "Building",
+        "doorbell-hand",
+        "Size=medium"
       ]
     },
     {
