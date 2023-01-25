@@ -1,5 +1,5 @@
 {
-  "version": "0.1.15",
+  "version": "0.1.16",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -6832,6 +6832,34 @@
         "ui-icons",
         "User",
         "two-users",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "user-helmet-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "user",
+        "helmet",
+        "construction",
+        "ui-icons",
+        "User",
+        "user-helmet",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "user-helmet-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "user",
+        "helmet",
+        "construction",
+        "ui-icons",
+        "User",
+        "user-helmet",
         "Size=medium"
       ]
     },
