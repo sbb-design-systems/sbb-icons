@@ -1,5 +1,5 @@
 {
-  "version": "0.1.14",
+  "version": "0.1.15",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -4651,6 +4651,36 @@
         "ui-icons",
         "Arrow",
         "chevron-small-left",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-small-left-right-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "right",
+        "arrow",
+        "move",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-left-right",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-small-left-right-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "right",
+        "arrow",
+        "move",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-left-right",
         "Size=medium"
       ]
     },
@@ -11250,6 +11280,30 @@
         "ui-icons",
         "Hardware",
         "weight",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "hammer-wrench-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "weight",
+        "ui-icons",
+        "Hardware",
+        "hammer-wrench",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "hammer-wrench-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "weight",
+        "ui-icons",
+        "Hardware",
+        "hammer-wrench",
         "Size=medium"
       ]
     },
