@@ -1,5 +1,5 @@
 {
-  "version": "0.1.19",
+  "version": "0.1.20",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -16836,14 +16836,14 @@
       ]
     },
     {
-      "name": "sa-rr",
+      "name": "sa-ra",
       "color": true,
       "scalable": true,
       "tags": [
         "-",
         "timetable-icons",
         "Attributes",
-        "sa-rr"
+        "sa-ra"
       ]
     },
     {
