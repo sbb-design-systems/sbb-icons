@@ -1,5 +1,5 @@
 {
-  "version": "0.1.18",
+  "version": "0.1.19",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -16811,6 +16811,50 @@
         "timetable-icons",
         "Attributes",
         "sa-rs"
+      ]
+    },
+    {
+      "name": "sa-rn",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-rn"
+      ]
+    },
+    {
+      "name": "sa-rp",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-rp"
+      ]
+    },
+    {
+      "name": "sa-rr",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-rr"
+      ]
+    },
+    {
+      "name": "sa-ru",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-ru"
       ]
     },
     {
