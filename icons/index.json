@@ -1,5 +1,5 @@
 {
-  "version": "0.1.20",
+  "version": "0.1.21",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -5754,6 +5754,32 @@
         "ui-icons",
         "Navigation",
         "nine-squares",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "four-squares-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "app",
+        "chooser",
+        "ui-icons",
+        "Navigation",
+        "four-squares",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "four-squares-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "app",
+        "chooser",
+        "ui-icons",
+        "Navigation",
+        "four-squares",
         "Size=medium"
       ]
     },
@@ -17650,6 +17676,17 @@
       ]
     },
     {
+      "name": "ext",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "ext"
+      ]
+    },
+    {
       "name": "gex",
       "color": false,
       "scalable": true,
@@ -20034,18 +20071,6 @@
       ]
     },
     {
-      "name": "ir-95",
-      "color": false,
-      "scalable": true,
-      "tags": [
-        "-",
-        "timetable-icons",
-        "Product-Brands",
-        "ir",
-        "ir-95"
-      ]
-    },
-    {
       "name": "ir-96",
       "color": false,
       "scalable": true,
@@ -21384,7 +21409,7 @@
       ]
     },
     {
-      "name": "sn-1",
+      "name": "sn-2",
       "color": false,
       "scalable": true,
       "tags": [
@@ -21392,7 +21417,7 @@
         "timetable-icons",
         "Product-Brands",
         "sn",
-        "sn-1"
+        "sn-2"
       ]
     },
     {
