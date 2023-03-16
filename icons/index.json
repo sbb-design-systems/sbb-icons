@@ -1,5 +1,5 @@
 {
-  "version": "0.1.23",
+  "version": "0.1.24",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -6645,6 +6645,34 @@
         "ui-icons",
         "Community",
         "two-speech-bubbles-rainbow",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "bookmark-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bookmark",
+        "book",
+        "mark",
+        "ui-icons",
+        "Community",
+        "bookmark",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "bookmark-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bookmark",
+        "book",
+        "mark",
+        "ui-icons",
+        "Community",
+        "bookmark",
         "Size=medium"
       ]
     },
