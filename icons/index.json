@@ -1,5 +1,5 @@
 {
-  "version": "0.1.25",
+  "version": "0.1.26",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -7883,26 +7883,26 @@
       ]
     },
     {
-      "name": "github-small",
+      "name": "figma-small",
       "color": true,
       "scalable": false,
       "tags": [
         "figma",
         "ui-icons",
         "Document",
-        "github",
+        "figma",
         "Size=small"
       ]
     },
     {
-      "name": "github-medium",
+      "name": "figma-medium",
       "color": true,
       "scalable": false,
       "tags": [
         "figma",
         "ui-icons",
         "Document",
-        "github",
+        "figma",
         "Size=medium"
       ]
     },
