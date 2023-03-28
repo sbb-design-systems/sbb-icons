@@ -1,5 +1,5 @@
 {
-  "version": "0.1.26",
+  "version": "0.1.27",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -10961,6 +10961,32 @@
       ]
     },
     {
+      "name": "microphone-disabled-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "microphone",
+        "disabled",
+        "ui-icons",
+        "Hardware",
+        "microphone-disabled",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "microphone-disabled-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "microphone",
+        "disabled",
+        "ui-icons",
+        "Hardware",
+        "microphone-disabled",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "office-chair-small",
       "color": true,
       "scalable": false,
@@ -11101,6 +11127,51 @@
         "ui-icons",
         "Hardware",
         "smartphone",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "smartphone-disabled-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile",
+        "disabled",
+        "ui-icons",
+        "Hardware",
+        "smartphone-disabled",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "smartphone-disabled-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile",
+        "disabled",
+        "ui-icons",
+        "Hardware",
+        "smartphone-disabled",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "smartphone-disabled-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "phone",
+        "smartphone",
+        "mobile",
+        "disabled",
+        "ui-icons",
+        "Hardware",
+        "smartphone-disabled",
         "Size=large"
       ]
     },
@@ -17091,6 +17162,17 @@
         "timetable-icons",
         "Attributes",
         "sa-sm"
+      ]
+    },
+    {
+      "name": "sa-sp",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-sp"
       ]
     },
     {
