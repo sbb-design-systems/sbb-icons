@@ -1,5 +1,5 @@
 {
-  "version": "0.1.28",
+  "version": "0.1.29",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -10277,6 +10277,34 @@
         "ui-icons",
         "Document",
         "figma",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "clipboard-users-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "user",
+        "gav",
+        "clipboard",
+        "ui-icons",
+        "Document",
+        "clipboard-users",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "clipboard-users-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "user",
+        "gav",
+        "clipboard",
+        "ui-icons",
+        "Document",
+        "clipboard-users",
         "Size=medium"
       ]
     },
