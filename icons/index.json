@@ -1,5 +1,5 @@
 {
-  "version": "0.1.31",
+  "version": "0.1.32",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -27468,6 +27468,19 @@
       ]
     },
     {
+      "name": "sn-41",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "sn",
+        "sn-41"
+      ]
+    },
+    {
       "name": "tgv",
       "color": false,
       "scalable": true,
@@ -31829,6 +31842,19 @@
         "dark",
         "sn",
         "sn-20-negative"
+      ]
+    },
+    {
+      "name": "sn-41-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "sn",
+        "sn-41-negative"
       ]
     },
     {
