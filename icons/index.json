@@ -1,5 +1,5 @@
 {
-  "version": "0.1.32",
+  "version": "0.1.33",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -21584,6 +21584,416 @@
         "ui-icons",
         "Organisation",
         "user-headset-display",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "contact-line-arrow-train-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ZKE",
+        "contact",
+        "line",
+        "train",
+        "lift",
+        "pressure",
+        "detection",
+        "AHA",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "contact-line-arrow-train",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "contact-line-arrow-train-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ZKE",
+        "contact",
+        "line",
+        "train",
+        "lift",
+        "pressure",
+        "detection",
+        "AHA",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "contact-line-arrow-train",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "display-switzerland-warning-light-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "connecting",
+        "network",
+        "linking",
+        "monitoring",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "display-switzerland-warning-light",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "display-switzerland-warning-light-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "connecting",
+        "network",
+        "linking",
+        "monitoring",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "display-switzerland-warning-light",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "flame-warning-light-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "gas",
+        "fire",
+        "monitoring",
+        "detection",
+        "BOA",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "flame-warning-light",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "flame-warning-light-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "gas",
+        "fire",
+        "monitoring",
+        "detection",
+        "BOA",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "flame-warning-light",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "mountain-rock-transmitter-signal-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "nature",
+        "falling",
+        "detection",
+        "NGA",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "mountain-rock-transmitter-signal",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "mountain-rock-transmitter-signal-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "nature",
+        "falling",
+        "detection",
+        "NGA",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "mountain-rock-transmitter-signal",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "surveillance-cameras-train-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "visual",
+        "video",
+        "detection",
+        "photo",
+        "VIS",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "surveillance-cameras-train",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "surveillance-cameras-train-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "visual",
+        "video",
+        "detection",
+        "photo",
+        "VIS",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "surveillance-cameras-train",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "train-profile-signal-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sensor",
+        "transmitter",
+        "identification",
+        "detection",
+        "RFID",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "train-profile-signal",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "train-profile-signal-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sensor",
+        "transmitter",
+        "identification",
+        "detection",
+        "RFID",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "train-profile-signal",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "tunnel-freight-wagon-shifted-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "profile",
+        "antenna",
+        "detection",
+        "PAO",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "tunnel-freight-wagon-shifted",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "tunnel-freight-wagon-shifted-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "profile",
+        "antenna",
+        "detection",
+        "PAO",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "tunnel-freight-wagon-shifted",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "wagon-coupling-dragging-equipment-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "drag",
+        "detection",
+        "DED",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "wagon-coupling-dragging-equipment",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "wagon-coupling-dragging-equipment-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "drag",
+        "detection",
+        "DED",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "wagon-coupling-dragging-equipment",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "weight-wheel-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "kg",
+        "weight",
+        "detection",
+        "RLC",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "weight-wheel",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "weight-wheel-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "kg",
+        "weight",
+        "detection",
+        "RLC",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "weight-wheel",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "wheel-microphone-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "accoustic",
+        "sound",
+        "noise",
+        "detection",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "wheel-microphone",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "wheel-microphone-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "accoustic",
+        "sound",
+        "noise",
+        "detection",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "wheel-microphone",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "wheel-thermometer-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heat",
+        "overheating",
+        "hot",
+        "brakes",
+        "detection",
+        "HFO",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "wheel-thermometer",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "wheel-thermometer-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heat",
+        "overheating",
+        "hot",
+        "brakes",
+        "detection",
+        "HFO",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "wheel-thermometer",
         "Size=medium"
       ]
     },
