@@ -1,5 +1,5 @@
 {
-  "version": "0.1.33",
+  "version": "0.1.34",
   "icons": [
     {
       "name": "aerosol-can-small",
@@ -981,6 +981,20 @@
       ]
     },
     {
+      "name": "browser-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "browser",
+        "window",
+        "fenster",
+        "ui-icons",
+        "Basic",
+        "browser",
+        "Size=large"
+      ]
+    },
+    {
       "name": "bucket-foam-broom-small",
       "color": true,
       "scalable": false,
@@ -1020,6 +1034,27 @@
         "Basic",
         "bucket-foam-broom",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "bucket-foam-broom-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "broom",
+        "clean",
+        "wash",
+        "soap",
+        "besen",
+        "eimer",
+        "sauber",
+        "wischen",
+        "waschen",
+        "seife",
+        "ui-icons",
+        "Basic",
+        "bucket-foam-broom",
+        "Size=large"
       ]
     },
     {
@@ -1159,6 +1194,23 @@
         "Basic",
         "camera",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "camera-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "camera",
+        "photography",
+        "photo",
+        "kamera",
+        "fotografie",
+        "foto",
+        "ui-icons",
+        "Basic",
+        "camera",
+        "Size=large"
       ]
     },
     {
@@ -1910,6 +1962,27 @@
         "Basic",
         "controls",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "controls-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "filter",
+        "regulator",
+        "regulate",
+        "setting",
+        "adjusting",
+        "regulieren",
+        "einstellung",
+        "regulation",
+        "einstellen",
+        "steuerung",
+        "ui-icons",
+        "Basic",
+        "controls",
+        "Size=large"
       ]
     },
     {
@@ -2987,6 +3060,23 @@
       ]
     },
     {
+      "name": "fullscreen-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "full",
+        "screen",
+        "voll",
+        "bild",
+        "fullscreen",
+        "vollbild",
+        "ui-icons",
+        "Basic",
+        "fullscreen",
+        "Size=large"
+      ]
+    },
+    {
       "name": "gears-small",
       "color": true,
       "scalable": false,
@@ -3121,6 +3211,28 @@
         "Basic",
         "glass-cocktail",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "glass-cocktail-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "drink",
+        "cocktail",
+        "beverage",
+        "party",
+        "evening",
+        "after",
+        "work",
+        "happy",
+        "hour",
+        "getränk",
+        "abend",
+        "ui-icons",
+        "Basic",
+        "glass-cocktail",
+        "Size=large"
       ]
     },
     {
@@ -3510,6 +3622,22 @@
       ]
     },
     {
+      "name": "hierarchy-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "navigation",
+        "structure",
+        "setup",
+        "struktur",
+        "aufbau",
+        "ui-icons",
+        "Basic",
+        "hierarchy",
+        "Size=large"
+      ]
+    },
+    {
       "name": "lighthouse-small",
       "color": true,
       "scalable": false,
@@ -3685,6 +3813,21 @@
       ]
     },
     {
+      "name": "list-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "list",
+        "order",
+        "liste",
+        "reihenfolge",
+        "ui-icons",
+        "Basic",
+        "list",
+        "Size=large"
+      ]
+    },
+    {
       "name": "list-plus-small",
       "color": true,
       "scalable": false,
@@ -3753,6 +3896,56 @@
         "ui-icons",
         "Basic",
         "low-vision",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "machine-learning-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "machine",
+        "learning",
+        "ai",
+        "ki",
+        "künstliche",
+        "intelligenz",
+        "automatisation",
+        "automatisierung",
+        "brain",
+        "maschinelles",
+        "lernen",
+        "ml",
+        "algorythm",
+        "innovation",
+        "ui-icons",
+        "Basic",
+        "machine-learning",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "machine-learning-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "machine",
+        "learning",
+        "ai",
+        "ki",
+        "künstliche",
+        "intelligenz",
+        "automatisation",
+        "automatisierung",
+        "brain",
+        "maschinelles",
+        "lernen",
+        "ml",
+        "algorythm",
+        "innovation",
+        "ui-icons",
+        "Basic",
+        "machine-learning",
         "Size=medium"
       ]
     },
@@ -5393,6 +5586,23 @@
         "Basic",
         "wallet",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "wallet-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "wallet",
+        "money",
+        "portemonnaie",
+        "geldbörse",
+        "brieftasche",
+        "geld",
+        "ui-icons",
+        "Basic",
+        "wallet",
+        "Size=large"
       ]
     },
     {
@@ -8431,6 +8641,18 @@
         "Community",
         "share",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "share-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "share",
+        "ui-icons",
+        "Community",
+        "share",
+        "Size=large"
       ]
     },
     {
@@ -18739,6 +18961,9 @@
       "tags": [
         "train",
         "zug",
+        "betriebslage",
+        "operational",
+        "situation",
         "ui-icons",
         "Transport",
         "train",
@@ -18752,6 +18977,9 @@
       "tags": [
         "train",
         "zug",
+        "betriebslage",
+        "operational",
+        "situation",
         "ui-icons",
         "Transport",
         "train",
@@ -18765,6 +18993,9 @@
       "tags": [
         "train",
         "zug",
+        "betriebslage",
+        "operational",
+        "situation",
         "ui-icons",
         "Transport",
         "train",
