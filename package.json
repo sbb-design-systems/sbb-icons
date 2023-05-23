@@ -36,5 +36,17 @@
   "publishConfig": {
     "access": "public"
   },
-  "type": "module"
+  "type": "module",
+  "standard-version": {
+    "bumpFiles": [
+      {
+        "filename": "package.json",
+        "type": "json"
+      },
+      {
+        "filename": "icons/index.json",
+        "type": "json"
+      }
+    ]
+  }
 }
