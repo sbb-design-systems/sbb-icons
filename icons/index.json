@@ -1424,6 +1424,24 @@
       ]
     },
     {
+      "name": "chart-line-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "statistics",
+        "chart",
+        "analyse",
+        "trend",
+        "statistik",
+        "grafik",
+        "diagram",
+        "ui-icons",
+        "Basic",
+        "chart-line",
+        "Size=large"
+      ]
+    },
+    {
       "name": "chart-pie-small",
       "color": true,
       "scalable": false,
@@ -1457,6 +1475,24 @@
         "Basic",
         "chart-pie",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "chart-pie-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "market",
+        "share",
+        "analyse",
+        "markt",
+        "teil",
+        "kuchen",
+        "diagram",
+        "ui-icons",
+        "Basic",
+        "chart-pie",
+        "Size=large"
       ]
     },
     {
@@ -1661,6 +1697,20 @@
       ]
     },
     {
+      "name": "circle-play-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "video",
+        "play",
+        "start",
+        "ui-icons",
+        "Basic",
+        "circle-play",
+        "Size=large"
+      ]
+    },
+    {
       "name": "circle-question-mark-small",
       "color": true,
       "scalable": false,
@@ -1805,6 +1855,24 @@
         "Basic",
         "coin-dollar",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "coin-dollar-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "coin",
+        "dollar",
+        "money",
+        "cash",
+        "münze",
+        "geld",
+        "bargeld",
+        "ui-icons",
+        "Basic",
+        "coin-dollar",
+        "Size=large"
       ]
     },
     {
@@ -3664,6 +3732,19 @@
       ]
     },
     {
+      "name": "lighthouse-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "lighthouse",
+        "leuchtturm",
+        "ui-icons",
+        "Basic",
+        "lighthouse",
+        "Size=large"
+      ]
+    },
+    {
       "name": "lips-hand-small",
       "color": true,
       "scalable": false,
@@ -4789,6 +4870,42 @@
         "ui-icons",
         "Basic",
         "robot",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "rocket-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "begin",
+        "innovation",
+        "start",
+        "takeoff",
+        "anfang",
+        "abheben",
+        "pilot",
+        "ui-icons",
+        "Basic",
+        "rocket",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "rocket-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "begin",
+        "innovation",
+        "start",
+        "takeoff",
+        "anfang",
+        "abheben",
+        "pilot",
+        "ui-icons",
+        "Basic",
+        "rocket",
         "Size=medium"
       ]
     },
@@ -19829,6 +19946,48 @@
       ]
     },
     {
+      "name": "railway-ship-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "train",
+        "ship",
+        "zug",
+        "schiff",
+        "boat",
+        "boot",
+        "combined",
+        "kombiniert",
+        "reise",
+        "journey",
+        "ui-icons",
+        "Leisure",
+        "railway-ship",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "railway-ship-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "train",
+        "ship",
+        "zug",
+        "schiff",
+        "boat",
+        "boot",
+        "combined",
+        "kombiniert",
+        "reise",
+        "journey",
+        "ui-icons",
+        "Leisure",
+        "railway-ship",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "railway-ship-large",
       "color": true,
       "scalable": false,
@@ -21861,6 +22020,27 @@
       ]
     },
     {
+      "name": "contact-line-arrow-train-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ZKE",
+        "contact",
+        "line",
+        "train",
+        "lift",
+        "pressure",
+        "detection",
+        "AHA",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "contact-line-arrow-train",
+        "Size=large"
+      ]
+    },
+    {
       "name": "display-switzerland-warning-light-small",
       "color": true,
       "scalable": false,
@@ -21894,6 +22074,24 @@
         "Projectspecific",
         "display-switzerland-warning-light",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "display-switzerland-warning-light-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "connecting",
+        "network",
+        "linking",
+        "monitoring",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "display-switzerland-warning-light",
+        "Size=large"
       ]
     },
     {
@@ -21935,6 +22133,25 @@
       ]
     },
     {
+      "name": "flame-warning-light-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "gas",
+        "fire",
+        "monitoring",
+        "detection",
+        "BOA",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "flame-warning-light",
+        "Size=large"
+      ]
+    },
+    {
       "name": "mountain-rock-transmitter-signal-small",
       "color": true,
       "scalable": false,
@@ -21968,6 +22185,24 @@
         "Projectspecific",
         "mountain-rock-transmitter-signal",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "mountain-rock-transmitter-signal-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "nature",
+        "falling",
+        "detection",
+        "NGA",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "mountain-rock-transmitter-signal",
+        "Size=large"
       ]
     },
     {
@@ -22009,6 +22244,25 @@
       ]
     },
     {
+      "name": "surveillance-cameras-train-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "visual",
+        "video",
+        "detection",
+        "photo",
+        "VIS",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "surveillance-cameras-train",
+        "Size=large"
+      ]
+    },
+    {
       "name": "train-profile-signal-small",
       "color": true,
       "scalable": false,
@@ -22044,6 +22298,25 @@
         "Projectspecific",
         "train-profile-signal",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "train-profile-signal-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sensor",
+        "transmitter",
+        "identification",
+        "detection",
+        "RFID",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "train-profile-signal",
+        "Size=large"
       ]
     },
     {
@@ -22083,6 +22356,24 @@
       ]
     },
     {
+      "name": "tunnel-freight-wagon-shifted-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "profile",
+        "antenna",
+        "detection",
+        "PAO",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "tunnel-freight-wagon-shifted",
+        "Size=large"
+      ]
+    },
+    {
       "name": "wagon-coupling-dragging-equipment-small",
       "color": true,
       "scalable": false,
@@ -22114,6 +22405,23 @@
         "Projectspecific",
         "wagon-coupling-dragging-equipment",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "wagon-coupling-dragging-equipment-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "drag",
+        "detection",
+        "DED",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "wagon-coupling-dragging-equipment",
+        "Size=large"
       ]
     },
     {
@@ -22153,6 +22461,24 @@
       ]
     },
     {
+      "name": "weight-wheel-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "kg",
+        "weight",
+        "detection",
+        "RLC",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "weight-wheel",
+        "Size=large"
+      ]
+    },
+    {
       "name": "wheel-microphone-small",
       "color": true,
       "scalable": false,
@@ -22186,6 +22512,24 @@
         "Projectspecific",
         "wheel-microphone",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "wheel-microphone-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "accoustic",
+        "sound",
+        "noise",
+        "detection",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "wheel-microphone",
+        "Size=large"
       ]
     },
     {
@@ -22226,6 +22570,26 @@
         "Projectspecific",
         "wheel-thermometer",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "wheel-thermometer-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heat",
+        "overheating",
+        "hot",
+        "brakes",
+        "detection",
+        "HFO",
+        "ZKE",
+        "WTMS",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "wheel-thermometer",
+        "Size=large"
       ]
     },
     {
