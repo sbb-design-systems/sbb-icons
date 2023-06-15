@@ -22593,6 +22593,76 @@
       ]
     },
     {
+      "name": "train-tracks-pen-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "gleisspiegel",
+        "gleisverwaltung",
+        "train",
+        "tracks",
+        "gleise",
+        "pen",
+        "stift",
+        "ui-icons",
+        "Projectspecific",
+        "train-tracks-pen",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "train-tracks-pen-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "gleisspiegel",
+        "gleisverwaltung",
+        "train",
+        "tracks",
+        "gleise",
+        "pen",
+        "stift",
+        "ui-icons",
+        "Projectspecific",
+        "train-tracks-pen",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "train-profile-sign-parking-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "gleisspiegel",
+        "train",
+        "zug",
+        "parking",
+        "sign",
+        "parkplatz",
+        "ui-icons",
+        "Projectspecific",
+        "train-profile-sign-parking",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "train-profile-sign-parking-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "gleisspiegel",
+        "train",
+        "zug",
+        "parking",
+        "sign",
+        "parkplatz",
+        "ui-icons",
+        "Projectspecific",
+        "train-profile-sign-parking",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "sa-1",
       "color": true,
       "scalable": true,
