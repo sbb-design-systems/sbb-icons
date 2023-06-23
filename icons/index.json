@@ -6132,6 +6132,36 @@
       ]
     },
     {
+      "name": "disc-floppy-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "disc",
+        "floppy",
+        "diskette",
+        "safe",
+        "ui-icons",
+        "Basic",
+        "disc-floppy",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "disc-floppy-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "disc",
+        "floppy",
+        "diskette",
+        "safe",
+        "ui-icons",
+        "Basic",
+        "disc-floppy",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "arrow-circle-small",
       "color": true,
       "scalable": false,
