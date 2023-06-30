@@ -5266,6 +5266,50 @@
       ]
     },
     {
+      "name": "circle-exclamation-point-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Basic",
+        "circle-exclamation-point",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-exclamation-point-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Basic",
+        "circle-exclamation-point",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "sign-x-small",
       "color": true,
       "scalable": false,
@@ -12059,6 +12103,48 @@
         "ui-icons",
         "Timetable",
         "wheelchair-substitute-transport",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "wheelchair-sector-location-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "wheelchair",
+        "sectors",
+        "location",
+        "rollstuhl",
+        "sektorenbezogen",
+        "einstieg",
+        "standort",
+        "access",
+        "accessbility",
+        "zugang",
+        "ui-icons",
+        "Timetable",
+        "wheelchair-sector-location",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "wheelchair-sector-location-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "wheelchair",
+        "sectors",
+        "location",
+        "rollstuhl",
+        "sektorenbezogen",
+        "einstieg",
+        "standort",
+        "access",
+        "accessbility",
+        "zugang",
+        "ui-icons",
+        "Timetable",
+        "wheelchair-sector-location",
         "Size=medium"
       ]
     },
