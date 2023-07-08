@@ -5266,50 +5266,6 @@
       ]
     },
     {
-      "name": "circle-exclamation-point-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "caution",
-        "sign",
-        "exclamation",
-        "mark",
-        "warning",
-        "danger",
-        "attention",
-        "achtung",
-        "warnung",
-        "ausrufezeichen",
-        "gefahr",
-        "ui-icons",
-        "Basic",
-        "circle-exclamation-point",
-        "Size=small"
-      ]
-    },
-    {
-      "name": "circle-exclamation-point-medium",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "caution",
-        "sign",
-        "exclamation",
-        "mark",
-        "warning",
-        "danger",
-        "attention",
-        "achtung",
-        "warnung",
-        "ausrufezeichen",
-        "gefahr",
-        "ui-icons",
-        "Basic",
-        "circle-exclamation-point",
-        "Size=medium"
-      ]
-    },
-    {
       "name": "sign-x-small",
       "color": true,
       "scalable": false,
@@ -7547,6 +7503,50 @@
         "ui-icons",
         "Status",
         "button-power",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "circle-exclamation-point-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-exclamation-point",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-exclamation-point-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-exclamation-point",
         "Size=medium"
       ]
     },
