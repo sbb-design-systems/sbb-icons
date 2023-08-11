@@ -9348,6 +9348,28 @@
       ]
     },
     {
+      "name": "copy-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ui-icons",
+        "Community",
+        "copy",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "copy-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ui-icons",
+        "Community",
+        "copy",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "avatar-police-small",
       "color": true,
       "scalable": false,
@@ -19783,6 +19805,40 @@
       ]
     },
     {
+      "name": "stroller-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "stroller",
+        "kinderwagen",
+        "kind",
+        "child",
+        "family",
+        "familie",
+        "ui-icons",
+        "Transport",
+        "stroller",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "stroller-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "stroller",
+        "kinderwagen",
+        "kind",
+        "child",
+        "family",
+        "familie",
+        "ui-icons",
+        "Transport",
+        "stroller",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "adult-kids-large",
       "color": true,
       "scalable": false,
@@ -24445,6 +24501,17 @@
         "timetable-icons",
         "Attributes",
         "sa-ra"
+      ]
+    },
+    {
+      "name": "sa-wt",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-wt"
       ]
     },
     {
