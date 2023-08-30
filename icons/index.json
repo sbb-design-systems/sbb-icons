@@ -24922,6 +24922,17 @@
       ]
     },
     {
+      "name": "sa-vs",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-vs"
+      ]
+    },
+    {
       "name": "sa-vt",
       "color": true,
       "scalable": true,
