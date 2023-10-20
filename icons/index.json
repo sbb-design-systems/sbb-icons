@@ -25138,6 +25138,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "add-stop"
       ]
     },
@@ -25149,6 +25150,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "alternative"
       ]
     },
@@ -25160,6 +25162,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "cancellation"
       ]
     },
@@ -25171,6 +25174,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "construction"
       ]
     },
@@ -25182,6 +25186,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "delay"
       ]
     },
@@ -25193,6 +25198,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "disruption"
       ]
     },
@@ -25204,6 +25210,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "info"
       ]
     },
@@ -25215,6 +25222,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "missed-connection"
       ]
     },
@@ -25226,6 +25234,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "platform-change"
       ]
     },
@@ -25237,6 +25246,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "replacementbus"
       ]
     },
@@ -25248,6 +25258,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "reroute"
       ]
     },
@@ -25259,6 +25270,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "utilization-high"
       ]
     },
@@ -25270,6 +25282,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "utilization-low"
       ]
     },
@@ -25281,6 +25294,7 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "utilization-medium"
       ]
     },
@@ -25292,7 +25306,104 @@
         "-",
         "timetable-icons",
         "HIM-CUS",
+        "light",
         "utilization-none"
+      ]
+    },
+    {
+      "name": "utilization-high-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "dark",
+        "utilization-high-negative"
+      ]
+    },
+    {
+      "name": "utilization-low-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "dark",
+        "utilization-low-negative"
+      ]
+    },
+    {
+      "name": "utilization-medium-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "dark",
+        "utilization-medium-negative"
+      ]
+    },
+    {
+      "name": "utilization-none-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "dark",
+        "utilization-none-negative"
+      ]
+    },
+    {
+      "name": "utilization-high-high-contrast",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "high-contrast",
+        "utilization-high-high-contrast"
+      ]
+    },
+    {
+      "name": "utilization-low-high-contrast",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "high-contrast",
+        "utilization-low-high-contrast"
+      ]
+    },
+    {
+      "name": "utilization-medium-high-contrast",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "high-contrast",
+        "utilization-medium-high-contrast"
+      ]
+    },
+    {
+      "name": "utilization-none-high-contrast",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "high-contrast",
+        "utilization-none-high-contrast"
       ]
     },
     {
