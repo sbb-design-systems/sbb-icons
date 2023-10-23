@@ -28134,7 +28134,21 @@
         "timetable-icons",
         "Product-Brands",
         "light",
+        "Frame 4",
         "pe"
+      ]
+    },
+    {
+      "name": "pe-30",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "Frame 4",
+        "pe-30"
       ]
     },
     {
