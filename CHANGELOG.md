@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.52](https://github.com/sbb-design-systems/sbb-icons/compare/v0.1.51...v0.1.52) (2023-10-23)
+
 ### [0.1.51](https://github.com/sbb-design-systems/sbb-icons/compare/v0.1.50...v0.1.51) (2023-10-20)
 
 ### [0.1.50](https://github.com/sbb-design-systems/sbb-icons/compare/v0.1.49...v0.1.50) (2023-08-30)
