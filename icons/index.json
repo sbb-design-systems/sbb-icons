@@ -25032,6 +25032,17 @@
       ]
     },
     {
+      "name": "sa-xx",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-xx"
+      ]
+    },
+    {
       "name": "sa-xp",
       "color": true,
       "scalable": true,
