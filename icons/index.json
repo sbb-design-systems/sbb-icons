@@ -6623,6 +6623,40 @@
       ]
     },
     {
+      "name": "arrow-start-left-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "start",
+        "begin",
+        "anfang",
+        "rechts",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-start-left",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "arrow-start-left-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "start",
+        "begin",
+        "anfang",
+        "rechts",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-start-left",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "arrow-start-right-small",
       "color": true,
       "scalable": false,
@@ -6717,40 +6751,6 @@
       ]
     },
     {
-      "name": "chevron-down-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "chevron",
-        "down",
-        "arrow",
-        "untern",
-        "runter",
-        "pfeil",
-        "ui-icons",
-        "Arrow",
-        "chevron-down",
-        "Size=small"
-      ]
-    },
-    {
-      "name": "chevron-down-medium",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "chevron",
-        "down",
-        "arrow",
-        "untern",
-        "runter",
-        "pfeil",
-        "ui-icons",
-        "Arrow",
-        "chevron-down",
-        "Size=medium"
-      ]
-    },
-    {
       "name": "chevron-left-small",
       "color": true,
       "scalable": false,
@@ -6831,36 +6831,180 @@
       ]
     },
     {
-      "name": "chevron-small-down-small",
+      "name": "chevron-down-small",
       "color": true,
       "scalable": false,
       "tags": [
+        "chevron",
         "down",
         "arrow",
-        "chevron",
-        "unten",
+        "untern",
         "runter",
         "pfeil",
         "ui-icons",
         "Arrow",
-        "chevron-small-down",
+        "chevron-down",
         "Size=small"
       ]
     },
     {
-      "name": "chevron-small-down-medium",
+      "name": "chevron-down-medium",
       "color": true,
       "scalable": false,
       "tags": [
+        "chevron",
         "down",
         "arrow",
-        "chevron",
-        "unten",
+        "untern",
         "runter",
         "pfeil",
         "ui-icons",
         "Arrow",
-        "chevron-small-down",
+        "chevron-down",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-up-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "chevron",
+        "up",
+        "ui-icons",
+        "Arrow",
+        "chevron-up",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-up-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "chevron",
+        "up",
+        "ui-icons",
+        "Arrow",
+        "chevron-up",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-small-left-circle-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "circle",
+        "arrow",
+        "before",
+        "previously",
+        "links",
+        "kreis",
+        "pfeil",
+        "zurück",
+        "back",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-left-circle",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-small-left-circle-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "circle",
+        "arrow",
+        "before",
+        "previously",
+        "links",
+        "kreis",
+        "pfeil",
+        "zurück",
+        "back",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-left-circle",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-small-right-circle-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "circle",
+        "arrow",
+        "after",
+        "next",
+        "rechts",
+        "kreis",
+        "pfeil",
+        "nächste",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-right-circle",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-small-right-circle-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "circle",
+        "arrow",
+        "after",
+        "next",
+        "rechts",
+        "kreis",
+        "pfeil",
+        "nächste",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-right-circle",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-small-up-circle-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "chevron",
+        "up",
+        "arrow",
+        "pfeil",
+        "hoch",
+        "oben",
+        "kreis",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-up-circle",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-small-up-circle-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "chevron",
+        "up",
+        "arrow",
+        "pfeil",
+        "hoch",
+        "oben",
+        "kreis",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-up-circle",
         "Size=medium"
       ]
     },
@@ -6943,86 +7087,6 @@
       ]
     },
     {
-      "name": "chevron-small-left-right-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "left",
-        "right",
-        "arrow",
-        "move",
-        "links",
-        "rechts",
-        "pfeil",
-        "bewegen",
-        "ui-icons",
-        "Arrow",
-        "chevron-small-left-right",
-        "Size=small"
-      ]
-    },
-    {
-      "name": "chevron-small-left-right-medium",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "left",
-        "right",
-        "arrow",
-        "move",
-        "links",
-        "rechts",
-        "pfeil",
-        "bewegen",
-        "ui-icons",
-        "Arrow",
-        "chevron-small-left-right",
-        "Size=medium"
-      ]
-    },
-    {
-      "name": "chevron-small-left-circle-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "left",
-        "circle",
-        "arrow",
-        "before",
-        "previously",
-        "links",
-        "kreis",
-        "pfeil",
-        "zurück",
-        "back",
-        "ui-icons",
-        "Arrow",
-        "chevron-small-left-circle",
-        "Size=small"
-      ]
-    },
-    {
-      "name": "chevron-small-left-circle-medium",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "left",
-        "circle",
-        "arrow",
-        "before",
-        "previously",
-        "links",
-        "kreis",
-        "pfeil",
-        "zurück",
-        "back",
-        "ui-icons",
-        "Arrow",
-        "chevron-small-left-circle",
-        "Size=medium"
-      ]
-    },
-    {
       "name": "chevron-small-right-small",
       "color": true,
       "scalable": false,
@@ -7065,82 +7129,6 @@
       ]
     },
     {
-      "name": "chevron-small-right-circle-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "right",
-        "circle",
-        "arrow",
-        "after",
-        "next",
-        "rechts",
-        "kreis",
-        "pfeil",
-        "nächste",
-        "ui-icons",
-        "Arrow",
-        "chevron-small-right-circle",
-        "Size=small"
-      ]
-    },
-    {
-      "name": "chevron-small-right-circle-medium",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "right",
-        "circle",
-        "arrow",
-        "after",
-        "next",
-        "rechts",
-        "kreis",
-        "pfeil",
-        "nächste",
-        "ui-icons",
-        "Arrow",
-        "chevron-small-right-circle",
-        "Size=medium"
-      ]
-    },
-    {
-      "name": "chevron-small-up-circle-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "chevron",
-        "up",
-        "arrow",
-        "pfeil",
-        "hoch",
-        "oben",
-        "kreis",
-        "ui-icons",
-        "Arrow",
-        "chevron-small-up-circle",
-        "Size=small"
-      ]
-    },
-    {
-      "name": "chevron-small-up-circle-medium",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "chevron",
-        "up",
-        "arrow",
-        "pfeil",
-        "hoch",
-        "oben",
-        "kreis",
-        "ui-icons",
-        "Arrow",
-        "chevron-small-up-circle",
-        "Size=medium"
-      ]
-    },
-    {
       "name": "chevron-small-up-small",
       "color": true,
       "scalable": false,
@@ -7175,28 +7163,158 @@
       ]
     },
     {
-      "name": "chevron-up-small",
+      "name": "chevron-small-down-small",
       "color": true,
       "scalable": false,
       "tags": [
+        "down",
+        "arrow",
         "chevron",
-        "up",
+        "unten",
+        "runter",
+        "pfeil",
         "ui-icons",
         "Arrow",
-        "chevron-up",
+        "chevron-small-down",
         "Size=small"
       ]
     },
     {
-      "name": "chevron-up-medium",
+      "name": "chevron-small-down-medium",
       "color": true,
       "scalable": false,
       "tags": [
+        "down",
+        "arrow",
         "chevron",
-        "up",
+        "unten",
+        "runter",
+        "pfeil",
         "ui-icons",
         "Arrow",
-        "chevron-up",
+        "chevron-small-down",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-small-left-right-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "right",
+        "arrow",
+        "move",
+        "links",
+        "rechts",
+        "pfeil",
+        "bewegen",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-left-right",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-small-left-right-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "right",
+        "arrow",
+        "move",
+        "links",
+        "rechts",
+        "pfeil",
+        "bewegen",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-left-right",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-small-end-left-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "arrow",
+        "move",
+        "before",
+        "previously",
+        "back",
+        "links",
+        "zurück",
+        "zuvor",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-end-left",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-small-end-left-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "arrow",
+        "move",
+        "before",
+        "previously",
+        "back",
+        "links",
+        "zurück",
+        "zuvor",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-end-left",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-small-end-right-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "arrow",
+        "move",
+        "next",
+        "after",
+        "enter",
+        "rechts",
+        "pfeil",
+        "bewegen",
+        "nächste",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-end-right",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-small-end-right-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "arrow",
+        "move",
+        "next",
+        "after",
+        "enter",
+        "rechts",
+        "pfeil",
+        "bewegen",
+        "nächste",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-end-right",
         "Size=medium"
       ]
     },
