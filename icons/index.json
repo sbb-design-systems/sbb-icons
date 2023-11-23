@@ -3790,6 +3790,63 @@
       ]
     },
     {
+      "name": "heart-filled-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heart",
+        "like",
+        "wonderful",
+        "herz",
+        "gefällt",
+        "wunderbar",
+        "liebe",
+        "love",
+        "ui-icons",
+        "Basic",
+        "heart-filled",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "heart-filled-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heart",
+        "like",
+        "wonderful",
+        "herz",
+        "gefällt",
+        "wunderbar",
+        "liebe",
+        "love",
+        "ui-icons",
+        "Basic",
+        "heart-filled",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "heart-filled-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heart",
+        "like",
+        "wonderful",
+        "herz",
+        "gefällt",
+        "wunderbar",
+        "liebe",
+        "love",
+        "ui-icons",
+        "Basic",
+        "heart-filled",
+        "Size=large"
+      ]
+    },
+    {
       "name": "hierarchy-small",
       "color": true,
       "scalable": false,
@@ -5427,6 +5484,42 @@
         "ui-icons",
         "Basic",
         "star",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "star-filled-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "favourite",
+        "star",
+        "favorite",
+        "excellence",
+        "stern",
+        "lesezeichen",
+        "exzellenz",
+        "ui-icons",
+        "Basic",
+        "star-filled",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "star-filled-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "favourite",
+        "star",
+        "favorite",
+        "excellence",
+        "stern",
+        "lesezeichen",
+        "exzellenz",
+        "ui-icons",
+        "Basic",
+        "star-filled",
         "Size=medium"
       ]
     },
