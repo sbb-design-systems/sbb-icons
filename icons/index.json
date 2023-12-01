@@ -6784,6 +6784,34 @@
       ]
     },
     {
+      "name": "arrow-turn-right-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "rechts",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-turn-right",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "arrow-turn-right-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "rechts",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-turn-right",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "arrows-circle-small",
       "color": true,
       "scalable": false,
