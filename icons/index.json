@@ -24481,6 +24481,17 @@
       ]
     },
     {
+      "name": "sa-hl",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-hl"
+      ]
+    },
+    {
       "name": "sa-hn",
       "color": true,
       "scalable": true,
