@@ -14256,6 +14256,48 @@
       ]
     },
     {
+      "name": "arrow-compass-filled-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "location",
+        "ios",
+        "kompass",
+        "pfeil",
+        "kompassnadel",
+        "lokation",
+        "ort",
+        "standort",
+        "richtung",
+        "direction",
+        "ui-icons",
+        "Location",
+        "arrow-compass-filled",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "arrow-compass-filled-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "location",
+        "ios",
+        "kompass",
+        "pfeil",
+        "kompassnadel",
+        "lokation",
+        "ort",
+        "standort",
+        "richtung",
+        "direction",
+        "ui-icons",
+        "Location",
+        "arrow-compass-filled",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "gps-small",
       "color": true,
       "scalable": false,
@@ -23969,6 +24011,54 @@
         "ui-icons",
         "Projectspecific",
         "arrows-up-down-pressure",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "railway-switch-app-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "IoT",
+        "arrows",
+        "pfeile",
+        "up",
+        "oben",
+        "down",
+        "unten",
+        "pressure",
+        "druck",
+        "vertical",
+        "senkrecht",
+        "force",
+        "kraft",
+        "ui-icons",
+        "Projectspecific",
+        "railway-switch-app",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "railway-switch-app-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "IoT",
+        "arrows",
+        "pfeile",
+        "up",
+        "oben",
+        "down",
+        "unten",
+        "pressure",
+        "druck",
+        "vertical",
+        "senkrecht",
+        "force",
+        "kraft",
+        "ui-icons",
+        "Projectspecific",
+        "railway-switch-app",
         "Size=medium"
       ]
     },
