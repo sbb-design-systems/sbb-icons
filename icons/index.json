@@ -24470,6 +24470,17 @@
       ]
     },
     {
+      "name": "sa-hi",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-hi"
+      ]
+    },
+    {
       "name": "sa-hn",
       "color": true,
       "scalable": true,
