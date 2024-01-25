@@ -11196,6 +11196,30 @@
       ]
     },
     {
+      "name": "angular-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "angular",
+        "ui-icons",
+        "Document",
+        "angular",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "angular-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "angular",
+        "ui-icons",
+        "Document",
+        "angular",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "clipboard-users-small",
       "color": true,
       "scalable": false,
