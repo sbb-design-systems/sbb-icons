@@ -4774,6 +4774,78 @@
       ]
     },
     {
+      "name": "circle-pen-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "edit",
+        "pen",
+        "draft",
+        "bearbeiten",
+        "stift",
+        "entwurf",
+        "bleistift",
+        "ui-icons",
+        "Basic",
+        "circle-pen",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-pen-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "edit",
+        "pen",
+        "draft",
+        "bearbeiten",
+        "stift",
+        "entwurf",
+        "bleistift",
+        "ui-icons",
+        "Basic",
+        "circle-pen",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "circle-empty-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "edit",
+        "pen",
+        "draft",
+        "bearbeiten",
+        "stift",
+        "entwurf",
+        "bleistift",
+        "ui-icons",
+        "Basic",
+        "circle-empty",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-empty-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "edit",
+        "pen",
+        "draft",
+        "bearbeiten",
+        "stift",
+        "entwurf",
+        "bleistift",
+        "ui-icons",
+        "Basic",
+        "circle-empty",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "picture-small",
       "color": true,
       "scalable": false,
