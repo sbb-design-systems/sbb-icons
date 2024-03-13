@@ -8874,6 +8874,36 @@
       ]
     },
     {
+      "name": "dash-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "minus",
+        "line",
+        "linie",
+        "strich",
+        "ui-icons",
+        "Navigation",
+        "dash",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "dash-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "minus",
+        "line",
+        "linie",
+        "strich",
+        "ui-icons",
+        "Navigation",
+        "dash",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "bulb-off-small",
       "color": true,
       "scalable": false,
