@@ -8758,6 +8758,34 @@
       ]
     },
     {
+      "name": "four-diamonds-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "app",
+        "chooser",
+        "wähler",
+        "ui-icons",
+        "Navigation",
+        "four-diamonds",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "four-diamonds-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "app",
+        "chooser",
+        "wähler",
+        "ui-icons",
+        "Navigation",
+        "four-diamonds",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "plus-small",
       "color": true,
       "scalable": false,
