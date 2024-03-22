@@ -1,5 +1,7 @@
 name: Dummy
-on: workflow_dispatch
+on: 
+  push: {}
+  workflow_dispatch: {}
 
 concurrency: publish
 
