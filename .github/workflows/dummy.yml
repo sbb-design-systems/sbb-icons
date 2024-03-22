@@ -5,6 +5,8 @@ on:
 
 concurrency: publish
 
+permissions: read-all
+
 jobs:
   release:  
     runs-on: ubuntu-latest
@@ -12,6 +14,7 @@ jobs:
     - name: Dispatch digital.sbb.ch build
       uses: actions/github-script@v6
       with:
+        github-token: ${{ secrets.DISPATCH_TOKEN }}
         script: |
           await github.rest.repos.createDispatchEvent({
               owner: context.repo.owner,
