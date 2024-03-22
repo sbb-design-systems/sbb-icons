@@ -54,3 +54,14 @@ runs:
       env:
         S3BUCKET: 
       shell: bash
+
+    - name: Dispatch digital.sbb.ch build
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.DISPATCH_TOKEN }}
+        script: |
+          await github.rest.repos.createDispatchEvent({
+              owner: context.repo.owner,
+              repo: 'digital.sbb.ch',
+              event_type: 'build-and-deploy',
+          })
