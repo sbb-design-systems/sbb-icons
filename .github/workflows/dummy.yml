@@ -1,4 +1,4 @@
-name: Figma Publish
+name: Dummy
 on: workflow_dispatch
 
 concurrency: publish
