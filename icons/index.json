@@ -7776,6 +7776,40 @@
       ]
     },
     {
+      "name": "chevron-small-down-flat-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "down",
+        "arrow",
+        "chevron",
+        "unten",
+        "runter",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-down-flat",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-small-down-flat-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "down",
+        "arrow",
+        "chevron",
+        "unten",
+        "runter",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-down-flat",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "button-power-small",
       "color": true,
       "scalable": false,
