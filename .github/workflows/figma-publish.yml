@@ -65,3 +65,4 @@ jobs:
           npm-token: ${{ secrets.NPM_TOKEN }}
           aws-access-key-id: ${{ secrets.ICON_CDN_AWS_ACCESS_ID }}
           aws-secret-access-key: ${{ secrets.ICON_CDN_AWS_ACCESS_KEY }}
+          github-token: ${{ secrets.DISPATCH_TOKEN }}

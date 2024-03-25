@@ -10,6 +10,9 @@ inputs:
   aws-secret-access-key:
     description: 'AWS access key secret'
     required: true
+  github-token:
+    description: 'GitHub token to trigger digital.sbb.ch deployment'
+    required: true
 
 runs:
   using: 'composite'
@@ -58,7 +61,7 @@ runs:
     - name: Dispatch digital.sbb.ch build
       uses: actions/github-script@v6
       with:
-        github-token: ${{ secrets.DISPATCH_TOKEN }}
+        github-token: ${{ inputs.github-token }}
         script: |
           await github.rest.repos.createDispatchEvent({
               owner: context.repo.owner,
