@@ -6328,6 +6328,37 @@
       ]
     },
     {
+      "name": "two-lines-diagonal-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "disc",
+        "floppy",
+        "diskette",
+        "safe",
+        "testmanuel",
+        "ui-icons",
+        "Basic",
+        "two-lines-diagonal",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "two-lines-diagonal-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "disc",
+        "floppy",
+        "diskette",
+        "safe",
+        "ui-icons",
+        "Basic",
+        "two-lines-diagonal",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "arrow-circle-small",
       "color": true,
       "scalable": false,
