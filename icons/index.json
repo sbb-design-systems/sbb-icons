@@ -7966,6 +7966,50 @@
       ]
     },
     {
+      "name": "circle-three-dots-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-three-dots",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-three-dots-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-three-dots",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "circle-tick-small",
       "color": true,
       "scalable": false,
@@ -7996,6 +8040,138 @@
         "ui-icons",
         "Status",
         "circle-tick",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "circle-dotted-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-dotted",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-dotted-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-dotted",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "circle-dotted-part-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-dotted-part",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-dotted-part-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-dotted-part",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "circle-dotted-part-x-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-dotted-part-x",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-dotted-part-x-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-dotted-part-x",
         "Size=medium"
       ]
     },
@@ -18313,6 +18489,141 @@
       ]
     },
     {
+      "name": "bicycle-roof-key-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bicycle",
+        "fahrrad",
+        "bike",
+        "dach",
+        "überdacht",
+        "schlüssel",
+        "gesichert",
+        "geschlossen",
+        "parking",
+        "station",
+        "ui-icons",
+        "Transport",
+        "bicycle-roof-key",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "bicycle-roof-key-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bicycle",
+        "fahrrad",
+        "bike",
+        "dach",
+        "überdacht",
+        "schlüssel",
+        "gesichert",
+        "geschlossen",
+        "parking",
+        "station",
+        "ui-icons",
+        "Transport",
+        "bicycle-roof-key",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "bicycle-roof-key-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bicycle",
+        "fahrrad",
+        "bike",
+        "dach",
+        "überdacht",
+        "schlüssel",
+        "gesichert",
+        "geschlossen",
+        "parking",
+        "station",
+        "ui-icons",
+        "Transport",
+        "bicycle-roof-key",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "bicycle-roof-surveillance-camera-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bicycle",
+        "fahrrad",
+        "bike",
+        "dach",
+        "überdacht",
+        "schlüssel",
+        "bewacht",
+        "überwachung",
+        "geschlossen",
+        "parking",
+        "station",
+        "ui-icons",
+        "Transport",
+        "bicycle-roof-surveillance-camera",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "bicycle-roof-surveillance-camera-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bicycle",
+        "fahrrad",
+        "bike",
+        "dach",
+        "überdacht",
+        "schlüssel",
+        "bewacht",
+        "überwachung",
+        "geschlossen",
+        "parking",
+        "station",
+        "ui-icons",
+        "Transport",
+        "bicycle-roof-surveillance-camera",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "bicycle-roof-surveillance-camera-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bicycle",
+        "fahrrad",
+        "bike",
+        "dach",
+        "überdacht",
+        "schlüssel",
+        "bewacht",
+        "überwachung",
+        "geschlossen",
+        "parking",
+        "station",
+        "ui-icons",
+        "Transport",
+        "bicycle-roof-surveillance-camera",
+        "Size=large"
+      ]
+    },
+    {
       "name": "bicycle-tandem-small",
       "color": true,
       "scalable": false,
@@ -18465,6 +18776,70 @@
         "Transport",
         "bike-profile-sign-parking",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "bike-profile-sign-parking-Large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "parking",
+        "parking",
+        "sign",
+        "bike",
+        "fahrrad",
+        "parken",
+        "parkplatz",
+        "ui-icons",
+        "Transport",
+        "bike-profile-sign-parking",
+        "Size=Large"
+      ]
+    },
+    {
+      "name": "bike-trailer-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bike",
+        "fahrrad",
+        "anhänger",
+        "ui-icons",
+        "Transport",
+        "bike-trailer",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "bike-trailer-Medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bike",
+        "fahrrad",
+        "anhänger",
+        "ui-icons",
+        "Transport",
+        "bike-trailer",
+        "Size=Medium"
+      ]
+    },
+    {
+      "name": "bike-trailer-Large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bike",
+        "fahrrad",
+        "anhänger",
+        "ui-icons",
+        "Transport",
+        "bike-trailer",
+        "Size=Large"
       ]
     },
     {
@@ -18953,6 +19328,111 @@
         "Transport",
         "car-sign-parking",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "cargo-bike-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "car",
+        "parking",
+        "auto",
+        "cargobike",
+        "cargo",
+        "transport",
+        "ui-icons",
+        "Transport",
+        "cargo-bike",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "cargo-bike-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "car",
+        "parking",
+        "auto",
+        "cargobike",
+        "cargo",
+        "transport",
+        "ui-icons",
+        "Transport",
+        "cargo-bike",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "cargo-bike-Large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "car",
+        "parking",
+        "auto",
+        "cargobike",
+        "cargo",
+        "transport",
+        "ui-icons",
+        "Transport",
+        "cargo-bike",
+        "Size=Large"
+      ]
+    },
+    {
+      "name": "cargo-bike-trailer-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "car",
+        "parking",
+        "auto",
+        "cargobike",
+        "cargo",
+        "transport",
+        "anhänger",
+        "ui-icons",
+        "Transport",
+        "cargo-bike-trailer",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "cargo-bike-trailer-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "car",
+        "parking",
+        "auto",
+        "cargobike",
+        "cargo",
+        "transport",
+        "anhänger",
+        "ui-icons",
+        "Transport",
+        "cargo-bike-trailer",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "cargo-bike-trailer-Large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "car",
+        "parking",
+        "auto",
+        "cargobike",
+        "cargo",
+        "transport",
+        "anhänger",
+        "ui-icons",
+        "Transport",
+        "cargo-bike-trailer",
+        "Size=Large"
       ]
     },
     {
