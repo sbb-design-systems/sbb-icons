@@ -6359,6 +6359,51 @@
       ]
     },
     {
+      "name": "paragraph-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "paragraph",
+        "legal",
+        "terms",
+        "disclaimer",
+        "ui-icons",
+        "Basic",
+        "paragraph",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "paragraph-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "paragraph",
+        "legal",
+        "terms",
+        "disclaimer",
+        "ui-icons",
+        "Basic",
+        "paragraph",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "paragraph-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "paragraph",
+        "legal",
+        "terms",
+        "disclaimer",
+        "ui-icons",
+        "Basic",
+        "paragraph",
+        "Size=large"
+      ]
+    },
+    {
       "name": "arrow-circle-small",
       "color": true,
       "scalable": false,
