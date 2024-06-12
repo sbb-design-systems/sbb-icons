@@ -22225,6 +22225,87 @@
       ]
     },
     {
+      "name": "tunnel-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tunnel",
+        "tracks",
+        "gleis",
+        "ui-icons",
+        "Installation",
+        "tunnel",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "tunnel-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tunnel",
+        "tracks",
+        "gleis",
+        "ui-icons",
+        "Installation",
+        "tunnel",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "tunnel-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tunnel",
+        "tracks",
+        "gleis",
+        "ui-icons",
+        "Installation",
+        "tunnel",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "bridge-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bridge",
+        "brücke",
+        "ui-icons",
+        "Installation",
+        "bridge",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "bridge-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bridge",
+        "brücke",
+        "ui-icons",
+        "Installation",
+        "bridge",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "bridge-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bridge",
+        "brücke",
+        "ui-icons",
+        "Installation",
+        "bridge",
+        "Size=large"
+      ]
+    },
+    {
       "name": "building-tree-small",
       "color": true,
       "scalable": false,
