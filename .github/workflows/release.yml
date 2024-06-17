@@ -18,37 +18,11 @@ jobs:
           scope: sbb-esta
       - name: 'Yarn: Install dependencies'
         run: yarn install --frozen-lockfile --non-interactive
-          
-      - name: 'Release: Determine npm tag'
-        id: npm_tag
-        run: echo "npm_tag=$([[ "$VERSION" == *"-"* ]] && echo "next" || echo "latest")" >> $GITHUB_OUTPUT
-        env:
-          VERSION: ${{ github.ref }}
-        shell: bash
-      - name: 'Release: Publish @sbb-esta/icons'
-        run: yarn publish --tag ${{ steps.npm_tag.outputs.npm_tag }}
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-        
-      - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v1
+
+      - name: Publish
+        uses: ./.github/actions/publish
         with:
+          npm-token: ${{ secrets.NPM_TOKEN }}
           aws-access-key-id: ${{ secrets.ICON_CDN_AWS_ACCESS_ID }}
           aws-secret-access-key: ${{ secrets.ICON_CDN_AWS_ACCESS_KEY }}
-          aws-region: eu-central-1
-      - name: Upload icons and indexes to s3
-        run: aws s3 cp . s3://cloudfront-icon-cdn-backend-esta-web-prod --recursive --exclude "*" --include "icons/*.svg" --include "icons/index.json"
-        env:
-          S3BUCKET: 
-        shell: bash
-
-      - name: Dispatch digital.sbb.ch build
-        uses: actions/github-script@v6
-        with:
           github-token: ${{ secrets.DISPATCH_TOKEN }}
-          script: |
-            await github.rest.repos.createDispatchEvent({
-                owner: context.repo.owner,
-                repo: 'digital.sbb.ch',
-                event_type: 'build-and-deploy',
-            })

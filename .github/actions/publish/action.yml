@@ -1,0 +1,53 @@
+name: 'Publish release'
+description: 'Publishes the package and pushes icons to S3'
+inputs:
+  npm-token:
+    description: 'Npm token to publish package'
+    required: true
+  aws-access-key-id:
+    description: 'AWS access key id'
+    required: true
+  aws-secret-access-key:
+    description: 'AWS access key secret'
+    required: true
+  github-token:
+    description: 'GitHub token to trigger digital.sbb.ch deployment'
+    required: true
+
+runs:
+  using: 'composite'
+  steps:
+    - name: 'Release: Determine npm tag'
+      id: npm_tag
+      run: echo "npm_tag=$([[ "$VERSION" == *"-"* ]] && echo "next" || echo "latest")" >> $GITHUB_OUTPUT
+      env:
+        VERSION: ${{ github.ref }}
+      shell: bash
+    - name: 'Release: Publish @sbb-esta/icons'
+      run: yarn publish --tag ${{ steps.npm_tag.outputs.npm_tag }}
+      env:
+        NODE_AUTH_TOKEN: ${{ inputs.npm-token }}
+      shell: bash
+      
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ inputs.aws-access-key-id }}
+        aws-secret-access-key: ${{ inputs.aws-secret-access-key }}
+        aws-region: eu-central-1
+    - name: Upload icons and indexes to s3
+      run: aws s3 cp . s3://cloudfront-icon-cdn-backend-esta-web-prod --recursive --exclude "*" --include "icons/*.svg" --include "icons/index.json"
+      env:
+        S3BUCKET: 
+      shell: bash
+
+    - name: Dispatch digital.sbb.ch build
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ inputs.github-token }}
+        script: |
+          await github.rest.repos.createDispatchEvent({
+              owner: context.repo.owner,
+              repo: 'digital.sbb.ch',
+              event_type: 'build-and-deploy',
+          })
