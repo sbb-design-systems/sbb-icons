@@ -21,7 +21,7 @@
     },
     {
       "groupName": "commitlint",
-      "matchPackagePrefixes": ["@commitlint/", "standard-version"]
+      "matchPackagePrefixes": ["@commitlint/", "commit-and-tag-version"]
     }
   ]
 }

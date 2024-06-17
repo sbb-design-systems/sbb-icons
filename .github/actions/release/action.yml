@@ -17,13 +17,8 @@ inputs:
 runs:
   using: 'composite'
   steps:
-    - name: 'Release: Create release with standard-version'
-      run: |
-        if [ -f CHANGELOG.md ]; then
-          yarn standard-version
-        else
-          yarn standard-version --first-release
-        fi
+    - name: 'Release: Create release with commit-and-tag-version'
+      run: yarn commit-and-tag-version
       shell: bash
     - name: 'Release: Push release to repository'
       run: git push --follow-tags origin main
