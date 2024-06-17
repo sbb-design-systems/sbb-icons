@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## 0.1.84 (2024-06-17)
+
 ## 0.1.83 (2024-06-17)
 
 ### [0.1.82](https://github.com/sbb-design-systems/sbb-icons/compare/v0.1.81...v0.1.82) (2024-06-12)
