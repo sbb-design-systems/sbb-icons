@@ -21,7 +21,6 @@
   "typings": "./icons/index.d.ts",
   "devDependencies": {
     "@types/node": "20.14.2",
-    "@types/svgo": "3.0.0",
     "commit-and-tag-version": "12.4.1",
     "figma-js": "1.15.0",
     "octokit": "2.0.3",

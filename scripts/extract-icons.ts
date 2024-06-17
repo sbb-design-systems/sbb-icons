@@ -129,7 +129,7 @@ interface Description {
             },
           ],
         });
-        if (minifiedContent.error !== undefined) {
+        if ('error' in minifiedContent && minifiedContent.error !== undefined) {
           errors.push({
             message: `Failed to minify icon ${icon.fileName} due to ${minifiedContent.error}`,
             severity: 'warn',
