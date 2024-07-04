@@ -8958,36 +8958,6 @@
       ]
     },
     {
-      "name": "minus-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "minus",
-        "line",
-        "linie",
-        "strich",
-        "ui-icons",
-        "Navigation",
-        "minus",
-        "Size=small"
-      ]
-    },
-    {
-      "name": "minus-medium",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "minus",
-        "line",
-        "linie",
-        "strich",
-        "ui-icons",
-        "Navigation",
-        "minus",
-        "Size=medium"
-      ]
-    },
-    {
       "name": "nine-squares-small",
       "color": true,
       "scalable": false,
@@ -9092,6 +9062,36 @@
         "ui-icons",
         "Navigation",
         "plus",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "minus-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "minus",
+        "line",
+        "linie",
+        "strich",
+        "ui-icons",
+        "Navigation",
+        "minus",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "minus-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "minus",
+        "line",
+        "linie",
+        "strich",
+        "ui-icons",
+        "Navigation",
+        "minus",
         "Size=medium"
       ]
     },
