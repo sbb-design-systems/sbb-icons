@@ -1152,6 +1152,36 @@
       ]
     },
     {
+      "name": "butterfly-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "butterfly",
+        "schmetterling",
+        "biodiversity",
+        "biodivers",
+        "ui-icons",
+        "Basic",
+        "butterfly",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "butterfly-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "butterfly",
+        "schmetterling",
+        "biodiversity",
+        "biodivers",
+        "ui-icons",
+        "Basic",
+        "butterfly",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "calendar-small",
       "color": true,
       "scalable": false,
@@ -3892,6 +3922,36 @@
         "Basic",
         "hierarchy",
         "Size=large"
+      ]
+    },
+    {
+      "name": "infinity-loop-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "infinity",
+        "loop",
+        "circular",
+        "kreisläufig",
+        "ui-icons",
+        "Basic",
+        "infinity-loop",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "infinity-loop-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "infinity",
+        "loop",
+        "circular",
+        "kreisläufig",
+        "ui-icons",
+        "Basic",
+        "infinity-loop",
+        "Size=medium"
       ]
     },
     {
@@ -23694,6 +23754,40 @@
       ]
     },
     {
+      "name": "circle-leaf-power-plug-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "erneuerbar",
+        "renewable",
+        "leaf",
+        "blatt",
+        "circle",
+        "kreis",
+        "ui-icons",
+        "Projectspecific",
+        "circle-leaf-power-plug",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-leaf-power-plug-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "erneuerbar",
+        "renewable",
+        "leaf",
+        "blatt",
+        "circle",
+        "kreis",
+        "ui-icons",
+        "Projectspecific",
+        "circle-leaf-power-plug",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "display-switzerland-warning-light-small",
       "color": true,
       "scalable": false,
@@ -24494,6 +24588,52 @@
         "ui-icons",
         "Projectspecific",
         "cloud-co2",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "cloud-co2-arrow-down-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cloud",
+        "wolke",
+        "co2",
+        "emission",
+        "carbon",
+        "dioxide",
+        "kohlenstoffdioxid",
+        "concentration",
+        "konzentration",
+        "netto",
+        "null",
+        "neutral",
+        "ui-icons",
+        "Projectspecific",
+        "cloud-co2-arrow-down",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "cloud-co2-arrow-down-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cloud",
+        "wolke",
+        "co2",
+        "emission",
+        "carbon",
+        "dioxide",
+        "kohlenstoffdioxid",
+        "concentration",
+        "konzentration",
+        "netto",
+        "null",
+        "neutral",
+        "ui-icons",
+        "Projectspecific",
+        "cloud-co2-arrow-down",
         "Size=medium"
       ]
     },
