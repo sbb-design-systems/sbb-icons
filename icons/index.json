@@ -12345,6 +12345,50 @@
       ]
     },
     {
+      "name": "seat-aisle-reservation-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "seat",
+        "sitz",
+        "sitting",
+        "sitzen",
+        "platz",
+        "place",
+        "chair",
+        "stuhl",
+        "reservation",
+        "aisle",
+        "gang",
+        "ui-icons",
+        "Timetable",
+        "seat-aisle-reservation",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "seat-aisle-reservation-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "seat",
+        "sitz",
+        "sitting",
+        "sitzen",
+        "platz",
+        "place",
+        "chair",
+        "stuhl",
+        "reservation",
+        "aisle",
+        "gang",
+        "ui-icons",
+        "Timetable",
+        "seat-aisle-reservation",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "seat-window-small",
       "color": true,
       "scalable": false,
@@ -12402,6 +12446,50 @@
         "Timetable",
         "seat-window",
         "Size=large"
+      ]
+    },
+    {
+      "name": "seat-window-reservation-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "seat",
+        "sitz",
+        "sitting",
+        "sitzen",
+        "platz",
+        "place",
+        "chair",
+        "stuhl",
+        "reservation",
+        "window",
+        "fenster",
+        "ui-icons",
+        "Timetable",
+        "seat-window-reservation",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "seat-window-reservation-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "seat",
+        "sitz",
+        "sitting",
+        "sitzen",
+        "platz",
+        "place",
+        "chair",
+        "stuhl",
+        "reservation",
+        "window",
+        "fenster",
+        "ui-icons",
+        "Timetable",
+        "seat-window-reservation",
+        "Size=medium"
       ]
     },
     {
