@@ -9623,6 +9623,7 @@
       "tags": [
         "smiley",
         "thinking",
+        "nachdenklich",
         "ui-icons",
         "Community",
         "face-thinking",
@@ -9636,6 +9637,8 @@
       "tags": [
         "smiley",
         "thinking",
+        "nachdenklich",
+        "",
         "ui-icons",
         "Community",
         "face-thinking",
@@ -9649,9 +9652,59 @@
       "tags": [
         "smiley",
         "thinking",
+        "nachdenklich",
+        "",
         "ui-icons",
         "Community",
         "face-thinking",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "face-thinking-smiling-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "smiley",
+        "thinking",
+        "smiling",
+        "nachdenklich",
+        "",
+        "ui-icons",
+        "Community",
+        "face-thinking-smiling",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "face-thinking-smiling-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "smiley",
+        "thinking",
+        "smiling",
+        "nachdenklich",
+        "",
+        "ui-icons",
+        "Community",
+        "face-thinking-smiling",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "face-thinking-smiling-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "smiley",
+        "thinking",
+        "smiling",
+        "nachdenklich",
+        "",
+        "ui-icons",
+        "Community",
+        "face-thinking-smiling",
         "Size=large"
       ]
     },
