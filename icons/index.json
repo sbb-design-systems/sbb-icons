@@ -7020,6 +7020,66 @@
       ]
     },
     {
+      "name": "arrow-turn-down-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "down",
+        "runter",
+        "unten",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-turn-down",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "arrow-turn-down-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "down",
+        "runter",
+        "unten",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-turn-down",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "arrow-turn-up-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "up",
+        "rauf",
+        "oben",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-turn-up",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "arrow-turn-up-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "up",
+        "rauf",
+        "oben",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-turn-up",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "arrows-circle-small",
       "color": true,
       "scalable": false,
