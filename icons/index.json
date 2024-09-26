@@ -8209,6 +8209,23 @@
       ]
     },
     {
+      "name": "circle-tick-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tick",
+        "select",
+        "all",
+        "alle",
+        "wählen",
+        "selektieren",
+        "ui-icons",
+        "Status",
+        "circle-tick",
+        "Size=large"
+      ]
+    },
+    {
       "name": "circle-dotted-small",
       "color": true,
       "scalable": false,
@@ -8922,6 +8939,32 @@
         "ui-icons",
         "Navigation",
         "cross",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "cross-tiny-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cross",
+        "kreuz",
+        "ui-icons",
+        "Navigation",
+        "cross-tiny",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "cross-tiny-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cross",
+        "kreuz",
+        "ui-icons",
+        "Navigation",
+        "cross-tiny",
         "Size=medium"
       ]
     },
@@ -12687,6 +12730,44 @@
         "ui-icons",
         "Timetable",
         "timetable",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "timetable-arrows-circle-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "departure",
+        "table",
+        "abfahrt",
+        "tabelle",
+        "abfahrtstabelle",
+        "fahrplan",
+        "takt",
+        "sync",
+        "ui-icons",
+        "Timetable",
+        "timetable-arrows-circle",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "timetable-arrows-circle-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "departure",
+        "table",
+        "abfahrt",
+        "tabelle",
+        "abfahrtstabelle",
+        "fahrplan",
+        "takt",
+        "sync",
+        "ui-icons",
+        "Timetable",
+        "timetable-arrows-circle",
         "Size=medium"
       ]
     },
@@ -25667,6 +25748,17 @@
       ]
     },
     {
+      "name": "sa-hf",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-hf"
+      ]
+    },
+    {
       "name": "sa-hk",
       "color": true,
       "scalable": true,
@@ -25785,6 +25877,17 @@
         "timetable-icons",
         "Attributes",
         "sa-le"
+      ]
+    },
+    {
+      "name": "sa-location",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-location"
       ]
     },
     {
@@ -26170,6 +26273,28 @@
         "timetable-icons",
         "Attributes",
         "sa-sd"
+      ]
+    },
+    {
+      "name": "sa-seat",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-seat"
+      ]
+    },
+    {
+      "name": "sa-seat-window",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-seat-window"
       ]
     },
     {
