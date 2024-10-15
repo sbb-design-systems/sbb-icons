@@ -4421,6 +4421,66 @@
       ]
     },
     {
+      "name": "medal-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "medaille",
+        "sport",
+        "winning",
+        "win",
+        "competition",
+        "gewinnen",
+        "gewinn",
+        "auszeichnung",
+        "wettbewerb",
+        "ui-icons",
+        "Basic",
+        "medal",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "medal-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "medaille",
+        "sport",
+        "winning",
+        "win",
+        "competition",
+        "gewinnen",
+        "gewinn",
+        "auszeichnung",
+        "wettbewerb",
+        "ui-icons",
+        "Basic",
+        "medal",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "medal-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "medaille",
+        "sport",
+        "winning",
+        "win",
+        "competition",
+        "gewinnen",
+        "gewinn",
+        "auszeichnung",
+        "wettbewerb",
+        "ui-icons",
+        "Basic",
+        "medal",
+        "Size=large"
+      ]
+    },
+    {
       "name": "milk-brick-disabled-small",
       "color": true,
       "scalable": false,
@@ -6988,6 +7048,40 @@
         "ui-icons",
         "Arrow",
         "arrow-start-right",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "arrow-end-right-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "start",
+        "begin",
+        "anfang",
+        "rechts",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-end-right",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "arrow-end-right-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "start",
+        "begin",
+        "anfang",
+        "rechts",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-end-right",
         "Size=medium"
       ]
     },
@@ -12459,6 +12553,42 @@
         "ui-icons",
         "Timetable",
         "route-circle-start",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "run-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "fast",
+        "running",
+        "speeding",
+        "rennen",
+        "eile",
+        "person",
+        "schnell",
+        "ui-icons",
+        "Timetable",
+        "run",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "run-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "fast",
+        "running",
+        "speeding",
+        "rennen",
+        "eile",
+        "person",
+        "schnell",
+        "ui-icons",
+        "Timetable",
+        "run",
         "Size=medium"
       ]
     },
@@ -21540,6 +21670,38 @@
       ]
     },
     {
+      "name": "hiking-boot-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hike",
+        "schuh",
+        "wandern",
+        "wanderschuh",
+        "stiefel",
+        "ui-icons",
+        "Leisure",
+        "hiking-boot",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "hiking-boot-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hike",
+        "schuh",
+        "wandern",
+        "wanderschuh",
+        "stiefel",
+        "ui-icons",
+        "Leisure",
+        "hiking-boot",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "hiking-boot-large",
       "color": true,
       "scalable": false,
@@ -21553,6 +21715,50 @@
         "Leisure",
         "hiking-boot",
         "Size=large"
+      ]
+    },
+    {
+      "name": "jersey-shirt-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "shirt",
+        "top",
+        "trikot",
+        "tricot",
+        "sport",
+        "basketball",
+        "team",
+        "one",
+        "eins",
+        "erster",
+        "first",
+        "ui-icons",
+        "Leisure",
+        "jersey-shirt",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "jersey-shirt-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "shirt",
+        "top",
+        "trikot",
+        "tricot",
+        "sport",
+        "basketball",
+        "team",
+        "one",
+        "eins",
+        "erster",
+        "first",
+        "ui-icons",
+        "Leisure",
+        "jersey-shirt",
+        "Size=medium"
       ]
     },
     {
@@ -21806,6 +22012,78 @@
         "Leisure",
         "roof-bed",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "running-shoe-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "rennen",
+        "running",
+        "fast",
+        "sport",
+        "marathon",
+        "lauf",
+        "laufen",
+        "sneaker",
+        "schuh",
+        "turnschuh",
+        "bewegung",
+        "movement",
+        "schnell",
+        "ui-icons",
+        "Leisure",
+        "running-shoe",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "running-shoe-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "rennen",
+        "running",
+        "fast",
+        "sport",
+        "marathon",
+        "lauf",
+        "laufen",
+        "sneaker",
+        "schuh",
+        "turnschuh",
+        "bewegung",
+        "movement",
+        "schnell",
+        "ui-icons",
+        "Leisure",
+        "running-shoe",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "running-shoe-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "rennen",
+        "running",
+        "fast",
+        "sport",
+        "marathon",
+        "lauf",
+        "laufen",
+        "sneaker",
+        "schuh",
+        "turnschuh",
+        "bewegung",
+        "movement",
+        "schnell",
+        "ui-icons",
+        "Leisure",
+        "running-shoe",
+        "Size=large"
       ]
     },
     {
