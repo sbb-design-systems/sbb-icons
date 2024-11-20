@@ -19418,6 +19418,69 @@
       ]
     },
     {
+      "name": "bus-train-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bus",
+        "train",
+        "vehicule",
+        "fahrzeug",
+        "strasse",
+        "schienen",
+        "kombination",
+        "street",
+        "rail",
+        "combination",
+        "ui-icons",
+        "Transport",
+        "bus-train",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "bus-train-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bus",
+        "train",
+        "vehicule",
+        "fahrzeug",
+        "strasse",
+        "schienen",
+        "kombination",
+        "street",
+        "rail",
+        "combination",
+        "ui-icons",
+        "Transport",
+        "bus-train",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "bus-train-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bus",
+        "train",
+        "vehicule",
+        "fahrzeug",
+        "strasse",
+        "schienen",
+        "kombination",
+        "street",
+        "rail",
+        "combination",
+        "ui-icons",
+        "Transport",
+        "bus-train",
+        "Size=large"
+      ]
+    },
+    {
       "name": "bus-sbb-small",
       "color": true,
       "scalable": false,
