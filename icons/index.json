@@ -8100,6 +8100,62 @@
       ]
     },
     {
+      "name": "list-arrow-right-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hamburger",
+        "menu",
+        "menü",
+        "ui-icons",
+        "Arrow",
+        "list-arrow-right",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "list-arrow-right-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hamburger",
+        "menu",
+        "menü",
+        "ui-icons",
+        "Arrow",
+        "list-arrow-right",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "list-arrow-right-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hamburger",
+        "menu",
+        "menü",
+        "ui-icons",
+        "Arrow",
+        "list-arrow-right",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "list-arrow-right-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hamburger",
+        "menu",
+        "menü",
+        "ui-icons",
+        "Arrow",
+        "list-arrow-right",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "button-power-small",
       "color": true,
       "scalable": false,
