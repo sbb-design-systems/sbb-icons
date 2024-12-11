@@ -1230,6 +1230,54 @@
       ]
     },
     {
+      "name": "ear-eye-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ear",
+        "eye",
+        "audio",
+        "accessibility",
+        "two",
+        "senses",
+        "zwei",
+        "sinne",
+        "prinzip",
+        "ohr",
+        "auge",
+        "barrierefrei",
+        "behig",
+        "ui-icons",
+        "Basic",
+        "ear-eye",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "ear-eye-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ear",
+        "eye",
+        "audio",
+        "accessibility",
+        "two",
+        "senses",
+        "zwei",
+        "sinne",
+        "prinzip",
+        "ohr",
+        "auge",
+        "barrierefrei",
+        "behig",
+        "ui-icons",
+        "Basic",
+        "ear-eye",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "calendar-one-day-small",
       "color": true,
       "scalable": false,
@@ -11162,6 +11210,74 @@
         "User",
         "user-tie",
         "Size=large"
+      ]
+    },
+    {
+      "name": "user-admin-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "register",
+        "user",
+        "benutzer",
+        "add",
+        "hinzufügen",
+        "registrieren",
+        "ui-icons",
+        "User",
+        "user-admin",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "user-admin-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "register",
+        "user",
+        "benutzer",
+        "add",
+        "hinzufügen",
+        "registrieren",
+        "ui-icons",
+        "User",
+        "user-admin",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "owner-user-group-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "user",
+        "row",
+        "benutzer",
+        "reihe",
+        "drei",
+        "three",
+        "ui-icons",
+        "User",
+        "owner-user-group",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "owner-user-group-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "user",
+        "row",
+        "benutzer",
+        "reihe",
+        "drei",
+        "three",
+        "ui-icons",
+        "User",
+        "owner-user-group",
+        "Size=medium"
       ]
     },
     {
@@ -25933,6 +26049,17 @@
         "timetable-icons",
         "Attributes",
         "sa-bv"
+      ]
+    },
+    {
+      "name": "sa-bu",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-bu"
       ]
     },
     {
