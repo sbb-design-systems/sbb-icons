@@ -6385,6 +6385,36 @@
       ]
     },
     {
+      "name": "magic-wand-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "magic",
+        "wand",
+        "zauberstab",
+        "magie",
+        "ui-icons",
+        "Basic",
+        "magic-wand",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "magic-wand-Size2",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "magic",
+        "wand",
+        "zauberstab",
+        "magie",
+        "ui-icons",
+        "Basic",
+        "magic-wand",
+        "Size=Size2"
+      ]
+    },
+    {
       "name": "pulse-small",
       "color": true,
       "scalable": false,
@@ -11217,12 +11247,9 @@
       "color": true,
       "scalable": false,
       "tags": [
-        "register",
         "user",
-        "benutzer",
-        "add",
-        "hinzufügen",
-        "registrieren",
+        "admin",
+        "role",
         "ui-icons",
         "User",
         "user-admin",
@@ -11234,12 +11261,9 @@
       "color": true,
       "scalable": false,
       "tags": [
-        "register",
         "user",
-        "benutzer",
-        "add",
-        "hinzufügen",
-        "registrieren",
+        "admin",
+        "role",
         "ui-icons",
         "User",
         "user-admin",
@@ -11252,11 +11276,8 @@
       "scalable": false,
       "tags": [
         "user",
-        "row",
-        "benutzer",
-        "reihe",
-        "drei",
-        "three",
+        "owner",
+        "user-group",
         "ui-icons",
         "User",
         "owner-user-group",
@@ -11269,11 +11290,8 @@
       "scalable": false,
       "tags": [
         "user",
-        "row",
-        "benutzer",
-        "reihe",
-        "drei",
-        "three",
+        "owner",
+        "user-group",
         "ui-icons",
         "User",
         "owner-user-group",
