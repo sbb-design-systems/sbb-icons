@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.2.0](https://github.com/sbb-design-systems/sbb-icons/compare/v1.1.1...v1.2.0) (2025-01-09)
+
+
+### Features
+
+* update icons ([1574f8c](https://github.com/sbb-design-systems/sbb-icons/commit/1574f8ced8ab0a63181e7f274c4944883aeb323e))
+
 ## [1.1.1](https://github.com/sbb-design-systems/sbb-icons/compare/v1.1.0...v1.1.1) (2024-12-11)
 
 ## [1.1.0](https://github.com/sbb-design-systems/sbb-icons/compare/v1.0.10...v1.1.0) (2024-11-27)
