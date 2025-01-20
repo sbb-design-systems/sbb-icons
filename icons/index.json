@@ -30400,6 +30400,19 @@
       ]
     },
     {
+      "name": "pe-72",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "Frame 4",
+        "pe-72"
+      ]
+    },
+    {
       "name": "re",
       "color": false,
       "scalable": true,
@@ -38387,7 +38400,34 @@
         "timetable-icons",
         "Product-Brands",
         "dark",
+        "pe",
         "pe-negative"
+      ]
+    },
+    {
+      "name": "pe-30-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-30-negative"
+      ]
+    },
+    {
+      "name": "pe-72-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-72-negative"
       ]
     },
     {
