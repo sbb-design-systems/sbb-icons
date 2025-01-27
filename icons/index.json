@@ -20453,6 +20453,177 @@
       ]
     },
     {
+      "name": "freight-wagon-car-profile-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "automotive",
+        "verkehr",
+        "transport",
+        "cargo",
+        "freight",
+        "wagon",
+        "car",
+        "auto",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-car-profile",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "freight-wagon-car-profile-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "automotive",
+        "verkehr",
+        "transport",
+        "cargo",
+        "freight",
+        "wagon",
+        "car",
+        "auto",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-car-profile",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "freight-wagon-car-profile-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "automotive",
+        "verkehr",
+        "transport",
+        "cargo",
+        "freight",
+        "wagon",
+        "car",
+        "auto",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-car-profile",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "freight-wagon-tank-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "öl",
+        "chemie",
+        "verkehr",
+        "transport",
+        "cargo",
+        "freight",
+        "wagon",
+        "tank",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-tank",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "freight-wagon-tank-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "öl",
+        "chemie",
+        "verkehr",
+        "transport",
+        "cargo",
+        "freight",
+        "wagon",
+        "tank",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-tank",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "freight-wagon-tank-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "öl",
+        "chemie",
+        "verkehr",
+        "transport",
+        "cargo",
+        "freight",
+        "wagon",
+        "tank",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-tank",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "freight-wagon-truck-container-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "kombinierter",
+        "verkehr",
+        "cargo",
+        "freight",
+        "wagon",
+        "container",
+        "truck",
+        "lastwagen",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-truck-container",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "freight-wagon-truck-container-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "kombinierter",
+        "verkehr",
+        "cargo",
+        "freight",
+        "wagon",
+        "container",
+        "truck",
+        "lastwagen",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-truck-container",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "freight-wagon-truck-container-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "kombinierter",
+        "verkehr",
+        "cargo",
+        "freight",
+        "wagon",
+        "container",
+        "truck",
+        "lastwagen",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-truck-container",
+        "Size=large"
+      ]
+    },
+    {
       "name": "freight-wagon-weight-small",
       "color": true,
       "scalable": false,
