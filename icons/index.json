@@ -137,6 +137,19 @@
       ]
     },
     {
+      "name": "app-icon-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sbb",
+        "app",
+        "ui-icons",
+        "Basic",
+        "app-icon",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "apple-bag-small",
       "color": true,
       "scalable": false,
@@ -864,6 +877,20 @@
       ]
     },
     {
+      "name": "bell-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "notification",
+        "beachrichtigung",
+        "glocke",
+        "ui-icons",
+        "Basic",
+        "bell",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "bell-disabled-small",
       "color": true,
       "scalable": false,
@@ -912,6 +939,23 @@
         "Basic",
         "bell-disabled",
         "Size=large"
+      ]
+    },
+    {
+      "name": "bell-disabled-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "notification",
+        "disabled",
+        "benachrichtigung",
+        "glocke",
+        "ausgeschalten",
+        "aus",
+        "ui-icons",
+        "Basic",
+        "bell-disabled",
+        "Size=extra-small"
       ]
     },
     {
@@ -1386,6 +1430,23 @@
       ]
     },
     {
+      "name": "camera-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "camera",
+        "photography",
+        "photo",
+        "kamera",
+        "fotografie",
+        "foto",
+        "ui-icons",
+        "Basic",
+        "camera",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "certificate-ribbon-small",
       "color": true,
       "scalable": false,
@@ -1668,6 +1729,24 @@
       ]
     },
     {
+      "name": "chart-pie-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "market",
+        "share",
+        "analyse",
+        "markt",
+        "teil",
+        "kuchen",
+        "diagram",
+        "ui-icons",
+        "Basic",
+        "chart-pie",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "cigarette-small",
       "color": true,
       "scalable": false,
@@ -1812,6 +1891,18 @@
         "Basic",
         "circle-information",
         "Size=large"
+      ]
+    },
+    {
+      "name": "circle-information-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "information",
+        "ui-icons",
+        "Basic",
+        "circle-information",
+        "Size=extra-small"
       ]
     },
     {
@@ -2890,6 +2981,21 @@
       ]
     },
     {
+      "name": "exit-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "exit",
+        "logout",
+        "abmelden",
+        "verlassen",
+        "ui-icons",
+        "Basic",
+        "exit",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "face-king-small",
       "color": true,
       "scalable": false,
@@ -3046,6 +3152,24 @@
       ]
     },
     {
+      "name": "factory-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "factory",
+        "manufacturer",
+        "company",
+        "hall",
+        "fabrik",
+        "hersteller",
+        "firma",
+        "ui-icons",
+        "Basic",
+        "factory",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "filter-small",
       "color": true,
       "scalable": false,
@@ -3067,6 +3191,18 @@
         "Basic",
         "filter",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "filter-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "filter",
+        "ui-icons",
+        "Basic",
+        "filter",
+        "Size=extra-small"
       ]
     },
     {
@@ -3344,6 +3480,21 @@
         "Basic",
         "gears",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "gears-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "settings",
+        "gears",
+        "einstellung",
+        "zahnrad",
+        "ui-icons",
+        "Basic",
+        "gears",
+        "Size=extra-small"
       ]
     },
     {
@@ -3868,6 +4019,25 @@
       ]
     },
     {
+      "name": "heart-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heart",
+        "like",
+        "wonderful",
+        "herz",
+        "gefällt",
+        "wunderbar",
+        "liebe",
+        "love",
+        "ui-icons",
+        "Basic",
+        "heart",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "heart-filled-small",
       "color": true,
       "scalable": false,
@@ -3922,6 +4092,25 @@
         "Basic",
         "heart-filled",
         "Size=large"
+      ]
+    },
+    {
+      "name": "heart-filled-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heart",
+        "like",
+        "wonderful",
+        "herz",
+        "gefällt",
+        "wunderbar",
+        "liebe",
+        "love",
+        "ui-icons",
+        "Basic",
+        "heart-filled",
+        "Size=extra-small"
       ]
     },
     {
@@ -4158,6 +4347,21 @@
         "Basic",
         "link-external",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "link-external-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "external",
+        "link",
+        "extern",
+        "verlinkung",
+        "ui-icons",
+        "Basic",
+        "link-external",
+        "Size=extra-small"
       ]
     },
     {
@@ -4424,6 +4628,22 @@
       ]
     },
     {
+      "name": "magnifying-glass-minus-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "zoom",
+        "out",
+        "lupe",
+        "verkleinern",
+        "minimieren",
+        "ui-icons",
+        "Basic",
+        "magnifying-glass-minus",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "magnifying-glass-plus-small",
       "color": true,
       "scalable": false,
@@ -4466,6 +4686,21 @@
         "Basic",
         "magnifying-glass-plus",
         "Size=large"
+      ]
+    },
+    {
+      "name": "magnifying-glass-plus-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "zoom",
+        "in",
+        "vergrössern",
+        "lupe",
+        "ui-icons",
+        "Basic",
+        "magnifying-glass-plus",
+        "Size=extra-small"
       ]
     },
     {
@@ -4831,6 +5066,23 @@
       ]
     },
     {
+      "name": "paper-aeroplane-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "send",
+        "airplane",
+        "senden",
+        "schicken",
+        "flugzeug",
+        "papier",
+        "ui-icons",
+        "Basic",
+        "paper-aeroplane",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "paper-clip-small",
       "color": true,
       "scalable": false,
@@ -4939,6 +5191,24 @@
         "Basic",
         "pen",
         "Size=large"
+      ]
+    },
+    {
+      "name": "pen-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "edit",
+        "pen",
+        "draft",
+        "bearbeiten",
+        "stift",
+        "entwurf",
+        "bleistift",
+        "ui-icons",
+        "Basic",
+        "pen",
+        "Size=extra-small"
       ]
     },
     {
@@ -5161,6 +5431,24 @@
         "Basic",
         "pin",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "pin-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "pin",
+        "code",
+        "ort",
+        "place",
+        "postleitzahl",
+        "adresse",
+        "adress",
+        "ui-icons",
+        "Basic",
+        "pin",
+        "Size=extra-small"
       ]
     },
     {
@@ -5563,6 +5851,28 @@
       ]
     },
     {
+      "name": "sign-exclamation-point-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Basic",
+        "sign-exclamation-point",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "sign-x-small",
       "color": true,
       "scalable": false,
@@ -5728,6 +6038,24 @@
       ]
     },
     {
+      "name": "star-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "favourite",
+        "star",
+        "favorite",
+        "excellence",
+        "stern",
+        "lesezeichen",
+        "exzellenz",
+        "ui-icons",
+        "Basic",
+        "star",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "star-filled-small",
       "color": true,
       "scalable": false,
@@ -5761,6 +6089,24 @@
         "Basic",
         "star-filled",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "star-filled-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "favourite",
+        "star",
+        "favorite",
+        "excellence",
+        "stern",
+        "lesezeichen",
+        "exzellenz",
+        "ui-icons",
+        "Basic",
+        "star-filled",
+        "Size=extra-small"
       ]
     },
     {
@@ -6400,7 +6746,7 @@
       ]
     },
     {
-      "name": "magic-wand-Size2",
+      "name": "magic-wand-medium",
       "color": true,
       "scalable": false,
       "tags": [
@@ -6411,7 +6757,7 @@
         "ui-icons",
         "Basic",
         "magic-wand",
-        "Size=Size2"
+        "Size=medium"
       ]
     },
     {
@@ -6638,6 +6984,24 @@
       ]
     },
     {
+      "name": "arrow-circle-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "load",
+        "arrow",
+        "circle",
+        "laden",
+        "pfeil",
+        "kreis",
+        "redo",
+        "ui-icons",
+        "Arrow",
+        "arrow-circle",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "arrow-circle-reset-small",
       "color": true,
       "scalable": false,
@@ -6674,6 +7038,24 @@
       ]
     },
     {
+      "name": "arrow-circle-reset-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "reset",
+        "undo",
+        "circle",
+        "arrow",
+        "rückgängig",
+        "kreis",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-circle-reset",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "arrow-left-small",
       "color": true,
       "scalable": false,
@@ -6702,6 +7084,20 @@
       ]
     },
     {
+      "name": "arrow-left-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "links",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-left",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "arrow-right-small",
       "color": true,
       "scalable": false,
@@ -6727,6 +7123,20 @@
         "Arrow",
         "arrow-right",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "arrow-right-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "rechts",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-right",
+        "Size=extra-small"
       ]
     },
     {
@@ -6760,6 +7170,21 @@
       ]
     },
     {
+      "name": "arrow-down-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "down",
+        "runter",
+        "unten",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-down",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "arrow-up-small",
       "color": true,
       "scalable": false,
@@ -6785,6 +7210,20 @@
         "Arrow",
         "arrow-up",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "arrow-up-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "up",
+        "oben",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-up",
+        "Size=extra-small"
       ]
     },
     {
@@ -7222,6 +7661,21 @@
       ]
     },
     {
+      "name": "arrow-turn-down-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "down",
+        "runter",
+        "unten",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-turn-down",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "arrow-turn-up-small",
       "color": true,
       "scalable": false,
@@ -7249,6 +7703,21 @@
         "Arrow",
         "arrow-turn-up",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "arrow-turn-up-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "up",
+        "rauf",
+        "oben",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "arrow-turn-up",
+        "Size=extra-small"
       ]
     },
     {
@@ -7648,6 +8117,27 @@
       ]
     },
     {
+      "name": "chevron-small-left-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "arrow",
+        "move",
+        "before",
+        "previously",
+        "back",
+        "links",
+        "zurück",
+        "zuvor",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-left",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "chevron-small-right-small",
       "color": true,
       "scalable": false,
@@ -7755,6 +8245,23 @@
         "Arrow",
         "chevron-small-down",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-small-down-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "down",
+        "arrow",
+        "chevron",
+        "unten",
+        "runter",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "chevron-small-down",
+        "Size=extra-small"
       ]
     },
     {
@@ -8320,6 +8827,28 @@
       ]
     },
     {
+      "name": "circle-exclamation-point-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-exclamation-point",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "circle-cross-small",
       "color": true,
       "scalable": false,
@@ -8356,6 +8885,19 @@
         "Status",
         "circle-cross",
         "Size=large"
+      ]
+    },
+    {
+      "name": "circle-cross-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "deselect",
+        "abwählen",
+        "ui-icons",
+        "Status",
+        "circle-cross",
+        "Size=extra-small"
       ]
     },
     {
@@ -8400,6 +8942,28 @@
         "Status",
         "circle-three-dots",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "circle-three-dots-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-three-dots",
+        "Size=extra-small"
       ]
     },
     {
@@ -8454,6 +9018,23 @@
       ]
     },
     {
+      "name": "circle-tick-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tick",
+        "select",
+        "all",
+        "alle",
+        "wählen",
+        "selektieren",
+        "ui-icons",
+        "Status",
+        "circle-tick",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "circle-dotted-small",
       "color": true,
       "scalable": false,
@@ -8495,6 +9076,28 @@
         "Status",
         "circle-dotted",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "circle-dotted-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-dotted",
+        "Size=extra-small"
       ]
     },
     {
@@ -8542,6 +9145,28 @@
       ]
     },
     {
+      "name": "circle-dotted-part-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-dotted-part",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "circle-dotted-part-x-small",
       "color": true,
       "scalable": false,
@@ -8586,6 +9211,28 @@
       ]
     },
     {
+      "name": "circle-dotted-part-x-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "caution",
+        "sign",
+        "exclamation",
+        "mark",
+        "warning",
+        "danger",
+        "attention",
+        "achtung",
+        "warnung",
+        "ausrufezeichen",
+        "gefahr",
+        "ui-icons",
+        "Status",
+        "circle-dotted-part-x",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "clipboard-empty-small",
       "color": true,
       "scalable": false,
@@ -8613,6 +9260,21 @@
         "Status",
         "clipboard-empty",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "clipboard-empty-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "control",
+        "kontrolle",
+        "klemmbrett",
+        "leer",
+        "ui-icons",
+        "Status",
+        "clipboard-empty",
+        "Size=extra-small"
       ]
     },
     {
@@ -8867,6 +9529,23 @@
       ]
     },
     {
+      "name": "eye-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "visible",
+        "noticeable",
+        "auge",
+        "sichtbar",
+        "sicht",
+        "vision",
+        "ui-icons",
+        "Status",
+        "eye",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "eye-disabled-small",
       "color": true,
       "scalable": false,
@@ -8960,6 +9639,22 @@
       ]
     },
     {
+      "name": "lock-closed-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "blocked",
+        "blockiert",
+        "schloss",
+        "geschlossen",
+        "verschlossen",
+        "ui-icons",
+        "Status",
+        "lock-closed",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "lock-open-small",
       "color": true,
       "scalable": false,
@@ -9002,6 +9697,21 @@
         "Status",
         "lock-open",
         "Size=large"
+      ]
+    },
+    {
+      "name": "lock-open-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "unlocked",
+        "offen",
+        "geöffnet",
+        "schloss",
+        "ui-icons",
+        "Status",
+        "lock-open",
+        "Size=extra-small"
       ]
     },
     {
@@ -9171,6 +9881,19 @@
       ]
     },
     {
+      "name": "cross-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cross",
+        "kreuz",
+        "ui-icons",
+        "Navigation",
+        "cross",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "cross-tiny-small",
       "color": true,
       "scalable": false,
@@ -9220,6 +9943,19 @@
         "Navigation",
         "drag",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "drag-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "drag",
+        "ziehen",
+        "ui-icons",
+        "Navigation",
+        "drag",
+        "Size=extra-small"
       ]
     },
     {
@@ -9293,6 +10029,20 @@
       ]
     },
     {
+      "name": "house-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "home",
+        "haus",
+        "zuhause",
+        "ui-icons",
+        "Navigation",
+        "house",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "layers-small",
       "color": true,
       "scalable": false,
@@ -9318,6 +10068,20 @@
         "Navigation",
         "layers",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "layers-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "layers",
+        "ebene",
+        "ebenen",
+        "ui-icons",
+        "Navigation",
+        "layers",
+        "Size=extra-small"
       ]
     },
     {
@@ -10325,6 +11089,19 @@
       ]
     },
     {
+      "name": "thumb-down-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "thumb",
+        "down",
+        "ui-icons",
+        "Community",
+        "thumb-down",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "thumb-up-small",
       "color": true,
       "scalable": false,
@@ -10350,6 +11127,20 @@
         "Community",
         "thumb-up",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "thumb-up-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "thumbs",
+        "up",
+        "like",
+        "ui-icons",
+        "Community",
+        "thumb-up",
+        "Size=extra-small"
       ]
     },
     {
@@ -10494,6 +11285,17 @@
         "Community",
         "copy",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "copy-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ui-icons",
+        "Community",
+        "copy",
+        "Size=extra-small"
       ]
     },
     {
@@ -10860,6 +11662,20 @@
       ]
     },
     {
+      "name": "user-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "user",
+        "person",
+        "benutzer",
+        "ui-icons",
+        "User",
+        "user",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "user-change-small",
       "color": true,
       "scalable": false,
@@ -11186,6 +12002,23 @@
         "User",
         "user-plus",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "user-plus-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "register",
+        "user",
+        "benutzer",
+        "add",
+        "hinzufügen",
+        "registrieren",
+        "ui-icons",
+        "User",
+        "user-plus",
+        "Size=extra-small"
       ]
     },
     {
@@ -11669,6 +12502,22 @@
       ]
     },
     {
+      "name": "document-standard-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "document",
+        "standard",
+        "dokument",
+        "file",
+        "datei",
+        "ui-icons",
+        "Document",
+        "document-standard",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "document-text-small",
       "color": true,
       "scalable": false,
@@ -11711,6 +12560,19 @@
         "Document",
         "document-text",
         "Size=large"
+      ]
+    },
+    {
+      "name": "document-text-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "document",
+        "text",
+        "ui-icons",
+        "Document",
+        "document-text",
+        "Size=extra-small"
       ]
     },
     {
@@ -11848,6 +12710,21 @@
       ]
     },
     {
+      "name": "folder-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "folder",
+        "ordner",
+        "file",
+        "datei",
+        "ui-icons",
+        "Document",
+        "folder",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "folder-info-small",
       "color": true,
       "scalable": false,
@@ -11941,6 +12818,21 @@
         "Document",
         "folder-open",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "folder-open-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "open",
+        "folder",
+        "offen",
+        "ordner",
+        "ui-icons",
+        "Document",
+        "folder-open",
+        "Size=extra-small"
       ]
     },
     {
@@ -12192,6 +13084,20 @@
       ]
     },
     {
+      "name": "arrow-change-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "change",
+        "wechsel",
+        "änderung",
+        "ui-icons",
+        "Timetable",
+        "arrow-change",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "arrow-change-horizontal-small",
       "color": true,
       "scalable": false,
@@ -12219,6 +13125,21 @@
         "Timetable",
         "arrow-change-horizontal",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "arrow-change-horizontal-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "change",
+        "horizontal",
+        "änderung",
+        "wechsel",
+        "ui-icons",
+        "Timetable",
+        "arrow-change-horizontal",
+        "Size=extra-small"
       ]
     },
     {
@@ -12429,6 +13350,28 @@
         "Timetable",
         "clock",
         "Size=large"
+      ]
+    },
+    {
+      "name": "clock-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "clock",
+        "working",
+        "time",
+        "arbeitszeit",
+        "zeit",
+        "uhr",
+        "dauer",
+        "duration",
+        "minute",
+        "hour",
+        "stunde",
+        "ui-icons",
+        "Timetable",
+        "clock",
+        "Size=extra-small"
       ]
     },
     {
@@ -15067,6 +16010,22 @@
       ]
     },
     {
+      "name": "station-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "railway",
+        "station",
+        "bahnhof",
+        "gebäude",
+        "building",
+        "ui-icons",
+        "Station",
+        "station",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "station-surrounding-area-small",
       "color": true,
       "scalable": false,
@@ -15412,6 +16371,27 @@
       ]
     },
     {
+      "name": "arrow-compass-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "location",
+        "ios",
+        "kompass",
+        "pfeil",
+        "kompassnadel",
+        "lokation",
+        "ort",
+        "standort",
+        "richtung",
+        "direction",
+        "ui-icons",
+        "Location",
+        "arrow-compass",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "arrow-compass-filled-small",
       "color": true,
       "scalable": false,
@@ -15451,6 +16431,27 @@
         "Location",
         "arrow-compass-filled",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "arrow-compass-filled-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "location",
+        "ios",
+        "kompass",
+        "pfeil",
+        "kompassnadel",
+        "lokation",
+        "ort",
+        "standort",
+        "richtung",
+        "direction",
+        "ui-icons",
+        "Location",
+        "arrow-compass-filled",
+        "Size=extra-small"
       ]
     },
     {
@@ -15499,6 +16500,22 @@
         "Location",
         "gps",
         "Size=large"
+      ]
+    },
+    {
+      "name": "gps-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "gps",
+        "ortung",
+        "orten",
+        "locate",
+        "location",
+        "ui-icons",
+        "Location",
+        "gps",
+        "Size=extra-small"
       ]
     },
     {
@@ -15587,6 +16604,23 @@
         "Location",
         "location-pin",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "location-pin-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "marker",
+        "geopointer",
+        "geo",
+        "pointer",
+        "ort",
+        "location",
+        "ui-icons",
+        "Location",
+        "location-pin",
+        "Size=extra-small"
       ]
     },
     {
@@ -19094,6 +20128,21 @@
       ]
     },
     {
+      "name": "airplane-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "plane",
+        "airplane",
+        "flugzeug",
+        "transport",
+        "ui-icons",
+        "Transport",
+        "airplane",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "airplane-train-small",
       "color": true,
       "scalable": false,
@@ -19608,6 +20657,20 @@
       ]
     },
     {
+      "name": "bus-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bus",
+        "vehicle",
+        "fahrzeug",
+        "ui-icons",
+        "Transport",
+        "bus",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "bus-train-small",
       "color": true,
       "scalable": false,
@@ -19793,6 +20856,19 @@
       ]
     },
     {
+      "name": "bus-profile-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bus",
+        "fahrzeug",
+        "ui-icons",
+        "Transport",
+        "bus-profile",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "cable-car-profile-small",
       "color": true,
       "scalable": false,
@@ -19859,6 +20935,23 @@
       ]
     },
     {
+      "name": "car-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "automobile",
+        "road",
+        "vehicle",
+        "car",
+        "auto",
+        "fahrzeug",
+        "ui-icons",
+        "Transport",
+        "car",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "car-profile-small",
       "color": true,
       "scalable": false,
@@ -19904,6 +20997,22 @@
         "Transport",
         "car-profile",
         "Size=large"
+      ]
+    },
+    {
+      "name": "car-profile-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "automobile",
+        "vehicle",
+        "car",
+        "auto",
+        "fahrzeug",
+        "ui-icons",
+        "Transport",
+        "car-profile",
+        "Size=extra-small"
       ]
     },
     {
@@ -21382,6 +22491,18 @@
       ]
     },
     {
+      "name": "taxi-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "taxi",
+        "ui-icons",
+        "Transport",
+        "taxi",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "taxi-profile-small",
       "color": true,
       "scalable": false,
@@ -21415,6 +22536,18 @@
         "Transport",
         "taxi-profile",
         "Size=large"
+      ]
+    },
+    {
+      "name": "taxi-profile-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "taxi",
+        "ui-icons",
+        "Transport",
+        "taxi-profile",
+        "Size=extra-small"
       ]
     },
     {
@@ -21520,6 +22653,22 @@
       ]
     },
     {
+      "name": "train-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "train",
+        "zug",
+        "betriebslage",
+        "operational",
+        "situation",
+        "ui-icons",
+        "Transport",
+        "train",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "train-profile-small",
       "color": true,
       "scalable": false,
@@ -21559,6 +22708,19 @@
       ]
     },
     {
+      "name": "train-profile-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "train",
+        "zug",
+        "ui-icons",
+        "Transport",
+        "train-profile",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "tram-small",
       "color": true,
       "scalable": false,
@@ -21584,6 +22746,20 @@
         "Transport",
         "tram",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "tram-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tram",
+        "streetcar",
+        "strassenbahn",
+        "ui-icons",
+        "Transport",
+        "tram",
+        "Size=extra-small"
       ]
     },
     {
