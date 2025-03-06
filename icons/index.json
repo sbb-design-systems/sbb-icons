@@ -20200,6 +20200,51 @@
       ]
     },
     {
+      "name": "bicycle-reservation-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bicycle",
+        "fahrradm",
+        "bike",
+        "ui-icons",
+        "Transport",
+        "bicycle-reservation",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "bicycle-reservation-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bicycle",
+        "fahrradm",
+        "bike",
+        "ui-icons",
+        "Transport",
+        "bicycle-reservation",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "bicycle-reservation-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "velo",
+        "bicycle",
+        "fahrradm",
+        "bike",
+        "ui-icons",
+        "Transport",
+        "bicycle-reservation",
+        "Size=large"
+      ]
+    },
+    {
       "name": "bicycle-small",
       "color": true,
       "scalable": false,
@@ -22791,6 +22836,20 @@
       ]
     },
     {
+      "name": "tram-profile-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tram",
+        "streetcar",
+        "strassenbahn",
+        "ui-icons",
+        "Transport",
+        "tram-profile",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "underground-vehicule-profile-small",
       "color": true,
       "scalable": false,
@@ -22990,6 +23049,46 @@
       ]
     },
     {
+      "name": "adult-kids-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "school",
+        "excursions",
+        "schule",
+        "schulausflug",
+        "ausflug",
+        "kinder",
+        "gruppe",
+        "klasse",
+        "klassenfahrt",
+        "ui-icons",
+        "Leisure",
+        "adult-kids",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "adult-kids-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "school",
+        "excursions",
+        "schule",
+        "schulausflug",
+        "ausflug",
+        "kinder",
+        "gruppe",
+        "klasse",
+        "klassenfahrt",
+        "ui-icons",
+        "Leisure",
+        "adult-kids",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "adult-kids-large",
       "color": true,
       "scalable": false,
@@ -23127,6 +23226,46 @@
       ]
     },
     {
+      "name": "christmas-tree-shopping-bag-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "christmas",
+        "market",
+        "shopping",
+        "weihnachten",
+        "tree",
+        "baum",
+        "weihnachtsbaum",
+        "geschenk",
+        "einkaufen",
+        "ui-icons",
+        "Leisure",
+        "christmas-tree-shopping-bag",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "christmas-tree-shopping-bag-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "christmas",
+        "market",
+        "shopping",
+        "weihnachten",
+        "tree",
+        "baum",
+        "weihnachtsbaum",
+        "geschenk",
+        "einkaufen",
+        "ui-icons",
+        "Leisure",
+        "christmas-tree-shopping-bag",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "christmas-tree-shopping-bag-large",
       "color": true,
       "scalable": false,
@@ -23236,6 +23375,34 @@
       ]
     },
     {
+      "name": "elephant-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "zoo",
+        "elefant",
+        "tier",
+        "ui-icons",
+        "Leisure",
+        "elephant",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "elephant-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "zoo",
+        "elefant",
+        "tier",
+        "ui-icons",
+        "Leisure",
+        "elephant",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "elephant-large",
       "color": true,
       "scalable": false,
@@ -23247,6 +23414,46 @@
         "Leisure",
         "elephant",
         "Size=large"
+      ]
+    },
+    {
+      "name": "ferris-wheel-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "folk",
+        "festival",
+        "ferris",
+        "wheel",
+        "fest",
+        "reisenrad",
+        "volksfest",
+        "kirmes",
+        "messe",
+        "ui-icons",
+        "Leisure",
+        "ferris-wheel",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "ferris-wheel-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "folk",
+        "festival",
+        "ferris",
+        "wheel",
+        "fest",
+        "reisenrad",
+        "volksfest",
+        "kirmes",
+        "messe",
+        "ui-icons",
+        "Leisure",
+        "ferris-wheel",
+        "Size=medium"
       ]
     },
     {
@@ -23362,6 +23569,40 @@
       ]
     },
     {
+      "name": "leaf-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "nature",
+        "leaf",
+        "attractions",
+        "blatt",
+        "natur",
+        "attraktion",
+        "ui-icons",
+        "Leisure",
+        "leaf",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "leaf-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "nature",
+        "leaf",
+        "attractions",
+        "blatt",
+        "natur",
+        "attraktion",
+        "ui-icons",
+        "Leisure",
+        "leaf",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "leaf-large",
       "color": true,
       "scalable": false,
@@ -23376,6 +23617,40 @@
         "Leisure",
         "leaf",
         "Size=large"
+      ]
+    },
+    {
+      "name": "locomotive-viaduct-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "experience",
+        "panorama",
+        "travel",
+        "erlebnis",
+        "reisen",
+        "lokomotive",
+        "ui-icons",
+        "Leisure",
+        "locomotive-viaduct",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "locomotive-viaduct-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "experience",
+        "panorama",
+        "travel",
+        "erlebnis",
+        "reisen",
+        "lokomotive",
+        "ui-icons",
+        "Leisure",
+        "locomotive-viaduct",
+        "Size=medium"
       ]
     },
     {
@@ -23396,6 +23671,44 @@
       ]
     },
     {
+      "name": "lucerne-chapel-bridge-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "short",
+        "trip",
+        "switzerland",
+        "kapelle",
+        "luzern",
+        "kurztrip",
+        "ausflug",
+        "schweiz",
+        "ui-icons",
+        "Leisure",
+        "lucerne-chapel-bridge",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "lucerne-chapel-bridge-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "short",
+        "trip",
+        "switzerland",
+        "kapelle",
+        "luzern",
+        "kurztrip",
+        "ausflug",
+        "schweiz",
+        "ui-icons",
+        "Leisure",
+        "lucerne-chapel-bridge",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "lucerne-chapel-bridge-large",
       "color": true,
       "scalable": false,
@@ -23412,6 +23725,42 @@
         "Leisure",
         "lucerne-chapel-bridge",
         "Size=large"
+      ]
+    },
+    {
+      "name": "market-shopping-bag-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "market",
+        "shopping",
+        "markt",
+        "einkaufen",
+        "laden",
+        "tasche",
+        "tüte",
+        "ui-icons",
+        "Leisure",
+        "market-shopping-bag",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "market-shopping-bag-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "market",
+        "shopping",
+        "markt",
+        "einkaufen",
+        "laden",
+        "tasche",
+        "tüte",
+        "ui-icons",
+        "Leisure",
+        "market-shopping-bag",
+        "Size=medium"
       ]
     },
     {
@@ -23687,6 +24036,40 @@
       ]
     },
     {
+      "name": "music-rock-hand-gesture-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "concert",
+        "musical",
+        "festival",
+        "music",
+        "party",
+        "event",
+        "ui-icons",
+        "Leisure",
+        "music-rock-hand-gesture",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "music-rock-hand-gesture-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "concert",
+        "musical",
+        "festival",
+        "music",
+        "party",
+        "event",
+        "ui-icons",
+        "Leisure",
+        "music-rock-hand-gesture",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "music-rock-hand-gesture-large",
       "color": true,
       "scalable": false,
@@ -23809,6 +24192,42 @@
         "Leisure",
         "skis-ski-poles",
         "Size=large"
+      ]
+    },
+    {
+      "name": "sledge-snowshoe-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sledge",
+        "winter",
+        "hiking",
+        "snowshoe",
+        "schlitten",
+        "schneeschuhe",
+        "schneewandern",
+        "ui-icons",
+        "Leisure",
+        "sledge-snowshoe",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "sledge-snowshoe-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sledge",
+        "winter",
+        "hiking",
+        "snowshoe",
+        "schlitten",
+        "schneeschuhe",
+        "schneewandern",
+        "ui-icons",
+        "Leisure",
+        "sledge-snowshoe",
+        "Size=medium"
       ]
     },
     {
@@ -23947,6 +24366,40 @@
       ]
     },
     {
+      "name": "three-adults-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "group",
+        "trip",
+        "gruppe",
+        "gruppenreise",
+        "erwachsen",
+        "person",
+        "ui-icons",
+        "Leisure",
+        "three-adults",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "three-adults-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "group",
+        "trip",
+        "gruppe",
+        "gruppenreise",
+        "erwachsen",
+        "person",
+        "ui-icons",
+        "Leisure",
+        "three-adults",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "three-adults-large",
       "color": true,
       "scalable": false,
@@ -23961,6 +24414,44 @@
         "Leisure",
         "three-adults",
         "Size=large"
+      ]
+    },
+    {
+      "name": "train-ski-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "snow",
+        "n",
+        "rail",
+        "schnee",
+        "zug",
+        "ski",
+        "zug",
+        "train",
+        "ui-icons",
+        "Leisure",
+        "train-ski",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "train-ski-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "snow",
+        "n",
+        "rail",
+        "schnee",
+        "zug",
+        "ski",
+        "zug",
+        "train",
+        "ui-icons",
+        "Leisure",
+        "train-ski",
+        "Size=medium"
       ]
     },
     {
