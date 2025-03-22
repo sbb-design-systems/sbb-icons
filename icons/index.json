@@ -37558,7 +37558,7 @@
       ]
     },
     {
-      "name": "irn-1",
+      "name": "ir-n1",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37567,11 +37567,11 @@
         "Product-Brands",
         "light",
         "irn",
-        "irn-1"
+        "ir-n1"
       ]
     },
     {
-      "name": "irn-2",
+      "name": "ir-n2",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37580,11 +37580,11 @@
         "Product-Brands",
         "light",
         "irn",
-        "irn-2"
+        "ir-n2"
       ]
     },
     {
-      "name": "irn-3",
+      "name": "ir-n3",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37593,11 +37593,11 @@
         "Product-Brands",
         "light",
         "irn",
-        "irn-3"
+        "ir-n3"
       ]
     },
     {
-      "name": "irn-4",
+      "name": "ir-n4",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37606,11 +37606,11 @@
         "Product-Brands",
         "light",
         "irn",
-        "irn-4"
+        "ir-n4"
       ]
     },
     {
-      "name": "irn-5",
+      "name": "ir-n5",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37619,11 +37619,11 @@
         "Product-Brands",
         "light",
         "irn",
-        "irn-5"
+        "ir-n5"
       ]
     },
     {
-      "name": "irn-6",
+      "name": "ir-n6",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37632,11 +37632,11 @@
         "Product-Brands",
         "light",
         "irn",
-        "irn-6"
+        "ir-n6"
       ]
     },
     {
-      "name": "irn-7",
+      "name": "ir-n7",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37645,11 +37645,11 @@
         "Product-Brands",
         "light",
         "irn",
-        "irn-7"
+        "ir-n7"
       ]
     },
     {
-      "name": "irn-8",
+      "name": "ir-n8",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37658,11 +37658,11 @@
         "Product-Brands",
         "light",
         "irn",
-        "irn-8"
+        "ir-n8"
       ]
     },
     {
-      "name": "irn-9",
+      "name": "ir-n9",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37671,7 +37671,7 @@
         "Product-Brands",
         "light",
         "irn",
-        "irn-9"
+        "ir-n9"
       ]
     },
     {
@@ -37688,7 +37688,7 @@
       ]
     },
     {
-      "name": "ren-1",
+      "name": "re-n1",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37697,11 +37697,11 @@
         "Product-Brands",
         "light",
         "ren",
-        "ren-1"
+        "re-n1"
       ]
     },
     {
-      "name": "ren-2",
+      "name": "re-n2",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37710,11 +37710,11 @@
         "Product-Brands",
         "light",
         "ren",
-        "ren-2"
+        "re-n2"
       ]
     },
     {
-      "name": "ren-3",
+      "name": "re-n3",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37723,11 +37723,11 @@
         "Product-Brands",
         "light",
         "ren",
-        "ren-3"
+        "re-n3"
       ]
     },
     {
-      "name": "ren-4",
+      "name": "re-n4",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37736,11 +37736,11 @@
         "Product-Brands",
         "light",
         "ren",
-        "ren-4"
+        "re-n4"
       ]
     },
     {
-      "name": "ren-5",
+      "name": "re-n5",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37749,11 +37749,11 @@
         "Product-Brands",
         "light",
         "ren",
-        "ren-5"
+        "re-n5"
       ]
     },
     {
-      "name": "ren-6",
+      "name": "re-n6",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37762,11 +37762,11 @@
         "Product-Brands",
         "light",
         "ren",
-        "ren-6"
+        "re-n6"
       ]
     },
     {
-      "name": "ren-7",
+      "name": "re-n7",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37775,11 +37775,11 @@
         "Product-Brands",
         "light",
         "ren",
-        "ren-7"
+        "re-n7"
       ]
     },
     {
-      "name": "ren-8",
+      "name": "re-n8",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37788,11 +37788,11 @@
         "Product-Brands",
         "light",
         "ren",
-        "ren-8"
+        "re-n8"
       ]
     },
     {
-      "name": "ren-9",
+      "name": "re-n9",
       "color": false,
       "scalable": true,
       "tags": [
@@ -37801,7 +37801,7 @@
         "Product-Brands",
         "light",
         "ren",
-        "ren-9"
+        "re-n9"
       ]
     },
     {
@@ -51166,7 +51166,7 @@
       ]
     },
     {
-      "name": "irn-negative",
+      "name": "ir-n-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51175,11 +51175,11 @@
         "Product-Brands",
         "dark",
         "irn",
-        "irn-negative"
+        "ir-n-negative"
       ]
     },
     {
-      "name": "irn-1-negative",
+      "name": "ir-n1-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51188,11 +51188,11 @@
         "Product-Brands",
         "dark",
         "irn",
-        "irn-1-negative"
+        "ir-n1-negative"
       ]
     },
     {
-      "name": "irn-2-negative",
+      "name": "ir-n2-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51201,11 +51201,11 @@
         "Product-Brands",
         "dark",
         "irn",
-        "irn-2-negative"
+        "ir-n2-negative"
       ]
     },
     {
-      "name": "irn-3-negative",
+      "name": "ir-n3-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51214,11 +51214,11 @@
         "Product-Brands",
         "dark",
         "irn",
-        "irn-3-negative"
+        "ir-n3-negative"
       ]
     },
     {
-      "name": "irn-4-negative",
+      "name": "ir-n4-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51227,11 +51227,11 @@
         "Product-Brands",
         "dark",
         "irn",
-        "irn-4-negative"
+        "ir-n4-negative"
       ]
     },
     {
-      "name": "irn-5-negative",
+      "name": "ir-n5-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51240,11 +51240,11 @@
         "Product-Brands",
         "dark",
         "irn",
-        "irn-5-negative"
+        "ir-n5-negative"
       ]
     },
     {
-      "name": "irn-6-negative",
+      "name": "ir-n6-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51253,11 +51253,11 @@
         "Product-Brands",
         "dark",
         "irn",
-        "irn-6-negative"
+        "ir-n6-negative"
       ]
     },
     {
-      "name": "irn-7-negative",
+      "name": "ir-n7-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51266,11 +51266,11 @@
         "Product-Brands",
         "dark",
         "irn",
-        "irn-7-negative"
+        "ir-n7-negative"
       ]
     },
     {
-      "name": "irn-8-negative",
+      "name": "ir-n8-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51279,11 +51279,11 @@
         "Product-Brands",
         "dark",
         "irn",
-        "irn-8-negative"
+        "ir-n8-negative"
       ]
     },
     {
-      "name": "irn-9-negative",
+      "name": "ir-n9-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51292,11 +51292,11 @@
         "Product-Brands",
         "dark",
         "irn",
-        "irn-9-negative"
+        "ir-n9-negative"
       ]
     },
     {
-      "name": "ren-negative",
+      "name": "re-n-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51305,11 +51305,11 @@
         "Product-Brands",
         "dark",
         "ren",
-        "ren-negative"
+        "re-n-negative"
       ]
     },
     {
-      "name": "ren-1-negative",
+      "name": "re-n1-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51318,11 +51318,11 @@
         "Product-Brands",
         "dark",
         "ren",
-        "ren-1-negative"
+        "re-n1-negative"
       ]
     },
     {
-      "name": "ren-2-negative",
+      "name": "re-n2-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51331,11 +51331,11 @@
         "Product-Brands",
         "dark",
         "ren",
-        "ren-2-negative"
+        "re-n2-negative"
       ]
     },
     {
-      "name": "ren-3-negative",
+      "name": "re-n3-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51344,11 +51344,11 @@
         "Product-Brands",
         "dark",
         "ren",
-        "ren-3-negative"
+        "re-n3-negative"
       ]
     },
     {
-      "name": "ren-4-negative",
+      "name": "re-n4-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51357,11 +51357,11 @@
         "Product-Brands",
         "dark",
         "ren",
-        "ren-4-negative"
+        "re-n4-negative"
       ]
     },
     {
-      "name": "ren-5-negative",
+      "name": "re-n5-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51370,11 +51370,11 @@
         "Product-Brands",
         "dark",
         "ren",
-        "ren-5-negative"
+        "re-n5-negative"
       ]
     },
     {
-      "name": "ren-6-negative",
+      "name": "re-n6-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51383,11 +51383,11 @@
         "Product-Brands",
         "dark",
         "ren",
-        "ren-6-negative"
+        "re-n6-negative"
       ]
     },
     {
-      "name": "ren-7-negative",
+      "name": "re-n7-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51396,11 +51396,11 @@
         "Product-Brands",
         "dark",
         "ren",
-        "ren-7-negative"
+        "re-n7-negative"
       ]
     },
     {
-      "name": "ren-8-negative",
+      "name": "re-n8-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51409,11 +51409,11 @@
         "Product-Brands",
         "dark",
         "ren",
-        "ren-8-negative"
+        "re-n8-negative"
       ]
     },
     {
-      "name": "ren-9-negative",
+      "name": "re-n9-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -51422,7 +51422,7 @@
         "Product-Brands",
         "dark",
         "ren",
-        "ren-9-negative"
+        "re-n9-negative"
       ]
     },
     {
@@ -55326,7 +55326,7 @@
       ]
     },
     {
-      "name": "ter",
+      "name": "ter-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -55335,7 +55335,7 @@
         "Product-Brands",
         "dark",
         "ter",
-        "ter"
+        "ter-negative"
       ]
     },
     {
