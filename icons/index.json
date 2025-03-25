@@ -16455,6 +16455,53 @@
       ]
     },
     {
+      "name": "compass-localisation-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "location",
+        "ios",
+        "compass",
+        "arrow",
+        "compass",
+        "needle",
+        "direction",
+        "localisation",
+        "north",
+        "standort",
+        "kompass",
+        "pfeil",
+        "kompassnadel",
+        "richtung",
+        "lokalisierung",
+        "norden",
+        "ui-icons",
+        "Location",
+        "compass-localisation",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "compass-localisation-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "location",
+        "ios",
+        "compass",
+        "arrow",
+        "compass",
+        "needle",
+        "direction",
+        "localisation",
+        "north",
+        "ui-icons",
+        "Location",
+        "compass-localisation",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "gps-small",
       "color": true,
       "scalable": false,
