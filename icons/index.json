@@ -6948,6 +6948,60 @@
       ]
     },
     {
+      "name": "cutlery-disabled-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cutlery",
+        "besteck",
+        "food",
+        "essen",
+        "restaurant",
+        "disabled",
+        "kein",
+        "ui-icons",
+        "Basic",
+        "cutlery-disabled",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "cutlery-disabled-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cutlery",
+        "besteck",
+        "food",
+        "essen",
+        "restaurant",
+        "disabled",
+        "kein",
+        "ui-icons",
+        "Basic",
+        "cutlery-disabled",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "cutlery-disabled-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cutlery",
+        "besteck",
+        "food",
+        "essen",
+        "restaurant",
+        "disabled",
+        "kein",
+        "ui-icons",
+        "Basic",
+        "cutlery-disabled",
+        "Size=large"
+      ]
+    },
+    {
       "name": "arrow-circle-small",
       "color": true,
       "scalable": false,
@@ -28473,6 +28527,17 @@
       ]
     },
     {
+      "name": "sa-pf",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-pf"
+      ]
+    },
+    {
       "name": "sa-pg",
       "color": true,
       "scalable": true,
@@ -39152,7 +39217,7 @@
       ]
     },
     {
-      "name": "rl",
+      "name": "r-l",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39161,11 +39226,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl"
+        "r-l"
       ]
     },
     {
-      "name": "rl-1",
+      "name": "r-l1",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39174,11 +39239,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-1"
+        "r-l1"
       ]
     },
     {
-      "name": "rl-2",
+      "name": "r-l2",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39187,11 +39252,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-2"
+        "r-l2"
       ]
     },
     {
-      "name": "rl-3",
+      "name": "r-l3",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39200,11 +39265,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-3"
+        "r-l3"
       ]
     },
     {
-      "name": "rl-4",
+      "name": "r-l4",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39213,11 +39278,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-4"
+        "r-l4"
       ]
     },
     {
-      "name": "rl-5",
+      "name": "r-l5",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39226,11 +39291,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-5"
+        "r-l5"
       ]
     },
     {
-      "name": "rl-6",
+      "name": "r-l6",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39239,11 +39304,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-6"
+        "r-l6"
       ]
     },
     {
-      "name": "rl-7",
+      "name": "r-l7",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39252,11 +39317,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-7"
+        "r-l7"
       ]
     },
     {
-      "name": "rl-8",
+      "name": "r-l8",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39265,11 +39330,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-8"
+        "r-l8"
       ]
     },
     {
-      "name": "rl-9",
+      "name": "r-l9",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39278,11 +39343,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-9"
+        "r-l9"
       ]
     },
     {
-      "name": "rl-10",
+      "name": "r-l10",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39291,11 +39356,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-10"
+        "r-l10"
       ]
     },
     {
-      "name": "rl-11",
+      "name": "r-l11",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39304,11 +39369,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-11"
+        "r-l11"
       ]
     },
     {
-      "name": "rl-12",
+      "name": "r-l12",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39317,11 +39382,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-12"
+        "r-l12"
       ]
     },
     {
-      "name": "rl-13",
+      "name": "r-l13",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39330,11 +39395,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-13"
+        "r-l13"
       ]
     },
     {
-      "name": "rl-14",
+      "name": "r-l14",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39343,11 +39408,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-14"
+        "r-l14"
       ]
     },
     {
-      "name": "rl-15",
+      "name": "r-l15",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39356,11 +39421,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-15"
+        "r-l15"
       ]
     },
     {
-      "name": "rl-16",
+      "name": "r-l16",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39369,11 +39434,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-16"
+        "r-l16"
       ]
     },
     {
-      "name": "rl-17",
+      "name": "r-l17",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39382,11 +39447,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-17"
+        "r-l17"
       ]
     },
     {
-      "name": "rl-18",
+      "name": "r-l18",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39395,11 +39460,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-18"
+        "r-l18"
       ]
     },
     {
-      "name": "rl-19",
+      "name": "r-l19",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39408,11 +39473,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-19"
+        "r-l19"
       ]
     },
     {
-      "name": "rl-20",
+      "name": "r-l20",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39421,11 +39486,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-20"
+        "r-l20"
       ]
     },
     {
-      "name": "rl-21",
+      "name": "r-l21",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39434,11 +39499,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-21"
+        "r-l21"
       ]
     },
     {
-      "name": "rl-22",
+      "name": "r-l22",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39447,11 +39512,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-22"
+        "r-l22"
       ]
     },
     {
-      "name": "rl-23",
+      "name": "r-l23",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39460,11 +39525,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-23"
+        "r-l23"
       ]
     },
     {
-      "name": "rl-24",
+      "name": "r-l24",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39473,11 +39538,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-24"
+        "r-l24"
       ]
     },
     {
-      "name": "rl-25",
+      "name": "r-l25",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39486,11 +39551,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-25"
+        "r-l25"
       ]
     },
     {
-      "name": "rl-26",
+      "name": "r-l26",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39499,11 +39564,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-26"
+        "r-l26"
       ]
     },
     {
-      "name": "rl-27",
+      "name": "r-l27",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39512,11 +39577,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-27"
+        "r-l27"
       ]
     },
     {
-      "name": "rl-28",
+      "name": "r-l28",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39525,11 +39590,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-28"
+        "r-l28"
       ]
     },
     {
-      "name": "rl-29",
+      "name": "r-l29",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39538,11 +39603,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-29"
+        "r-l29"
       ]
     },
     {
-      "name": "rl-30",
+      "name": "r-l30",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39551,11 +39616,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-30"
+        "r-l30"
       ]
     },
     {
-      "name": "rl-31",
+      "name": "r-l31",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39564,11 +39629,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-31"
+        "r-l31"
       ]
     },
     {
-      "name": "rl-32",
+      "name": "r-l32",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39577,11 +39642,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-32"
+        "r-l32"
       ]
     },
     {
-      "name": "rl-33",
+      "name": "r-l33",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39590,11 +39655,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-33"
+        "r-l33"
       ]
     },
     {
-      "name": "rl-34",
+      "name": "r-l34",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39603,11 +39668,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-34"
+        "r-l34"
       ]
     },
     {
-      "name": "rl-35",
+      "name": "r-l35",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39616,11 +39681,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-35"
+        "r-l35"
       ]
     },
     {
-      "name": "rl-36",
+      "name": "r-l36",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39629,11 +39694,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-36"
+        "r-l36"
       ]
     },
     {
-      "name": "rl-37",
+      "name": "r-l37",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39642,11 +39707,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-37"
+        "r-l37"
       ]
     },
     {
-      "name": "rl-38",
+      "name": "r-l38",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39655,11 +39720,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-38"
+        "r-l38"
       ]
     },
     {
-      "name": "rl-39",
+      "name": "r-l39",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39668,11 +39733,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-39"
+        "r-l39"
       ]
     },
     {
-      "name": "rl-40",
+      "name": "r-l40",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39681,11 +39746,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-40"
+        "r-l40"
       ]
     },
     {
-      "name": "rl-41",
+      "name": "r-l41",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39694,11 +39759,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-41"
+        "r-l41"
       ]
     },
     {
-      "name": "rl-42",
+      "name": "r-l42",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39707,11 +39772,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-42"
+        "r-l42"
       ]
     },
     {
-      "name": "rl-43",
+      "name": "r-l43",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39720,11 +39785,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-43"
+        "r-l43"
       ]
     },
     {
-      "name": "rl-44",
+      "name": "r-l44",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39733,11 +39798,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-44"
+        "r-l44"
       ]
     },
     {
-      "name": "rl-45",
+      "name": "r-l45",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39746,11 +39811,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-45"
+        "r-l45"
       ]
     },
     {
-      "name": "rl-46",
+      "name": "r-l46",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39759,11 +39824,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-46"
+        "r-l46"
       ]
     },
     {
-      "name": "rl-47",
+      "name": "r-l47",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39772,11 +39837,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-47"
+        "r-l47"
       ]
     },
     {
-      "name": "rl-48",
+      "name": "r-l48",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39785,11 +39850,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-48"
+        "r-l48"
       ]
     },
     {
-      "name": "rl-49",
+      "name": "r-l49",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39798,11 +39863,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-49"
+        "r-l49"
       ]
     },
     {
-      "name": "rl-50",
+      "name": "r-l50",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39811,11 +39876,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-50"
+        "r-l50"
       ]
     },
     {
-      "name": "rl-51",
+      "name": "r-l51",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39824,11 +39889,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-51"
+        "r-l51"
       ]
     },
     {
-      "name": "rl-52",
+      "name": "r-l52",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39837,11 +39902,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-52"
+        "r-l52"
       ]
     },
     {
-      "name": "rl-53",
+      "name": "r-l53",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39850,11 +39915,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-53"
+        "r-l53"
       ]
     },
     {
-      "name": "rl-54",
+      "name": "r-l54",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39863,11 +39928,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-54"
+        "r-l54"
       ]
     },
     {
-      "name": "rl-55",
+      "name": "r-l55",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39876,11 +39941,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-55"
+        "r-l55"
       ]
     },
     {
-      "name": "rl-56",
+      "name": "r-l56",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39889,11 +39954,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-56"
+        "r-l56"
       ]
     },
     {
-      "name": "rl-57",
+      "name": "r-l57",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39902,11 +39967,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-57"
+        "r-l57"
       ]
     },
     {
-      "name": "rl-58",
+      "name": "r-l58",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39915,11 +39980,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-58"
+        "r-l58"
       ]
     },
     {
-      "name": "rl-59",
+      "name": "r-l59",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39928,11 +39993,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-59"
+        "r-l59"
       ]
     },
     {
-      "name": "rl-60",
+      "name": "r-l60",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39941,11 +40006,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-60"
+        "r-l60"
       ]
     },
     {
-      "name": "rl-61",
+      "name": "r-l61",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39954,11 +40019,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-61"
+        "r-l61"
       ]
     },
     {
-      "name": "rl-62",
+      "name": "r-l62",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39967,11 +40032,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-62"
+        "r-l62"
       ]
     },
     {
-      "name": "rl-63",
+      "name": "r-l63",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39980,11 +40045,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-63"
+        "r-l63"
       ]
     },
     {
-      "name": "rl-64",
+      "name": "r-l64",
       "color": false,
       "scalable": true,
       "tags": [
@@ -39993,11 +40058,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-64"
+        "r-l64"
       ]
     },
     {
-      "name": "rl-65",
+      "name": "r-l65",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40006,11 +40071,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-65"
+        "r-l65"
       ]
     },
     {
-      "name": "rl-66",
+      "name": "r-l66",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40019,11 +40084,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-66"
+        "r-l66"
       ]
     },
     {
-      "name": "rl-67",
+      "name": "r-l67",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40032,11 +40097,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-67"
+        "r-l67"
       ]
     },
     {
-      "name": "rl-68",
+      "name": "r-l68",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40045,11 +40110,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-68"
+        "r-l68"
       ]
     },
     {
-      "name": "rl-69",
+      "name": "r-l69",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40058,11 +40123,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-69"
+        "r-l69"
       ]
     },
     {
-      "name": "rl-70",
+      "name": "r-l70",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40071,11 +40136,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-70"
+        "r-l70"
       ]
     },
     {
-      "name": "rl-71",
+      "name": "r-l71",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40084,11 +40149,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-71"
+        "r-l71"
       ]
     },
     {
-      "name": "rl-72",
+      "name": "r-l72",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40097,11 +40162,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-72"
+        "r-l72"
       ]
     },
     {
-      "name": "rl-73",
+      "name": "r-l73",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40110,11 +40175,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-73"
+        "r-l73"
       ]
     },
     {
-      "name": "rl-74",
+      "name": "r-l74",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40123,11 +40188,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-74"
+        "r-l74"
       ]
     },
     {
-      "name": "rl-75",
+      "name": "r-l75",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40136,11 +40201,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-75"
+        "r-l75"
       ]
     },
     {
-      "name": "rl-76",
+      "name": "r-l76",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40149,11 +40214,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-76"
+        "r-l76"
       ]
     },
     {
-      "name": "rl-77",
+      "name": "r-l77",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40162,11 +40227,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-77"
+        "r-l77"
       ]
     },
     {
-      "name": "rl-78",
+      "name": "r-l78",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40175,11 +40240,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-78"
+        "r-l78"
       ]
     },
     {
-      "name": "rl-79",
+      "name": "r-l79",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40188,11 +40253,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-79"
+        "r-l79"
       ]
     },
     {
-      "name": "rl-80",
+      "name": "r-l80",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40201,11 +40266,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-80"
+        "r-l80"
       ]
     },
     {
-      "name": "rl-81",
+      "name": "r-l81",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40214,11 +40279,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-81"
+        "r-l81"
       ]
     },
     {
-      "name": "rl-82",
+      "name": "r-l82",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40227,11 +40292,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-82"
+        "r-l82"
       ]
     },
     {
-      "name": "rl-83",
+      "name": "r-l83",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40240,11 +40305,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-83"
+        "r-l83"
       ]
     },
     {
-      "name": "rl-84",
+      "name": "r-l84",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40253,11 +40318,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-84"
+        "r-l84"
       ]
     },
     {
-      "name": "rl-85",
+      "name": "r-l85",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40266,11 +40331,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-85"
+        "r-l85"
       ]
     },
     {
-      "name": "rl-86",
+      "name": "r-l86",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40279,11 +40344,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-86"
+        "r-l86"
       ]
     },
     {
-      "name": "rl-87",
+      "name": "r-l87",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40292,11 +40357,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-87"
+        "r-l87"
       ]
     },
     {
-      "name": "rl-88",
+      "name": "r-l88",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40305,11 +40370,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-88"
+        "r-l88"
       ]
     },
     {
-      "name": "rl-89",
+      "name": "r-l89",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40318,11 +40383,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-89"
+        "r-l89"
       ]
     },
     {
-      "name": "rl-90",
+      "name": "r-l90",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40331,11 +40396,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-90"
+        "r-l90"
       ]
     },
     {
-      "name": "rl-91",
+      "name": "r-l91",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40344,11 +40409,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-91"
+        "r-l91"
       ]
     },
     {
-      "name": "rl-92",
+      "name": "r-l92",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40357,11 +40422,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-92"
+        "r-l92"
       ]
     },
     {
-      "name": "rl-93",
+      "name": "r-l93",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40370,11 +40435,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-93"
+        "r-l93"
       ]
     },
     {
-      "name": "rl-94",
+      "name": "r-l94",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40383,11 +40448,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-94"
+        "r-l94"
       ]
     },
     {
-      "name": "rl-95",
+      "name": "r-l95",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40396,11 +40461,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-95"
+        "r-l95"
       ]
     },
     {
-      "name": "rl-96",
+      "name": "r-l96",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40409,11 +40474,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-96"
+        "r-l96"
       ]
     },
     {
-      "name": "rl-97",
+      "name": "r-l97",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40422,11 +40487,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-97"
+        "r-l97"
       ]
     },
     {
-      "name": "rl-98",
+      "name": "r-l98",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40435,11 +40500,11 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-98"
+        "r-l98"
       ]
     },
     {
-      "name": "rl-99",
+      "name": "r-l99",
       "color": false,
       "scalable": true,
       "tags": [
@@ -40448,7 +40513,7 @@
         "Product-Brands",
         "light",
         "rl",
-        "rl-99"
+        "r-l99"
       ]
     },
     {
@@ -52773,7 +52838,7 @@
       ]
     },
     {
-      "name": "rl-negative",
+      "name": "r-l-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52782,11 +52847,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-negative"
+        "r-l-negative"
       ]
     },
     {
-      "name": "rl-1-negative",
+      "name": "r-l1-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52795,11 +52860,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-1-negative"
+        "r-l1-negative"
       ]
     },
     {
-      "name": "rl-2-negative",
+      "name": "r-l2-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52808,11 +52873,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-2-negative"
+        "r-l2-negative"
       ]
     },
     {
-      "name": "rl-3-negative",
+      "name": "r-l3-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52821,11 +52886,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-3-negative"
+        "r-l3-negative"
       ]
     },
     {
-      "name": "rl-4-negative",
+      "name": "r-l4-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52834,11 +52899,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-4-negative"
+        "r-l4-negative"
       ]
     },
     {
-      "name": "rl-5-negative",
+      "name": "r-l5-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52847,11 +52912,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-5-negative"
+        "r-l5-negative"
       ]
     },
     {
-      "name": "rl-6-negative",
+      "name": "r-l6-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52860,11 +52925,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-6-negative"
+        "r-l6-negative"
       ]
     },
     {
-      "name": "rl-7-negative",
+      "name": "r-l7-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52873,11 +52938,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-7-negative"
+        "r-l7-negative"
       ]
     },
     {
-      "name": "rl-8-negative",
+      "name": "r-l8-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52886,11 +52951,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-8-negative"
+        "r-l8-negative"
       ]
     },
     {
-      "name": "rl-9-negative",
+      "name": "r-l9-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52899,11 +52964,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-9-negative"
+        "r-l9-negative"
       ]
     },
     {
-      "name": "rl-10-negative",
+      "name": "r-l10-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52912,11 +52977,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-10-negative"
+        "r-l10-negative"
       ]
     },
     {
-      "name": "rl-11-negative",
+      "name": "r-l11-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52925,11 +52990,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-11-negative"
+        "r-l11-negative"
       ]
     },
     {
-      "name": "rl-12-negative",
+      "name": "r-l12-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52938,11 +53003,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-12-negative"
+        "r-l12-negative"
       ]
     },
     {
-      "name": "rl-13-negative",
+      "name": "r-l13-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52951,11 +53016,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-13-negative"
+        "r-l13-negative"
       ]
     },
     {
-      "name": "rl-14-negative",
+      "name": "r-l14-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52964,11 +53029,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-14-negative"
+        "r-l14-negative"
       ]
     },
     {
-      "name": "rl-15-negative",
+      "name": "r-l15-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52977,11 +53042,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-15-negative"
+        "r-l15-negative"
       ]
     },
     {
-      "name": "rl-16-negative",
+      "name": "r-l16-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -52990,11 +53055,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-16-negative"
+        "r-l16-negative"
       ]
     },
     {
-      "name": "rl-17-negative",
+      "name": "r-l17-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53003,11 +53068,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-17-negative"
+        "r-l17-negative"
       ]
     },
     {
-      "name": "rl-18-negative",
+      "name": "r-l18-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53016,11 +53081,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-18-negative"
+        "r-l18-negative"
       ]
     },
     {
-      "name": "rl-19-negative",
+      "name": "r-l19-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53029,11 +53094,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-19-negative"
+        "r-l19-negative"
       ]
     },
     {
-      "name": "rl-20-negative",
+      "name": "r-l20-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53042,11 +53107,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-20-negative"
+        "r-l20-negative"
       ]
     },
     {
-      "name": "rl-21-negative",
+      "name": "r-l21-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53055,11 +53120,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-21-negative"
+        "r-l21-negative"
       ]
     },
     {
-      "name": "rl-22-negative",
+      "name": "r-l22-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53068,11 +53133,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-22-negative"
+        "r-l22-negative"
       ]
     },
     {
-      "name": "rl-23-negative",
+      "name": "r-l23-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53081,11 +53146,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-23-negative"
+        "r-l23-negative"
       ]
     },
     {
-      "name": "rl-24-negative",
+      "name": "r-l24-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53094,11 +53159,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-24-negative"
+        "r-l24-negative"
       ]
     },
     {
-      "name": "rl-25-negative",
+      "name": "r-l25-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53107,11 +53172,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-25-negative"
+        "r-l25-negative"
       ]
     },
     {
-      "name": "rl-26-negative",
+      "name": "r-l26-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53120,11 +53185,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-26-negative"
+        "r-l26-negative"
       ]
     },
     {
-      "name": "rl-27-negative",
+      "name": "r-l27-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53133,11 +53198,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-27-negative"
+        "r-l27-negative"
       ]
     },
     {
-      "name": "rl-28-negative",
+      "name": "r-l28-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53146,11 +53211,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-28-negative"
+        "r-l28-negative"
       ]
     },
     {
-      "name": "rl-29-negative",
+      "name": "r-l29-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53159,11 +53224,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-29-negative"
+        "r-l29-negative"
       ]
     },
     {
-      "name": "rl-30-negative",
+      "name": "r-l30-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53172,11 +53237,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-30-negative"
+        "r-l30-negative"
       ]
     },
     {
-      "name": "rl-31-negative",
+      "name": "r-l31-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53185,11 +53250,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-31-negative"
+        "r-l31-negative"
       ]
     },
     {
-      "name": "rl-32-negative",
+      "name": "r-l32-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53198,11 +53263,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-32-negative"
+        "r-l32-negative"
       ]
     },
     {
-      "name": "rl-33-negative",
+      "name": "r-l33-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53211,11 +53276,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-33-negative"
+        "r-l33-negative"
       ]
     },
     {
-      "name": "rl-34-negative",
+      "name": "r-l34-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53224,11 +53289,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-34-negative"
+        "r-l34-negative"
       ]
     },
     {
-      "name": "rl-35-negative",
+      "name": "r-l35-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53237,11 +53302,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-35-negative"
+        "r-l35-negative"
       ]
     },
     {
-      "name": "rl-36-negative",
+      "name": "r-l36-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53250,11 +53315,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-36-negative"
+        "r-l36-negative"
       ]
     },
     {
-      "name": "rl-37-negative",
+      "name": "r-l37-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53263,11 +53328,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-37-negative"
+        "r-l37-negative"
       ]
     },
     {
-      "name": "rl-38-negative",
+      "name": "r-l38-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53276,11 +53341,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-38-negative"
+        "r-l38-negative"
       ]
     },
     {
-      "name": "rl-39-negative",
+      "name": "r-l39-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53289,11 +53354,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-39-negative"
+        "r-l39-negative"
       ]
     },
     {
-      "name": "rl-40-negative",
+      "name": "r-l40-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53302,11 +53367,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-40-negative"
+        "r-l40-negative"
       ]
     },
     {
-      "name": "rl-41-negative",
+      "name": "r-l41-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53315,11 +53380,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-41-negative"
+        "r-l41-negative"
       ]
     },
     {
-      "name": "rl-42-negative",
+      "name": "r-l42-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53328,11 +53393,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-42-negative"
+        "r-l42-negative"
       ]
     },
     {
-      "name": "rl-43-negative",
+      "name": "r-l43-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53341,11 +53406,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-43-negative"
+        "r-l43-negative"
       ]
     },
     {
-      "name": "rl-44-negative",
+      "name": "r-l44-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53354,11 +53419,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-44-negative"
+        "r-l44-negative"
       ]
     },
     {
-      "name": "rl-45-negative",
+      "name": "r-l45-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53367,11 +53432,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-45-negative"
+        "r-l45-negative"
       ]
     },
     {
-      "name": "rl-46-negative",
+      "name": "r-l46-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53380,11 +53445,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-46-negative"
+        "r-l46-negative"
       ]
     },
     {
-      "name": "rl-47-negative",
+      "name": "r-l47-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53393,11 +53458,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-47-negative"
+        "r-l47-negative"
       ]
     },
     {
-      "name": "rl-48-negative",
+      "name": "r-l48-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53406,11 +53471,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-48-negative"
+        "r-l48-negative"
       ]
     },
     {
-      "name": "rl-49-negative",
+      "name": "r-l49-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53419,11 +53484,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-49-negative"
+        "r-l49-negative"
       ]
     },
     {
-      "name": "rl-50-negative",
+      "name": "r-l50-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53432,11 +53497,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-50-negative"
+        "r-l50-negative"
       ]
     },
     {
-      "name": "rl-51-negative",
+      "name": "r-l51-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53445,11 +53510,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-51-negative"
+        "r-l51-negative"
       ]
     },
     {
-      "name": "rl-52-negative",
+      "name": "r-l52-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53458,11 +53523,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-52-negative"
+        "r-l52-negative"
       ]
     },
     {
-      "name": "rl-53-negative",
+      "name": "r-l53-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53471,11 +53536,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-53-negative"
+        "r-l53-negative"
       ]
     },
     {
-      "name": "rl-54-negative",
+      "name": "r-l54-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53484,11 +53549,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-54-negative"
+        "r-l54-negative"
       ]
     },
     {
-      "name": "rl-55-negative",
+      "name": "r-l55-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53497,11 +53562,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-55-negative"
+        "r-l55-negative"
       ]
     },
     {
-      "name": "rl-56-negative",
+      "name": "r-l56-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53510,11 +53575,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-56-negative"
+        "r-l56-negative"
       ]
     },
     {
-      "name": "rl-57-negative",
+      "name": "r-l57-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53523,11 +53588,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-57-negative"
+        "r-l57-negative"
       ]
     },
     {
-      "name": "rl-58-negative",
+      "name": "r-l58-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53536,11 +53601,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-58-negative"
+        "r-l58-negative"
       ]
     },
     {
-      "name": "rl-59-negative",
+      "name": "r-l59-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53549,11 +53614,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-59-negative"
+        "r-l59-negative"
       ]
     },
     {
-      "name": "rl-60-negative",
+      "name": "r-l60-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53562,11 +53627,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-60-negative"
+        "r-l60-negative"
       ]
     },
     {
-      "name": "rl-61-negative",
+      "name": "r-l61-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53575,11 +53640,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-61-negative"
+        "r-l61-negative"
       ]
     },
     {
-      "name": "rl-62-negative",
+      "name": "r-l62-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53588,11 +53653,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-62-negative"
+        "r-l62-negative"
       ]
     },
     {
-      "name": "rl-63-negative",
+      "name": "r-l63-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53601,11 +53666,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-63-negative"
+        "r-l63-negative"
       ]
     },
     {
-      "name": "rl-64-negative",
+      "name": "r-l64-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53614,11 +53679,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-64-negative"
+        "r-l64-negative"
       ]
     },
     {
-      "name": "rl-65-negative",
+      "name": "r-l65-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53627,11 +53692,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-65-negative"
+        "r-l65-negative"
       ]
     },
     {
-      "name": "rl-66-negative",
+      "name": "r-l66-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53640,11 +53705,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-66-negative"
+        "r-l66-negative"
       ]
     },
     {
-      "name": "rl-67-negative",
+      "name": "r-l67-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53653,11 +53718,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-67-negative"
+        "r-l67-negative"
       ]
     },
     {
-      "name": "rl-68-negative",
+      "name": "r-l68-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53666,11 +53731,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-68-negative"
+        "r-l68-negative"
       ]
     },
     {
-      "name": "rl-69-negative",
+      "name": "r-l69-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53679,11 +53744,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-69-negative"
+        "r-l69-negative"
       ]
     },
     {
-      "name": "rl-70-negative",
+      "name": "r-l70-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53692,11 +53757,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-70-negative"
+        "r-l70-negative"
       ]
     },
     {
-      "name": "rl-71-negative",
+      "name": "r-l71-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53705,11 +53770,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-71-negative"
+        "r-l71-negative"
       ]
     },
     {
-      "name": "rl-72-negative",
+      "name": "r-l72-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53718,11 +53783,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-72-negative"
+        "r-l72-negative"
       ]
     },
     {
-      "name": "rl-73-negative",
+      "name": "r-l73-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53731,11 +53796,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-73-negative"
+        "r-l73-negative"
       ]
     },
     {
-      "name": "rl-74-negative",
+      "name": "r-l74-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53744,11 +53809,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-74-negative"
+        "r-l74-negative"
       ]
     },
     {
-      "name": "rl-75-negative",
+      "name": "r-l75-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53757,11 +53822,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-75-negative"
+        "r-l75-negative"
       ]
     },
     {
-      "name": "rl-76-negative",
+      "name": "r-l76-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53770,11 +53835,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-76-negative"
+        "r-l76-negative"
       ]
     },
     {
-      "name": "rl-77-negative",
+      "name": "r-l77-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53783,11 +53848,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-77-negative"
+        "r-l77-negative"
       ]
     },
     {
-      "name": "rl-78-negative",
+      "name": "r-l78-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53796,11 +53861,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-78-negative"
+        "r-l78-negative"
       ]
     },
     {
-      "name": "rl-79-negative",
+      "name": "r-l79-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53809,11 +53874,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-79-negative"
+        "r-l79-negative"
       ]
     },
     {
-      "name": "rl-80-negative",
+      "name": "r-l80-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53822,11 +53887,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-80-negative"
+        "r-l80-negative"
       ]
     },
     {
-      "name": "rl-81-negative",
+      "name": "r-l81-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53835,11 +53900,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-81-negative"
+        "r-l81-negative"
       ]
     },
     {
-      "name": "rl-82-negative",
+      "name": "r-l82-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53848,11 +53913,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-82-negative"
+        "r-l82-negative"
       ]
     },
     {
-      "name": "rl-83-negative",
+      "name": "r-l83-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53861,11 +53926,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-83-negative"
+        "r-l83-negative"
       ]
     },
     {
-      "name": "rl-84-negative",
+      "name": "r-l84-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53874,11 +53939,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-84-negative"
+        "r-l84-negative"
       ]
     },
     {
-      "name": "rl-85-negative",
+      "name": "r-l85-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53887,11 +53952,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-85-negative"
+        "r-l85-negative"
       ]
     },
     {
-      "name": "rl-86-negative",
+      "name": "r-l86-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53900,11 +53965,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-86-negative"
+        "r-l86-negative"
       ]
     },
     {
-      "name": "rl-87-negative",
+      "name": "r-l87-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53913,11 +53978,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-87-negative"
+        "r-l87-negative"
       ]
     },
     {
-      "name": "rl-88-negative",
+      "name": "r-l88-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53926,11 +53991,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-88-negative"
+        "r-l88-negative"
       ]
     },
     {
-      "name": "rl-89-negative",
+      "name": "r-l89-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53939,11 +54004,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-89-negative"
+        "r-l89-negative"
       ]
     },
     {
-      "name": "rl-90-negative",
+      "name": "r-l90-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53952,11 +54017,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-90-negative"
+        "r-l90-negative"
       ]
     },
     {
-      "name": "rl-91-negative",
+      "name": "r-l91-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53965,11 +54030,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-91-negative"
+        "r-l91-negative"
       ]
     },
     {
-      "name": "rl-92-negative",
+      "name": "r-l92-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53978,11 +54043,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-92-negative"
+        "r-l92-negative"
       ]
     },
     {
-      "name": "rl-93-negative",
+      "name": "r-l93-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -53991,11 +54056,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-93-negative"
+        "r-l93-negative"
       ]
     },
     {
-      "name": "rl-94-negative",
+      "name": "r-l94-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -54004,11 +54069,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-94-negative"
+        "r-l94-negative"
       ]
     },
     {
-      "name": "rl-95-negative",
+      "name": "r-l95-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -54017,11 +54082,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-95-negative"
+        "r-l95-negative"
       ]
     },
     {
-      "name": "rl-96-negative",
+      "name": "r-l96-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -54030,11 +54095,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-96-negative"
+        "r-l96-negative"
       ]
     },
     {
-      "name": "rl-97-negative",
+      "name": "r-l97-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -54043,11 +54108,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-97-negative"
+        "r-l97-negative"
       ]
     },
     {
-      "name": "rl-98-negative",
+      "name": "r-l98-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -54056,11 +54121,11 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-98-negative"
+        "r-l98-negative"
       ]
     },
     {
-      "name": "rl-99-negative",
+      "name": "r-l99-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -54069,7 +54134,7 @@
         "Product-Brands",
         "dark",
         "rl",
-        "rl-99-negative"
+        "r-l99-negative"
       ]
     },
     {
