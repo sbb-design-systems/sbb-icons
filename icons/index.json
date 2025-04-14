@@ -150,6 +150,58 @@
       ]
     },
     {
+      "name": "sbb-signet-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sbb",
+        "app",
+        "ui-icons",
+        "Basic",
+        "sbb-signet",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "sbb-signet-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sbb",
+        "app",
+        "ui-icons",
+        "Basic",
+        "sbb-signet",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "sbb-signet-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sbb",
+        "app",
+        "ui-icons",
+        "Basic",
+        "sbb-signet",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "sbb-signet-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sbb",
+        "app",
+        "ui-icons",
+        "Basic",
+        "sbb-signet",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "apple-bag-small",
       "color": true,
       "scalable": false,
