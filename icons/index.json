@@ -29415,6 +29415,83 @@
       ]
     },
     {
+      "name": "sa-wc",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-wc"
+      ]
+    },
+    {
+      "name": "sa-rw",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-rw"
+      ]
+    },
+    {
+      "name": "sa-em",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-em"
+      ]
+    },
+    {
+      "name": "sa-ga",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-ga"
+      ]
+    },
+    {
+      "name": "sa-ka",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-ka"
+      ]
+    },
+    {
+      "name": "sa-sa",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-sa"
+      ]
+    },
+    {
+      "name": "sa-mf",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-mf"
+      ]
+    },
+    {
       "name": "add-stop",
       "color": false,
       "scalable": true,
