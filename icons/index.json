@@ -28315,14 +28315,25 @@
       ]
     },
     {
-      "name": "sa-hf",
+      "name": "sa-ac",
       "color": true,
       "scalable": true,
       "tags": [
         "-",
         "timetable-icons",
         "Attributes",
-        "sa-hf"
+        "sa-ac"
+      ]
+    },
+    {
+      "name": "sa-dc",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-dc"
       ]
     },
     {
