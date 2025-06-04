@@ -11405,6 +11405,28 @@
       ]
     },
     {
+      "name": "message-sms-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ui-icons",
+        "Community",
+        "message-sms",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "message-sms-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ui-icons",
+        "Community",
+        "message-sms",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "avatar-police-small",
       "color": true,
       "scalable": false,
@@ -28268,6 +28290,17 @@
         "timetable-icons",
         "Attributes",
         "sa-gn"
+      ]
+    },
+    {
+      "name": "sa-gw",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-gw"
       ]
     },
     {
