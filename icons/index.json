@@ -29652,7 +29652,7 @@
       ]
     },
     {
-      "name": "missed-connection",
+      "name": "attention",
       "color": false,
       "scalable": true,
       "tags": [
@@ -29660,7 +29660,7 @@
         "timetable-icons",
         "HIM-CUS",
         "light",
-        "missed-connection"
+        "attention"
       ]
     },
     {
@@ -29697,6 +29697,54 @@
         "HIM-CUS",
         "light",
         "reroute"
+      ]
+    },
+    {
+      "name": "attention-hint",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light",
+        "attention-hint"
+      ]
+    },
+    {
+      "name": "disruption-hint",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light",
+        "disruption-hint"
+      ]
+    },
+    {
+      "name": "construction-hint",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light",
+        "construction-hint"
+      ]
+    },
+    {
+      "name": "info-hint",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light",
+        "info-hint"
       ]
     },
     {
