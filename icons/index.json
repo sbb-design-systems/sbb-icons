@@ -1531,6 +1531,72 @@
       ]
     },
     {
+      "name": "camera-two-stars-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "camera",
+        "photography",
+        "photo",
+        "kamera",
+        "fotografie",
+        "foto",
+        "AI",
+        "künstliche",
+        "Intelligenz",
+        "artificial",
+        "intelligence",
+        "ui-icons",
+        "Basic",
+        "camera-two-stars",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "camera-two-stars-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "camera",
+        "photography",
+        "photo",
+        "kamera",
+        "fotografie",
+        "foto",
+        "AI",
+        "künstliche",
+        "Intelligenz",
+        "artificial",
+        "intelligence",
+        "ui-icons",
+        "Basic",
+        "camera-two-stars",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "camera-two-stars-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "camera",
+        "photography",
+        "photo",
+        "kamera",
+        "fotografie",
+        "foto",
+        "AI",
+        "künstliche",
+        "Intelligenz",
+        "artificial",
+        "intelligence",
+        "ui-icons",
+        "Basic",
+        "camera-two-stars",
+        "Size=small"
+      ]
+    },
+    {
       "name": "certificate-ribbon-small",
       "color": true,
       "scalable": false,
