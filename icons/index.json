@@ -7305,6 +7305,22 @@
       ]
     },
     {
+      "name": "atm-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "create",
+        "new",
+        "edit",
+        "bearbeiten",
+        "pen",
+        "ui-icons",
+        "Basic",
+        "atm",
+        "Size=small"
+      ]
+    },
+    {
       "name": "atm-extra-small",
       "color": true,
       "scalable": false,
@@ -16756,6 +16772,22 @@
       ]
     },
     {
+      "name": "ticket-machine-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ticket",
+        "machine",
+        "automat",
+        "ticketautomat",
+        "billettautomat",
+        "ui-icons",
+        "Station",
+        "ticket-machine",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "ticket-machine-ticket-small",
       "color": true,
       "scalable": false,
@@ -16791,25 +16823,6 @@
         "Station",
         "ticket-machine-ticket",
         "Size=medium"
-      ]
-    },
-    {
-      "name": "ticket-machine-ticket-extra-small",
-      "color": true,
-      "scalable": false,
-      "tags": [
-        "ticket",
-        "machine",
-        "automat",
-        "ticketautomat",
-        "billettautomat",
-        "purchase",
-        "kaufen",
-        "kauf",
-        "ui-icons",
-        "Station",
-        "ticket-machine-ticket",
-        "Size=extra-small"
       ]
     },
     {
@@ -17040,7 +17053,7 @@
       ]
     },
     {
-      "name": "umbrella-glove-question-mark-extra-small",
+      "name": "suitcase-question-mark-small",
       "color": true,
       "scalable": false,
       "tags": [
@@ -17048,7 +17061,20 @@
         "found",
         "ui-icons",
         "Station",
-        "umbrella-glove-question-mark",
+        "suitcase-question-mark",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "suitcase-question-mark-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "lost",
+        "found",
+        "ui-icons",
+        "Station",
+        "suitcase-question-mark",
         "Size=extra-small"
       ]
     },
@@ -23918,6 +23944,23 @@
       ]
     },
     {
+      "name": "scooter-profile-sign-parking-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "stroller",
+        "kinderwagen",
+        "kind",
+        "child",
+        "family",
+        "familie",
+        "ui-icons",
+        "Transport",
+        "scooter-profile-sign-parking",
+        "Size=small"
+      ]
+    },
+    {
       "name": "scooter-profile-sign-parking-extra-small",
       "color": true,
       "scalable": false,
@@ -23932,6 +23975,23 @@
         "Transport",
         "scooter-profile-sign-parking",
         "Size=extra-small"
+      ]
+    },
+    {
+      "name": "bike-microscooter-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "stroller",
+        "kinderwagen",
+        "kind",
+        "child",
+        "family",
+        "familie",
+        "ui-icons",
+        "Transport",
+        "bike-microscooter",
+        "Size=small"
       ]
     },
     {
