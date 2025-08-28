@@ -69,3 +69,5 @@ jobs:
 
       - name: Dispatch digital.sbb.ch build
         run: gh workflow run "Continuous Integration" --repo=sbb-design-systems/digital.sbb.ch
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
