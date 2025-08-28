@@ -17,15 +17,14 @@ on:
         default: "update icons"
         type: string
 
-permissions:
-  actions: write
-  contents: write
-  id-token: write # Required for OIDC
-
 jobs:
   publish:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
+    permissions:
+      actions: write
+      contents: write
+      id-token: write # Required for OIDC
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -67,6 +66,11 @@ jobs:
       - name: Upload icons and indexes to s3
         run: aws s3 cp . s3://cloudfront-icon-cdn-backend-esta-web-prod --recursive --exclude "*" --include "icons/*.svg" --include "icons/index.json"
 
+  dispatch:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    needs: publish
+    steps:
       - name: Dispatch digital.sbb.ch build
         run: gh workflow run "Continuous Integration" --repo=sbb-design-systems/digital.sbb.ch
         env:
