@@ -66,19 +66,3 @@ jobs:
       - name: Upload icons and indexes to s3
         run: aws s3 cp . s3://cloudfront-icon-cdn-backend-esta-web-prod --recursive --exclude "*" --include "icons/*.svg" --include "icons/index.json"
 
-  dispatch:
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    needs: publish
-    steps:
-      - name: Dispatch digital.sbb.ch build
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            await github.rest.repos.createDispatchEvent({
-                owner: context.repo.owner,
-                repo: 'digital.sbb.ch',
-                event_type: 'build-and-deploy',
-            })
-
