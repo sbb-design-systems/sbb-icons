@@ -18,6 +18,7 @@ on:
         type: string
 
 permissions:
+  contents: write
   id-token: write # Required for OIDC
 
 jobs:
@@ -36,7 +37,7 @@ jobs:
 
       - name: "Release: Set git user"
         run: |
-          git config --global user.name '${{ github.actor }}'
+          git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
 
       - name: Extract icons
