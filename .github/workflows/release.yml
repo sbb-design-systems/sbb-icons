@@ -72,6 +72,13 @@ jobs:
     needs: publish
     steps:
       - name: Dispatch digital.sbb.ch build
-        run: gh workflow run "Continuous Integration" --repo=sbb-design-systems/digital.sbb.ch
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.repos.createDispatchEvent({
+                owner: context.repo.owner,
+                repo: 'digital.sbb.ch',
+                event_type: 'build-and-deploy',
+            })
+
