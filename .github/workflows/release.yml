@@ -68,12 +68,4 @@ jobs:
         run: aws s3 cp . s3://cloudfront-icon-cdn-backend-esta-web-prod --recursive --exclude "*" --include "icons/*.svg" --include "icons/index.json"
 
       - name: Dispatch digital.sbb.ch build
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            await github.rest.repos.createDispatchEvent({
-                owner: context.repo.owner,
-                repo: 'digital.sbb.ch',
-                event_type: 'build-and-deploy',
-            })
+        run: gh workflow run "Continuous Integration" --repo=sbb-design-systems/digital.sbb.ch
