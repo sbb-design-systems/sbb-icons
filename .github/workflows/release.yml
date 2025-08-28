@@ -18,6 +18,7 @@ on:
         type: string
 
 permissions:
+  actions: write
   contents: write
   id-token: write # Required for OIDC
 
