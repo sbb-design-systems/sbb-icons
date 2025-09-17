@@ -15305,6 +15305,22 @@
       ]
     },
     {
+      "name": "swisspass-temporary-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "transition",
+        "swisspass",
+        "wandel",
+        "umwandel",
+        "übertrag",
+        "ui-icons",
+        "Ticket",
+        "swisspass-temporary",
+        "Size=large"
+      ]
+    },
+    {
       "name": "ticket-day-small",
       "color": true,
       "scalable": false,
