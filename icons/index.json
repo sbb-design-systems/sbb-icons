@@ -2817,6 +2817,36 @@
       ]
     },
     {
+      "name": "dinosaur-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "dino",
+        "dinosaurier",
+        "old",
+        "Brachiosaurus",
+        "ui-icons",
+        "Basic",
+        "dinosaur",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "dinosaur-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "dino",
+        "dinosaurier",
+        "old",
+        "Brachiosaurus",
+        "ui-icons",
+        "Basic",
+        "dinosaur",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "dog-small",
       "color": true,
       "scalable": false,
@@ -6151,6 +6181,38 @@
       ]
     },
     {
+      "name": "sign-no-entry-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "stop",
+        "halt",
+        "verboten",
+        "einfahrt",
+        "verboten",
+        "ui-icons",
+        "Basic",
+        "sign-no-entry",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "sign-no-entry-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "stop",
+        "halt",
+        "verboten",
+        "einfahrt",
+        "verboten",
+        "ui-icons",
+        "Basic",
+        "sign-no-entry",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "smartphone-shaking-small",
       "color": true,
       "scalable": false,
@@ -6673,6 +6735,38 @@
         "Basic",
         "tree",
         "Size=extra-small"
+      ]
+    },
+    {
+      "name": "triceratops-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "dino",
+        "dinosaurier",
+        "tier",
+        "animal",
+        "old",
+        "ui-icons",
+        "Basic",
+        "triceratops",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "triceratops-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "dino",
+        "dinosaurier",
+        "tier",
+        "animal",
+        "old",
+        "ui-icons",
+        "Basic",
+        "triceratops",
+        "Size=medium"
       ]
     },
     {
@@ -22600,6 +22694,63 @@
       ]
     },
     {
+      "name": "freight-wagon-container-pair-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "kombinierter",
+        "verkehr",
+        "cargo",
+        "freight",
+        "wagon",
+        "container",
+        "truck",
+        "lastwagen",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-container-pair",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "freight-wagon-container-pair-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "kombinierter",
+        "verkehr",
+        "cargo",
+        "freight",
+        "wagon",
+        "container",
+        "truck",
+        "lastwagen",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-container-pair",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "freight-wagon-container-pair-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "kombinierter",
+        "verkehr",
+        "cargo",
+        "freight",
+        "wagon",
+        "container",
+        "truck",
+        "lastwagen",
+        "ui-icons",
+        "Transport",
+        "freight-wagon-container-pair",
+        "Size=large"
+      ]
+    },
+    {
       "name": "freight-wagon-truck-container-small",
       "color": true,
       "scalable": false,
@@ -27799,6 +27950,63 @@
         "ui-icons",
         "Projectspecific",
         "train-profile-signal",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "train-profile-signal-microphone-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "noise",
+        "detection",
+        "BLM",
+        "ZKE",
+        "bahn",
+        "lärm",
+        "monitoring",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "train-profile-signal-microphone",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "train-profile-signal-microphone-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "noise",
+        "detection",
+        "BLM",
+        "ZKE",
+        "bahn",
+        "lärm",
+        "monitoring",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "train-profile-signal-microphone",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "train-profile-signal-microphone-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "noise",
+        "detection",
+        "BLM",
+        "ZKE",
+        "bahn",
+        "lärm",
+        "monitoring",
+        "",
+        "ui-icons",
+        "Projectspecific",
+        "train-profile-signal-microphone",
         "Size=large"
       ]
     },
