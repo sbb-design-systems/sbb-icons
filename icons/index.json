@@ -19488,6 +19488,57 @@
       ]
     },
     {
+      "name": "flask-test-tube-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "flask",
+        "test",
+        "tube",
+        "experimental",
+        "experiment",
+        "testing",
+        "ui-icons",
+        "Hardware",
+        "flask-test-tube",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "flask-test-tube-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "flask",
+        "test",
+        "tube",
+        "experimental",
+        "experiment",
+        "testing",
+        "ui-icons",
+        "Hardware",
+        "flask-test-tube",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "flask-test-tube-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "flask",
+        "test",
+        "tube",
+        "experimental",
+        "experiment",
+        "testing",
+        "ui-icons",
+        "Hardware",
+        "flask-test-tube",
+        "Size=small"
+      ]
+    },
+    {
       "name": "cloud-small",
       "color": true,
       "scalable": false,
