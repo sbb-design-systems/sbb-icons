@@ -44650,6 +44650,54 @@
       ]
     },
     {
+      "name": "fr",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "fr"
+      ]
+    },
+    {
+      "name": "iry",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "iry"
+      ]
+    },
+    {
+      "name": "fb",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "fb"
+      ]
+    },
+    {
+      "name": "est",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "est"
+      ]
+    },
+    {
       "name": "bex-negative",
       "color": false,
       "scalable": true,
@@ -58141,7 +58189,7 @@
       ]
     },
     {
-      "name": "ire",
+      "name": "ire-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -58150,11 +58198,11 @@
         "Product-Brands",
         "dark",
         "ire",
-        "ire"
+        "ire-negative"
       ]
     },
     {
-      "name": "ire-1",
+      "name": "ire-1-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -58163,11 +58211,11 @@
         "Product-Brands",
         "dark",
         "ire",
-        "ire-1"
+        "ire-1-negative"
       ]
     },
     {
-      "name": "ire-2",
+      "name": "ire-2-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -58176,11 +58224,11 @@
         "Product-Brands",
         "dark",
         "ire",
-        "ire-2"
+        "ire-2-negative"
       ]
     },
     {
-      "name": "ire-3",
+      "name": "ire-3-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -58189,11 +58237,11 @@
         "Product-Brands",
         "dark",
         "ire",
-        "ire-3"
+        "ire-3-negative"
       ]
     },
     {
-      "name": "ire-4",
+      "name": "ire-4-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -58202,11 +58250,11 @@
         "Product-Brands",
         "dark",
         "ire",
-        "ire-4"
+        "ire-4-negative"
       ]
     },
     {
-      "name": "ire-5",
+      "name": "ire-5-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -58215,11 +58263,11 @@
         "Product-Brands",
         "dark",
         "ire",
-        "ire-5"
+        "ire-5-negative"
       ]
     },
     {
-      "name": "ire-6",
+      "name": "ire-6-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -58228,11 +58276,11 @@
         "Product-Brands",
         "dark",
         "ire",
-        "ire-6"
+        "ire-6-negative"
       ]
     },
     {
-      "name": "ire-7",
+      "name": "ire-7-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -58241,11 +58289,11 @@
         "Product-Brands",
         "dark",
         "ire",
-        "ire-7"
+        "ire-7-negative"
       ]
     },
     {
-      "name": "ire-8",
+      "name": "ire-8-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -58254,11 +58302,11 @@
         "Product-Brands",
         "dark",
         "ire",
-        "ire-8"
+        "ire-8-negative"
       ]
     },
     {
-      "name": "ire-9",
+      "name": "ire-9-negative",
       "color": false,
       "scalable": true,
       "tags": [
@@ -58267,7 +58315,55 @@
         "Product-Brands",
         "dark",
         "ire",
-        "ire-9"
+        "ire-9-negative"
+      ]
+    },
+    {
+      "name": "fr-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "fr-negative"
+      ]
+    },
+    {
+      "name": "iry-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "iry-negative"
+      ]
+    },
+    {
+      "name": "fb-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "fb-negative"
+      ]
+    },
+    {
+      "name": "est-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "est-negative"
       ]
     }
   ]
