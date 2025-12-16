@@ -2513,6 +2513,48 @@
       ]
     },
     {
+      "name": "copyright-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "copyright",
+        "copy",
+        "legal",
+        "ui-icons",
+        "Basic",
+        "copyright",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "copyright-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "copyright",
+        "copy",
+        "legal",
+        "ui-icons",
+        "Basic",
+        "copyright",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "copyright-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "copyright",
+        "copy",
+        "legal",
+        "ui-icons",
+        "Basic",
+        "copyright",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "croissant-small",
       "color": true,
       "scalable": false,
@@ -17978,6 +18020,40 @@
       ]
     },
     {
+      "name": "path-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "path",
+        "way",
+        "waypoints",
+        "pfad",
+        "weg",
+        "wegpunkte",
+        "ui-icons",
+        "Location",
+        "path",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "path-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "path",
+        "way",
+        "waypoints",
+        "pfad",
+        "weg",
+        "wegpunkte",
+        "ui-icons",
+        "Location",
+        "path",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "street-location-pin-small",
       "color": true,
       "scalable": false,
@@ -29096,6 +29172,69 @@
         "Projectspecific",
         "wara-warn-app",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "avatar-train-staff-das-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "train",
+        "staff",
+        "personal",
+        "mitarbeiter",
+        "personel",
+        "uniform",
+        "person",
+        "branche",
+        "neutral",
+        "das",
+        "ui-icons",
+        "Projectspecific",
+        "avatar-train-staff-das",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "avatar-train-staff-das-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "train",
+        "staff",
+        "personal",
+        "mitarbeiter",
+        "personel",
+        "uniform",
+        "person",
+        "branche",
+        "neutral",
+        "das",
+        "ui-icons",
+        "Projectspecific",
+        "avatar-train-staff-das",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "avatar-train-staff-das-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "train",
+        "staff",
+        "personal",
+        "mitarbeiter",
+        "personel",
+        "uniform",
+        "person",
+        "branche",
+        "neutral",
+        "das",
+        "ui-icons",
+        "Projectspecific",
+        "avatar-train-staff-das",
+        "Size=large"
       ]
     },
     {
