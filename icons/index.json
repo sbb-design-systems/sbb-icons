@@ -9384,6 +9384,58 @@
       ]
     },
     {
+      "name": "branch-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "git",
+        "branch",
+        "ui-icons",
+        "Arrow",
+        "branch",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "branch-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "git",
+        "branch",
+        "ui-icons",
+        "Arrow",
+        "branch",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "merge-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "git",
+        "merge",
+        "ui-icons",
+        "Arrow",
+        "merge",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "merge-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "git",
+        "merge",
+        "ui-icons",
+        "Arrow",
+        "merge",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "button-power-small",
       "color": true,
       "scalable": false,
