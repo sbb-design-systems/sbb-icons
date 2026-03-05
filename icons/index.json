@@ -9410,7 +9410,7 @@
       ]
     },
     {
-      "name": "merge-small",
+      "name": "git-merge-small",
       "color": true,
       "scalable": false,
       "tags": [
@@ -9418,12 +9418,12 @@
         "merge",
         "ui-icons",
         "Arrow",
-        "merge",
+        "git-merge",
         "Size=small"
       ]
     },
     {
-      "name": "merge-medium",
+      "name": "git-merge-medium",
       "color": true,
       "scalable": false,
       "tags": [
@@ -9431,7 +9431,7 @@
         "merge",
         "ui-icons",
         "Arrow",
-        "merge",
+        "git-merge",
         "Size=medium"
       ]
     },
@@ -28673,6 +28673,33 @@
       ]
     },
     {
+      "name": "cloud-particles-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "IoT",
+        "cloud",
+        "wolke",
+        "gas",
+        "density",
+        "dichte",
+        "concentration",
+        "konzentration",
+        "particles",
+        "partikel",
+        "ratio",
+        "verhältnis",
+        "volume",
+        "volumen",
+        "mass",
+        "masse",
+        "ui-icons",
+        "Projectspecific",
+        "cloud-particles",
+        "Size=large"
+      ]
+    },
+    {
       "name": "cloud-co2-small",
       "color": true,
       "scalable": false,
@@ -29287,6 +29314,38 @@
         "Projectspecific",
         "avatar-train-staff-das",
         "Size=large"
+      ]
+    },
+    {
+      "name": "train-cockpit-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "train",
+        "view",
+        "traindriver",
+        "das",
+        "personal",
+        "ui-icons",
+        "Projectspecific",
+        "train-cockpit",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "train-cockpit-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "train",
+        "view",
+        "traindriver",
+        "das",
+        "personal",
+        "ui-icons",
+        "Projectspecific",
+        "train-cockpit",
+        "Size=medium"
       ]
     },
     {
