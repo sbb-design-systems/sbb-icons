@@ -10143,6 +10143,42 @@
       ]
     },
     {
+      "name": "cloud-disabled-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "disconnected",
+        "wolke",
+        "signal",
+        "asynchron",
+        "getrennt",
+        "deaktiviert",
+        "deactivated",
+        "ui-icons",
+        "Status",
+        "cloud-disabled",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "cloud-disabled-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "disconnected",
+        "wolke",
+        "signal",
+        "asynchron",
+        "getrennt",
+        "deaktiviert",
+        "deactivated",
+        "ui-icons",
+        "Status",
+        "cloud-disabled",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "exclamation-point-small",
       "color": true,
       "scalable": false,
