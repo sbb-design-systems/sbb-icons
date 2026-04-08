@@ -59125,6 +59125,102 @@
         "dark",
         "est-negative"
       ]
+    },
+    {
+      "name": "logo-iry",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Logos",
+        "positive",
+        "logo-iry"
+      ]
+    },
+    {
+      "name": "logo-fb",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Logos",
+        "positive",
+        "logo-fb"
+      ]
+    },
+    {
+      "name": "logo-fr",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Logos",
+        "positive",
+        "logo-fr"
+      ]
+    },
+    {
+      "name": "logo-est",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Logos",
+        "positive",
+        "logo-est"
+      ]
+    },
+    {
+      "name": "logo-iry-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Logos",
+        "negative",
+        "logo-iry-negative"
+      ]
+    },
+    {
+      "name": "logo-fb-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Logos",
+        "negative",
+        "logo-fb-negative"
+      ]
+    },
+    {
+      "name": "logo-fr-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Logos",
+        "negative",
+        "logo-fr-negative"
+      ]
+    },
+    {
+      "name": "logo-est-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Logos",
+        "negative",
+        "logo-est-negative"
+      ]
     }
   ]
 }
