@@ -59134,7 +59134,7 @@
         "-",
         "timetable-icons",
         "Logos",
-        "positive",
+        "light",
         "logo-iry"
       ]
     },
@@ -59146,7 +59146,7 @@
         "-",
         "timetable-icons",
         "Logos",
-        "positive",
+        "light",
         "logo-fb"
       ]
     },
@@ -59158,7 +59158,7 @@
         "-",
         "timetable-icons",
         "Logos",
-        "positive",
+        "light",
         "logo-fr"
       ]
     },
@@ -59170,7 +59170,7 @@
         "-",
         "timetable-icons",
         "Logos",
-        "positive",
+        "light",
         "logo-est"
       ]
     },
@@ -59182,7 +59182,7 @@
         "-",
         "timetable-icons",
         "Logos",
-        "negative",
+        "dark",
         "logo-iry-negative"
       ]
     },
@@ -59194,7 +59194,7 @@
         "-",
         "timetable-icons",
         "Logos",
-        "negative",
+        "dark",
         "logo-fb-negative"
       ]
     },
@@ -59206,7 +59206,7 @@
         "-",
         "timetable-icons",
         "Logos",
-        "negative",
+        "dark",
         "logo-fr-negative"
       ]
     },
@@ -59218,7 +59218,7 @@
         "-",
         "timetable-icons",
         "Logos",
-        "negative",
+        "dark",
         "logo-est-negative"
       ]
     }
