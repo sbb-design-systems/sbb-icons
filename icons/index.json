@@ -29859,6 +29859,238 @@
       ]
     },
     {
+      "name": "pearlchain-with-cross-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "route",
+        "details",
+        "trip",
+        "details",
+        "TMS",
+        "ui-icons",
+        "Projectspecific",
+        "pearlchain-with-cross",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "pearlchain-with-cross-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "route",
+        "details",
+        "trip",
+        "details",
+        "TMS",
+        "ui-icons",
+        "Projectspecific",
+        "pearlchain-with-cross",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "train-control-centre-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tcc",
+        "bz",
+        "betrieb",
+        "zentrale",
+        "pollegio",
+        "tms",
+        "betriebszentrale",
+        "control-room",
+        "leitstelle",
+        "leitstand",
+        "ui-icons",
+        "Projectspecific",
+        "train-control-centre",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "train-control-centre-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "tcc",
+        "bz",
+        "betrieb",
+        "zentrale",
+        "pollegio",
+        "tms",
+        "betriebszentrale",
+        "control-room",
+        "leitstelle",
+        "leitstand",
+        "ui-icons",
+        "Projectspecific",
+        "train-control-centre",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "square-circle-pentagon-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sector",
+        "sektor",
+        "tms",
+        "disponent",
+        "dispatcher",
+        "dbv",
+        "ui-icons",
+        "Projectspecific",
+        "square-circle-pentagon",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "square-circle-pentagon-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "sector",
+        "sektor",
+        "tms",
+        "disponent",
+        "dispatcher",
+        "dbv",
+        "ui-icons",
+        "Projectspecific",
+        "square-circle-pentagon",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "circle-pentagon-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bedien",
+        "bereich",
+        "bedienbereich",
+        "tms",
+        "fdl",
+        "zvl",
+        "ui-icons",
+        "Projectspecific",
+        "circle-pentagon",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-pentagon-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "bedien",
+        "bereich",
+        "bedienbereich",
+        "tms",
+        "fdl",
+        "zvl",
+        "ui-icons",
+        "Projectspecific",
+        "circle-pentagon",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "circle-t-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "station",
+        "tms",
+        "iltis",
+        "ui-icons",
+        "Projectspecific",
+        "circle-t",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-t-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "station",
+        "tms",
+        "iltis",
+        "ui-icons",
+        "Projectspecific",
+        "circle-t",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "circle-with-four-lines-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "codepoint",
+        "tms",
+        "codepunkt",
+        "zn-feld",
+        "gleisfeld",
+        "ui-icons",
+        "Projectspecific",
+        "circle-with-four-lines",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "circle-with-four-lines-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "codepoint",
+        "tms",
+        "codepunkt",
+        "zn-feld",
+        "gleisfeld",
+        "ui-icons",
+        "Projectspecific",
+        "circle-with-four-lines",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "hexagon-circle-t-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "iltis",
+        "cell",
+        "zelle",
+        "tms",
+        "ui-icons",
+        "Projectspecific",
+        "hexagon-circle-t",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "hexagon-circle-t-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "iltis",
+        "cell",
+        "zelle",
+        "tms",
+        "ui-icons",
+        "Projectspecific",
+        "hexagon-circle-t",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "sa-1",
       "color": true,
       "scalable": true,
