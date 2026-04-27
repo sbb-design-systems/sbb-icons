@@ -9356,7 +9356,7 @@
       ]
     },
     {
-      "name": "list-arrow-right-small",
+      "name": "list-arrow-left-small",
       "color": true,
       "scalable": false,
       "tags": [
@@ -9365,12 +9365,12 @@
         "menü",
         "ui-icons",
         "Arrow",
-        "list-arrow-right",
+        "list-arrow-left",
         "Size=small"
       ]
     },
     {
-      "name": "list-arrow-right-medium",
+      "name": "list-arrow-left-medium",
       "color": true,
       "scalable": false,
       "tags": [
@@ -9379,7 +9379,7 @@
         "menü",
         "ui-icons",
         "Arrow",
-        "list-arrow-right",
+        "list-arrow-left",
         "Size=medium"
       ]
     },
