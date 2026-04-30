@@ -23475,6 +23475,21 @@
       ]
     },
     {
+      "name": "microscooter-profile-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "microscooter",
+        "scotter",
+        "trotti",
+        "trottinett",
+        "ui-icons",
+        "Transport",
+        "microscooter-profile",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "microscooter-profile-power-plug-small",
       "color": true,
       "scalable": false,
@@ -23510,6 +23525,25 @@
         "Transport",
         "microscooter-profile-power-plug",
         "Size=medium"
+      ]
+    },
+    {
+      "name": "microscooter-profile-power-plug-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "microscooter",
+        "scotter",
+        "trotti",
+        "trottinett",
+        "electric",
+        "e",
+        "elektrisch",
+        "e-scooter",
+        "ui-icons",
+        "Transport",
+        "microscooter-profile-power-plug",
+        "Size=extra-small"
       ]
     },
     {
