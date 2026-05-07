@@ -12064,6 +12064,36 @@
       ]
     },
     {
+      "name": "open-source-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "open",
+        "open",
+        "source",
+        "source",
+        "ui-icons",
+        "Community",
+        "open-source",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "open-source-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "open",
+        "open",
+        "source",
+        "source",
+        "ui-icons",
+        "Community",
+        "open-source",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "avatar-police-small",
       "color": true,
       "scalable": false,
