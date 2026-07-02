@@ -4419,6 +4419,40 @@
       ]
     },
     {
+      "name": "heart-pulse-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heart",
+        "pulse",
+        "herz",
+        "schlag",
+        "gesundheit",
+        "health",
+        "ui-icons",
+        "Basic",
+        "heart-pulse",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "heart-pulse-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "heart",
+        "pulse",
+        "herz",
+        "schlag",
+        "gesundheit",
+        "health",
+        "ui-icons",
+        "Basic",
+        "heart-pulse",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "hierarchy-small",
       "color": true,
       "scalable": false,
@@ -9432,6 +9466,158 @@
         "ui-icons",
         "Arrow",
         "git-merge",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-left-down-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "arrow",
+        "move",
+        "before",
+        "previously",
+        "back",
+        "links",
+        "zurück",
+        "zuvor",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "chevron-left-down",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-left-down-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "left",
+        "arrow",
+        "move",
+        "before",
+        "previously",
+        "back",
+        "links",
+        "zurück",
+        "zuvor",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "chevron-left-down",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-right-down-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "arrow",
+        "move",
+        "next",
+        "after",
+        "enter",
+        "rechts",
+        "pfeil",
+        "bewegen",
+        "nächste",
+        "ui-icons",
+        "Arrow",
+        "chevron-right-down",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-right-down-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "right",
+        "arrow",
+        "move",
+        "next",
+        "after",
+        "enter",
+        "rechts",
+        "pfeil",
+        "bewegen",
+        "nächste",
+        "ui-icons",
+        "Arrow",
+        "chevron-right-down",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-left-up-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "chevron",
+        "up",
+        "arrow",
+        "pfeil",
+        "hoch",
+        "oben",
+        "ui-icons",
+        "Arrow",
+        "chevron-left-up",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-left-up-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "chevron",
+        "up",
+        "arrow",
+        "pfeil",
+        "hoch",
+        "oben",
+        "ui-icons",
+        "Arrow",
+        "chevron-left-up",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "chevron-right-up-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "down",
+        "arrow",
+        "chevron",
+        "unten",
+        "runter",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "chevron-right-up",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "chevron-right-up-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "down",
+        "arrow",
+        "chevron",
+        "unten",
+        "runter",
+        "pfeil",
+        "ui-icons",
+        "Arrow",
+        "chevron-right-up",
         "Size=medium"
       ]
     },
@@ -25597,6 +25783,44 @@
         "Leisure",
         "music-rock-hand-gesture",
         "Size=large"
+      ]
+    },
+    {
+      "name": "palm-tree-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "reise",
+        "unbezahlt",
+        "urlaub",
+        "ferien",
+        "travel",
+        "unpaid",
+        "holidays",
+        "",
+        "ui-icons",
+        "Leisure",
+        "palm-tree",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "palm-tree-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "reise",
+        "unbezahlt",
+        "urlaub",
+        "ferien",
+        "travel",
+        "unpaid",
+        "holidays",
+        "",
+        "ui-icons",
+        "Leisure",
+        "palm-tree",
+        "Size=medium"
       ]
     },
     {
