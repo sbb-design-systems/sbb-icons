@@ -11936,6 +11936,38 @@
       ]
     },
     {
+      "name": "speech-bubble-sparkles-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "speech",
+        "bubble",
+        "communication",
+        "ai",
+        "chat",
+        "ui-icons",
+        "Community",
+        "speech-bubble-sparkles",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "speech-bubble-sparkles-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "speech",
+        "bubble",
+        "communication",
+        "ai",
+        "chat",
+        "ui-icons",
+        "Community",
+        "speech-bubble-sparkles",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "speech-bubble-exclamation-point-small",
       "color": true,
       "scalable": false,
@@ -21452,6 +21484,34 @@
       ]
     },
     {
+      "name": "playback-speed-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "geschwindigkeit",
+        "speed",
+        "wiedergabe",
+        "ui-icons",
+        "Audio",
+        "playback-speed",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "playback-speed-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "geschwindigkeit",
+        "speed",
+        "wiedergabe",
+        "ui-icons",
+        "Audio",
+        "playback-speed",
+        "Size=medium"
+      ]
+    },
+    {
       "name": "airplane-small",
       "color": true,
       "scalable": false,
@@ -30533,6 +30593,20 @@
       ]
     },
     {
+      "name": "sa-bp",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "catering",
+        "service",
+        "essen",
+        "food",
+        "timetable-icons",
+        "Attributes",
+        "sa-bp"
+      ]
+    },
+    {
       "name": "sa-br",
       "color": true,
       "scalable": true,
@@ -31380,6 +31454,17 @@
       ]
     },
     {
+      "name": "sa-sg",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-sg"
+      ]
+    },
+    {
       "name": "sa-sh",
       "color": true,
       "scalable": true,
@@ -31424,17 +31509,6 @@
       ]
     },
     {
-      "name": "sa-sp",
-      "color": true,
-      "scalable": true,
-      "tags": [
-        "-",
-        "timetable-icons",
-        "Attributes",
-        "sa-sp"
-      ]
-    },
-    {
       "name": "sa-sn",
       "color": true,
       "scalable": true,
@@ -31443,6 +31517,17 @@
         "timetable-icons",
         "Attributes",
         "sa-sn"
+      ]
+    },
+    {
+      "name": "sa-sp",
+      "color": true,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Attributes",
+        "sa-sp"
       ]
     },
     {
@@ -32210,6 +32295,102 @@
         "HIM-CUS",
         "light",
         "utilization-none"
+      ]
+    },
+    {
+      "name": "attention-framed",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light-framed-red",
+        "attention-framed"
+      ]
+    },
+    {
+      "name": "construction-framed",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light-framed-red",
+        "construction-framed"
+      ]
+    },
+    {
+      "name": "disruption-framed",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light-framed-red",
+        "disruption-framed"
+      ]
+    },
+    {
+      "name": "info-framed",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light-framed-red",
+        "info-framed"
+      ]
+    },
+    {
+      "name": "attention-hint-framed",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light-framed-blue",
+        "attention-hint-framed"
+      ]
+    },
+    {
+      "name": "construction-hint-framed",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light-framed-blue",
+        "construction-hint-framed"
+      ]
+    },
+    {
+      "name": "disruption-hint-framed",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light-framed-blue",
+        "disruption-hint-framed"
+      ]
+    },
+    {
+      "name": "info-hint-framed",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "HIM-CUS",
+        "light-framed-blue",
+        "info-hint-framed"
       ]
     },
     {
@@ -35036,8 +35217,47 @@
         "timetable-icons",
         "Product-Brands",
         "light",
-        "Frame 4",
+        "pe",
         "pe"
+      ]
+    },
+    {
+      "name": "pe-2",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "pe",
+        "pe-2"
+      ]
+    },
+    {
+      "name": "pe-12",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "pe",
+        "pe-12"
+      ]
+    },
+    {
+      "name": "pe-22",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "pe",
+        "pe-22"
       ]
     },
     {
@@ -35049,8 +35269,60 @@
         "timetable-icons",
         "Product-Brands",
         "light",
-        "Frame 4",
+        "pe",
         "pe-30"
+      ]
+    },
+    {
+      "name": "pe-32",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "pe",
+        "pe-32"
+      ]
+    },
+    {
+      "name": "pe-42",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "pe",
+        "pe-42"
+      ]
+    },
+    {
+      "name": "pe-52",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "pe",
+        "pe-52"
+      ]
+    },
+    {
+      "name": "pe-62",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "pe",
+        "pe-62"
       ]
     },
     {
@@ -35062,8 +35334,34 @@
         "timetable-icons",
         "Product-Brands",
         "light",
-        "Frame 4",
+        "pe",
         "pe-72"
+      ]
+    },
+    {
+      "name": "pe-82",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "pe",
+        "pe-82"
+      ]
+    },
+    {
+      "name": "pe-92",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "pe",
+        "pe-92"
       ]
     },
     {
@@ -48710,6 +49008,45 @@
       ]
     },
     {
+      "name": "pe-2-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-2-negative"
+      ]
+    },
+    {
+      "name": "pe-12-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-12-negative"
+      ]
+    },
+    {
+      "name": "pe-22-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-22-negative"
+      ]
+    },
+    {
       "name": "pe-30-negative",
       "color": false,
       "scalable": true,
@@ -48723,6 +49060,58 @@
       ]
     },
     {
+      "name": "pe-32-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-32-negative"
+      ]
+    },
+    {
+      "name": "pe-42-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-42-negative"
+      ]
+    },
+    {
+      "name": "pe-52-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-52-negative"
+      ]
+    },
+    {
+      "name": "pe-62-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-62-negative"
+      ]
+    },
+    {
       "name": "pe-72-negative",
       "color": false,
       "scalable": true,
@@ -48733,6 +49122,32 @@
         "dark",
         "pe",
         "pe-72-negative"
+      ]
+    },
+    {
+      "name": "pe-82-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-82-negative"
+      ]
+    },
+    {
+      "name": "pe-92-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "pe",
+        "pe-92-negative"
       ]
     },
     {
