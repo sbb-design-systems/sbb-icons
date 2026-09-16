@@ -46276,6 +46276,18 @@
       ]
     },
     {
+      "name": "es",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "light",
+        "es"
+      ]
+    },
+    {
       "name": "bex-negative",
       "color": false,
       "scalable": true,
@@ -60059,6 +60071,18 @@
         "Product-Brands",
         "dark",
         "est-negative"
+      ]
+    },
+    {
+      "name": "es-negative",
+      "color": false,
+      "scalable": true,
+      "tags": [
+        "-",
+        "timetable-icons",
+        "Product-Brands",
+        "dark",
+        "es-negative"
       ]
     },
     {
