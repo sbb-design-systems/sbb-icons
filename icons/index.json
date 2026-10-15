@@ -5667,6 +5667,90 @@
       ]
     },
     {
+      "name": "magnifying-glass-sparkles-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "magnifying",
+        "glass",
+        "search",
+        "find",
+        "lupe",
+        "künstlich",
+        "intelligent",
+        "intelligenz",
+        "ai",
+        "artificial",
+        "ui-icons",
+        "Basic",
+        "magnifying-glass-sparkles",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "magnifying-glass-sparkles-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "magnifying",
+        "glass",
+        "search",
+        "find",
+        "lupe",
+        "künstlich",
+        "intelligent",
+        "intelligenz",
+        "ai",
+        "artificial",
+        "ui-icons",
+        "Basic",
+        "magnifying-glass-sparkles",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "magnifying-glass-sparkles-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "magnifying",
+        "glass",
+        "search",
+        "find",
+        "lupe",
+        "künstlich",
+        "intelligent",
+        "intelligenz",
+        "ai",
+        "artificial",
+        "ui-icons",
+        "Basic",
+        "magnifying-glass-sparkles",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "magnifying-glass-sparkles-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "magnifying",
+        "glass",
+        "search",
+        "find",
+        "lupe",
+        "künstlich",
+        "intelligent",
+        "intelligenz",
+        "ai",
+        "artificial",
+        "ui-icons",
+        "Basic",
+        "magnifying-glass-sparkles",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "medal-small",
       "color": true,
       "scalable": false,
