@@ -3828,6 +3828,66 @@
       ]
     },
     {
+      "name": "filter-filled-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "filter",
+        "funnel",
+        "sort",
+        "refine",
+        "ui-icons",
+        "Basic",
+        "filter-filled",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "filter-filled-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "filter",
+        "funnel",
+        "sort",
+        "refine",
+        "ui-icons",
+        "Basic",
+        "filter-filled",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "filter-filled-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "filter",
+        "funnel",
+        "sort",
+        "refine",
+        "ui-icons",
+        "Basic",
+        "filter-filled",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "filter-filled-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "filter",
+        "funnel",
+        "sort",
+        "refine",
+        "ui-icons",
+        "Basic",
+        "filter-filled",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "filter-x-small",
       "color": true,
       "scalable": false,
@@ -32884,6 +32944,147 @@
         "ui-icons",
         "Leisure",
         "mountain-lake-sun",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "highland-cattle-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cow",
+        "kuh",
+        "highland-cattle",
+        "nature",
+        "animal",
+        "tier",
+        "ui-icons",
+        "Leisure",
+        "highland-cattle",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "highland-cattle-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cow",
+        "kuh",
+        "highland-cattle",
+        "nature",
+        "animal",
+        "tier",
+        "ui-icons",
+        "Leisure",
+        "highland-cattle",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "highland-cattle-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "cow",
+        "kuh",
+        "highland-cattle",
+        "nature",
+        "animal",
+        "tier",
+        "ui-icons",
+        "Leisure",
+        "highland-cattle",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "maple-leaf-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ahorn",
+        "leaf",
+        "maple",
+        "nature",
+        "blatt",
+        "ui-icons",
+        "Leisure",
+        "maple-leaf",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "maple-leaf-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ahorn",
+        "leaf",
+        "maple",
+        "nature",
+        "blatt",
+        "ui-icons",
+        "Leisure",
+        "maple-leaf",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "maple-leaf-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ahorn",
+        "leaf",
+        "maple",
+        "nature",
+        "blatt",
+        "ui-icons",
+        "Leisure",
+        "maple-leaf",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "wizard-hat-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hut",
+        "hat",
+        "leisure",
+        "ui-icons",
+        "Leisure",
+        "wizard-hat",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "wizard-hat-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hut",
+        "hat",
+        "leisure",
+        "ui-icons",
+        "Leisure",
+        "wizard-hat",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "wizard-hat-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "hut",
+        "hat",
+        "leisure",
+        "ui-icons",
+        "Leisure",
+        "wizard-hat",
         "Size=large"
       ]
     },
