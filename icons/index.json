@@ -8777,6 +8777,70 @@
       ]
     },
     {
+      "name": "ghost-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ghost",
+        "geist",
+        "hidden",
+        "hide",
+        "incognito",
+        "ui-icons",
+        "Basic",
+        "ghost",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "ghost-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ghost",
+        "geist",
+        "hidden",
+        "hide",
+        "incognito",
+        "ui-icons",
+        "Basic",
+        "ghost",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "ghost-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ghost",
+        "geist",
+        "hidden",
+        "hide",
+        "incognito",
+        "ui-icons",
+        "Basic",
+        "ghost",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "ghost-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "ghost",
+        "geist",
+        "hidden",
+        "hide",
+        "incognito",
+        "ui-icons",
+        "Basic",
+        "ghost",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "arrow-circle-small",
       "color": true,
       "scalable": false,
