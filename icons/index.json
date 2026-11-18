@@ -5263,6 +5263,70 @@
       ]
     },
     {
+      "name": "link-broken-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "link",
+        "chain",
+        "url",
+        "connection",
+        "verbindung",
+        "ui-icons",
+        "Basic",
+        "link-broken",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "link-broken-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "link",
+        "chain",
+        "url",
+        "connection",
+        "verbindung",
+        "ui-icons",
+        "Basic",
+        "link-broken",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "link-broken-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "link",
+        "chain",
+        "url",
+        "connection",
+        "verbindung",
+        "ui-icons",
+        "Basic",
+        "link-broken",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "link-broken-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "link",
+        "chain",
+        "url",
+        "connection",
+        "verbindung",
+        "ui-icons",
+        "Basic",
+        "link-broken",
+        "Size=extra-small"
+      ]
+    },
+    {
       "name": "link-external-small",
       "color": true,
       "scalable": false,
@@ -13256,6 +13320,62 @@
         "ui-icons",
         "Status",
         "clipboard-tick",
+        "Size=extra-small"
+      ]
+    },
+    {
+      "name": "clipboard-note-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "clipboard",
+        "copy",
+        "pase",
+        "ui-icons",
+        "Status",
+        "clipboard-note",
+        "Size=small"
+      ]
+    },
+    {
+      "name": "clipboard-note-medium",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "clipboard",
+        "copy",
+        "pase",
+        "ui-icons",
+        "Status",
+        "clipboard-note",
+        "Size=medium"
+      ]
+    },
+    {
+      "name": "clipboard-note-large",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "clipboard",
+        "copy",
+        "pase",
+        "ui-icons",
+        "Status",
+        "clipboard-note",
+        "Size=large"
+      ]
+    },
+    {
+      "name": "clipboard-note-extra-small",
+      "color": true,
+      "scalable": false,
+      "tags": [
+        "clipboard",
+        "copy",
+        "pase",
+        "ui-icons",
+        "Status",
+        "clipboard-note",
         "Size=extra-small"
       ]
     },
